@@ -1,0 +1,4 @@
+﻿Pace,Feet/Minute,Miles/Hour,Miles/Day,Effect
+Fast,400,4,30,-5 to passive Perception score
+Normal,300,3,24,
+Slow,200,2,18,Can use stealth

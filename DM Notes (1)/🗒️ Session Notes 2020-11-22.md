@@ -1,0 +1,29 @@
+# Session Notes 2020-11-22
+
+Date: November 22, 2020
+
+# Announcements
+
+- Vince needs to leave around 12:30 PT so we will likely end early depending on timing.
+- What are folks planning for thanksgiving/christmas? If we keep regular schedule, we would play the day before xmas eve and the 27th, which is the Sunday after xmas. We could take a holiday break or continue playing as normal.
+- Desire for a themed christmas episode? Nick could do something similar to the Halloween episode. Yes christmas oneshot - maybe revive characters from halloween oneshot or do new ones
+
+# Notes
+
+- The orcs make quick work of the two kobolds, and four more appear from out of the dark in the direction of the main path. They then head over in the direction of the owlbear and Jeralla's wagon. Once the orcs get close, have the gang make stealth checks opposed by active perception rolls.
+- If there's no engagement, the orcs investigate the owlbear and are surprised when it lunges at them from inside the cage. They also go over to the wagon and attempt to enter, activating the skull trap. They may cast aside the book, which haughtily picks itself up from the ground and shakes itself off. Once the trap activates, they leave in a hurry to report back to Narle.
+- At some point prior to the Orcs leaving, the rest of the tribe lights their banners up on the cliffside. These lights are visible to everyone in the party, and Hagar will recognize the burning banners immediately. He remembers scattering the remainder of the tribe after the Company of the Raven brought down Grod.
+- Once the shock troops leave, the gang is free to explore the camp on their own, but time is short. Sirge knows that the claws set up a signal pyre in the statue's cup, but Sahnd will discourage this plan because he believes (correctly) that Jeralla could return at any time.
+- When there is a free moment, Sirge asks the gang where they are bound and if he can tag along to Phlan to "meet his contact". He doesn't reveal what he knows about the cult's plans unless a character shows him proof of being associated with the harpers, in which case he reveals the info in [Sirge Wintermelt](../Characters/Sirge%20Wintermelt/%21index.md) .
+- Sahnd urges the gang to heed his counsel and prepare to ambush the Claws on their return. His plan is to hide in the cave and wait for the orcs to make their move, springing the trap for maximum effect. If the gang work together, they can push the survivors back towards the river, forcing any into it down the waterfall to their deaths. If they are overwhelmed, they can retreat into the cave.
+- Sirge isn't a fan of Sahnd, but grudgingly agrees to this plan. He has no desire to finish the job with Jeralla, though - only to get to Phlan as quickly as possible to deliver the intelligence he is carrying.
+- If the gang agrees to this plan, allow them to take up defensive positions wherever they wish. Hardly five minutes after they do so (unless they dally), the Claws return from the Patriot camp, laden with looted goods.
+- "Kobolds swagger their way into the firelight, chattering and yapping excitedly as they wave around the blades scavenged from the opposing camp. As the light illuminates their forms, you can see that many are...changed. One is covered in strange red fur, while another has nearly translucent skin, revealing the organs beneath. As you watch, the shadows of some of the small forms move on their own, twisting and wheeling about the campsite."
+- "Their winged brethren are hauling canvas sacks filled with rations and equipment, which they dump unceremoniously on the ground surrounding the cookfire. As the din of the triumphant kobolds reaches a fever pitch, you hear a snarling, grating voice rise above the others. The voice suddenly booms from the direction of the wagon and echoes around the cliffside. The Claws of Tiamat quickly fall silent. The voice continues uttering words in a sharp tone." [peregrine hears, in draconic: something is in the trees! get ready!]
+
+# The Battle
+
+- "The burning fires, once visible far away on the cliffside, are now weaving just beyond the camp. You can hear the roar of voices and stamp of footsteps coming down the path from the woods. Jeralla steps into the firelight, her red scales glittering as the flames reflect off of them. She mutters something under her breath as a shimmering layer of arcane energy wraps around her, barking a command to the kobolds picking up their scavenged weapons."
+- "The first wave of orcs burst from the shadows, clad in hammered metal masks shaped into dragon-like forms. As soon as they emerge, Jeralla is ready, bringing up her hands and shouting as a massive thunderclap rocks the cliffside. The force of the wave throws two of the orcs backwards, but more surge out of the darkness into the camp. Rocks and metal objects rain down from the sky as the winged kobolds begin their assault."
+- "Suddenly, several of the claws tents seem to have caught fire at once. In a matter of minutes, the camp is engulfed in smoke from the burning fabric and leather. Hulking forms weave in and out of the light, punctuated by the screams and cries of kobolds and shouting of the orcs. The red-scaled form of Jeralla, clutching at her side, appears headed towards the cave and away from the fire. At the same time, thundering footfalls sound from off to your right, as a hulking form atop a massive four-legged beast emerges from the smoke to interpose itself between yourself and Jeralla, blocking her path. Strapped to the back of the beast is a huge flag, about half of which has burned away."
+- At this point, roll initiative (use Narle's for both him and the worg) and start combat. Allow the gang to jump in at any point they wish to; Sirge and Sahnd will not intervene until they do. Keep the combat even by having orcs or winged kobolds show up to damage the leaders.

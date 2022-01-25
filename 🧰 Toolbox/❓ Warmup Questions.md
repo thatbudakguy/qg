@@ -1,0 +1,64 @@
+# Warmup Questions
+
+- ~~In your character’s opinion, what quality should EVERY adventurer have?~~
+- ~~What would your character say to the party with their dying breath?~~
+- ~~What’s one errand your character has to take care of the next time they’re in town?~~
+- ~~What is your character’s retirement plan?~~
+- ~~For what would your character sell their soul?~~
+- ~~What is one thing your character has changed their mind about?~~
+- ~~What song would your character sing at karaoke night?~~
+- ~~What is something your character does every morning?~~
+- What is the best meal your character has ever eaten?
+- What is the best gift your character has ever received?
+- What is one title your character has earned that makes them proud?
+- Your character stands at the front gate of Candlekeep, the Castle of Tomes.
+However, you can’t get in until you provide the monks with a rare book
+or piece of writing. What did you bring?
+- With which school of magic does your character most identify?
+- What is your character’s favorite thing about adventuring?
+- What did your character last dream about?
+- What is one thing your character prefers to do alone? (don’t be gross please)
+- When is the last time your character was cold to someone else?
+- When is the last time your character failed?
+- Does your character see the mug as half empty or half full? Also, what’s in the mug?
+- Is your character a clean person or a messy person?
+- What does your character do on their day off?
+- How would the other party members describe your character?
+- What is your character’s pet peeve?
+- If your character had a warning label, what would it say?
+- What is one of your character’s fondest memories?
+- What is one rule your character never breaks?
+- A new adventurer approaches your character, asking them for wisdom. What
+lesson does your character impart to the young adventurer?
+- Describe one of your character’s childhood friends.
+- If your character could ask an all-knowing entity one question, what would it be?
+- If your character was an animal, which one would they be?
+- Where was your character educated? If they didn’t have a formal education, how were they taught?
+- What is one secret the rest of the party doesn’t know about your character?
+- When was the last time your character said, “I love you,” if ever?
+- What is your character’s catch phrase?
+- When’s the last time your character has used a set of tools?
+- What deity does your character worship? How do they show their devotion?
+- Tell me about one trinket your character possesses.
+- What is one thing your character admires about someone else in the party?
+- How does your character relax after a hard day’s work?
+- What does your character see when they look in the mirror?
+- If your character was an author, what would be the title of their first book?
+- Describe your character’s personal hell.
+- What’s one thing that always makes your character smile?
+- What is one way that someone can earn your character’s trust?
+- What is one thing your character has seen or done that no one would ever believe?
+- What is one goal your character hopes to accomplish in the next year?
+- What does your character look like when they get angry?
+- What is one sacrifice your character has made?
+- Describe your character’s aesthetic in one word.
+- Your character is given a magic hourglass. With it, they can change one
+decision they made in the past year. Which one do they pick?
+- What’s one thing your character does when no one is around?
+- How would you describe your character’s fashion style?
+- What is one way that your character shows they care about someone else?
+- What is something your character doesn’t have enough of?
+- If your character was a drink, what would they be and why?
+- How can someone new earn your character’s trust?
+- If your character were to start a business, what would it be? What would make it special?
+- What is one thing your character has seen or done that no one would ever believe?

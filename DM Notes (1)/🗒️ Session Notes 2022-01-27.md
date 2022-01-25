@@ -1,0 +1,63 @@
+# Session Notes 2022-01-27
+
+Date: January 27, 2022
+
+# Todo
+
+- [x]  pick from [Warmup Questions](../%F0%9F%A7%B0%20Toolbox/%E2%9D%93%20Warmup%20Questions.md)
+- [ ]  prep bang
+- [ ]  check timeline
+- [ ]  OBS setup (episode title, time indicator)
+
+# Announcements
+
+- announcements
+
+# Warmup
+
+<aside>
+❓ What is something your character does every morning?
+
+</aside>
+
+# Recap
+
+[Castle Crashers](../Adventure%20Log/%F0%9F%8F%97%EF%B8%8F%20Castle%20Crashers.md) 
+
+# Bang
+
+## Eastpeak
+
+<aside>
+🎵 “Mountain Pass” from tabletop audio?
+
+</aside>
+
+it’s the highest mountain in the 12 Shaeradim, surrounding Evereska — about 6000ft high.
+
+> You stand in a snowfield just above the treeline, in the frigid mountain air. Downslope to your right, wind-tossed scrub pines march into the distance, disappearing into miles of maze-like foothills. Stretching out past them until it fills the horizon is a vast and featureless desert, so huge that there is only one place in the world it could possibly be: Anauroch, the Great Sand Sea. Five hundred miles to the east, across the horizon, the mighty river Tesh begins as a trickle high in the Desertsmouth mountains. Another two hundred miles east and the river has becoming the mighty torrent that feeds the western edge of the Moonsea at Zhentil Keep, two days away from Phlan. On your left, only a few hundred feet away, is the mountain’s peak. As you tumbled through the air, you caught a glimpse of a high valley beyond, surrounded on all sides by steep hills — but this area of Faerun is wild and unfamiliar, aptly called the Forgotten Forest. What lies on the other side is anyone’s guess.
+> 
+
+<aside>
+👁️ Call for perception checks once they crest the hill; high results see the Feather Cavalry headed their way in addition to details of Skyreach.
+
+</aside>
+
+### Clues
+
+Perception checks reveal the following:
+
+- there’s a huge city on a cliff at least 1000ft high in the center of the valley, several miles away
+- the city is surrounded by miles of what looks to be terraced farmland and orchards, some of which has already begun to show green with spring
+- skyreach castle has crash landed into the valley floor on its west side, creating a massive crater and scattering debris for miles in every direction.
+- some large winged creatures are lifting off from the city and beginning to wheel their way up on currents out into the vale. many are headed to the castle, but others are peeling off and heading in the direction of the surrounding hills, moving in pairs.
+
+### Developments
+
+- If the PCs allow the creatures to meet them, they will be met by Captain of the Feather Cavalry [Rhaellen Darthammel](../Characters/Rhaellen%20Darthammel.md) and two other cavalry members (scouts) on griffons.
+- If the PCs attempt to flee, the Griffons pursue and attack, dashing them to the ground to deal nonlethal damage. Rhaellen will call out in broken common “Do not run! You surrounded!”
+- Rhaellen speaks Elvish to Declan and asks if he speaks Elvish, telling him to translate if Declan replies in the affirmative.
+- Rhaellen takes the PC’s weapons, paying particular attention to the Black Dragon Mask and Hazirawn.
+- Once the PCs make their way down to the floor of the vale and approach the cliff, Rhaellen has them blindfolded in order to traverse the cliff tunnels up to the city. They emerge in the Hall of the High Hunt in [Evereska](../Adventures/%F0%9F%8C%84%20Evereska/%21index.md).
+
+# Notes

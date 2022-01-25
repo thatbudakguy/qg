@@ -1,0 +1,19 @@
+# Session Notes 2020-07-08
+
+Date: July 8, 2020
+
+- the man holding the lantern is Bricklan Marth, who runs the docks at Kabel's hill sending produce downstream to Phlan.
+- Bricklan is a human male with thinning blond hair in a well-worn corduroy jacket. He has a slight paunch and wears a few gaudy rings, symbolizing his relative wealth within the tiny community of Kabel's hill. He speaks with a slight drawl and enunciates his wh- in a Texan manner (hwhat).
+- He has a dog named Spur (wolf statistics) with him and is carrying a bullseye lantern. He's fairly suspicious of the PCs initially.
+- "Now I don't know hwhat kinda business you folks're at out here in our road, but I'm worried t'ain't the typa goings-on that I could tell my dearly departed grandmama, if you catch my meanin."
+- Bricklan suspects the PCs may be burying a body or covering up some other crime. "I seen you city folk takin' dead bodies out here, covering tracks. Hard times down inside the walls; we all heard about it. You can't bring that stuff out here no more."
+- If the PCs dally, he demands to see the covered item on Hagar's back. "Hwhat's my dog smellin' then?"
+- If the PCs convince him there's nothing to worry about, he relaxes a little. "Seems I owe you folks an apology. Things have been extra tight 'round here this past tenday, hwhat with the harvest and losin' one of our own."
+- When the PCs reach the city walls, they face another test: the Black Fist sentries posted at the gate.
+- They approach the small door set into the wall to the side of the large wrought-iron portcullis, which is currently lowered. Torches are burning in the chilly night atop the battlements, but there's not much movement to be seen.
+- A Black Fist sentry sleepily slurs "'s your business in the city?"
+- At this hour, Mantor's library is closed.
+- watch order: Declan, peregrine, calcey, hagar
+- jeny leaves a doll with them shaped like Declan with his hair; Declan keeps it
+- return scale to lord sage, he stows it in secret compartment
+- meet buyer at laughing goblin, accept mission

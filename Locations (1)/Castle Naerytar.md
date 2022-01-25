@@ -1,0 +1,11 @@
+# Castle Naerytar
+
+Created: March 21, 2021 10:12 AM
+
+Over a century ago, a half-elf wizard built a castle at the edge of the Mere of Dead Men. He lived there a relatively short time before the growing swamp flowed past the castle on all sides and made the location too remote for even his taste. After the structure sat abandoned for years, a group of astrologers called the Academy of Stargazers claimed it. They built an observatory into the top level of the keep, where they installed a piece of magic equipment called the farseer of Illusk. But the astrologers vanished mysteriously after a few years.
+
+After the disappearance of the astrologers, the castle again fell into disuse. It was built to withstand its cold, watery environment, so the encroaching water hasn't undermined the walls or flooded the dungeon. Over decades of abandonment, however, it filled with debris and attracted many unpleasant dwellers. Then Rezmir happened upon the castle on one of her trips into the mere to study and negotiate with the black dragon Voaraghamanthar. Rezmir suspected the castle could become a useful stronghold for her, being located so conveniently close to the lair of a black dragon. She explored the structure, cleared the giant spiders out of the tower, and forged an alliance with the nearby tribe of bullywugs.
+
+During that time, the half-dragon was still thinking of the castle simply as a fortified hideout. When she discovered the portal in the dungeon and learned that it connected to an abandoned lodge in the Graypeak Mountains, a new thought took shape. Lugging large amounts of treasure fifteen miles through the mere would not be easy, but if it cut 700 miles of wagon transport out of the picture, it would be worth the difficulty—especially if bullywugs and lizardfolk did all the hard work. Rezmir laid claim to both structures, turned the Graypeak Mountain hunting lodge over to a trusted Cult of the Dragon associate (a half-elf named Talis who now despises Rezmir-see episode 7), and set about making Castle Naerytar an essential hub in the cult's treasure-amassing activity in the North.
+
+Through diplomacy and intimidation, and by leveraging the influence of Voaraghamanthar with the monstrous creatures of the mere, Rezmir created an uneasy alliance in the Mere of Dead Men and brought her vision into reality.

@@ -1,0 +1,38 @@
+# Timeline
+
+- **1344** **DR** (the Year of Moonfall)
+    - In an event known as the Retreat, the Elves of Faerun begin to flee Cormanthor for Evermeet.
+    - In the wake of the departure of the Elves, the Voadkyn of Semberholme band together to form a loose agricultural society.
+- **1372 DR** (the Year of Wild Magic)
+    - The Shadovar return from the plane of shadows, beginning their assault on Faerun and attempting to revive the legacy of Netheril. The floating city of Thultanthar assaults the Cormyrean town of Tilverton, reducing it to a strange concave place of shadows and darkness known as the Tilverton Scar.
+    - Logi, an older Voadkyn with arcane powers, begins to believe that his people have been abandoned by the gods and must devote their energy to worshipping Chauntea in order to be brought to the Great Mother's Garden and escape a coming cataclysm.
+- **1374 DR** (the Year of Lightning Storms)
+    - The Retreat comes to a close, with over 90% of the Elves of Toril having left Faerun for Evermeet. All of Cormanthor, including Semberholme, is largely abandoned.
+    - Seiveril Miritar of the Council of Evermeet declares his intention to lead a crusade back to Faerun to reclaim Myth Drannor from the Daemonfey (fey'ri; Elven tieflings) currently occupying the city. On 20 Ches, Seiveril resurrects the fallen warrior Fflar Starbrow Melruth in order to lead an assault on Myth Drannor.
+    - Seiveril's crusade retakes defends Evereska and retakes Myth Drannor, inaugurating a new era of Elvish settlement in the city. His army includes the powerful mage Araevin Teshurr, betrothed to Seiveril's daughter Ilsevele.
+    - Araevin assembles the three pieces of the Gatekeeper's Crystal and uses it to disassemble and take control of the corrupted *mythal* surrounding Myth Drannor, and Seiveril leads his army into battle. In the fight to retake the city, Seiveril falls, but the Elves are ultimately the victors.
+    - Ilsevele becomes the new Coronal of Myth Drannor, assuming de facto leadership of the elves of all Faerun.
+- **1377 DR** (the Year of the Haunting)
+    - The Srinshee reappears in Myth Drannor to offer the Ruler's Blade, one of the three great Elven blades, to Coronal Ilsevele. It is the first time the blade has been seen in Faerun in over 700 years.
+- **1385 DR** (the Year of Blue Flame)
+    - Mystra, in her latest incarnation as the human wizard Midnight, is murdered by the god Cyric, touching off the Spellplague.
+    - Wild magic effects rock Semberholme, twisting and distorting the ancient Elven magic intended to protect the forest. Logi's prophecy of a cataclysm seemingly confirmed, membership in the cult of Diaspor grows quickly.
+    - Many of Mystra's Chosen die, and continue to do so over the intervening years – among them Manshoon, the Simbul, and Symrustar Auglamyr.
+    - Melandrach returns to the Misty Forest to assume rulership of its Elvish court, taking his two children and leaving Isevele alone to struggle with the effects of the Spellplague in Myth Drannor.
+- **1479 DR** (the Year of the Ageless One)
+    - Elminster feels Mystra's presence calling to him. He absorbs the energy of the remaining chosen as they die and passes it on to the weakened Mystra. She asks him to find new Chosen for her.
+    - As Mystra's magic returns to the world, the effects of the Spellplague manifesting in Semberholme begin to wane. Sensing that the promised apocalypse may have been a lie, Voadkyn begin to leave the Diaspor cult.
+    - At the Dragonriders Club in Suzail, the capital of Cormyr, the noble heir to house Delcastle named Arclath falls in love with a mask dancer named Amarune Whitewave, who is a distant descendant of Elminster.
+- **1487 DR** (the Year of the Rune Lords Triumphant)
+    - The Second Sundering comes to an end. Many deities thought perished are now confirmed to have returned, Mystra among them.
+    - Membership in the Diaspor cult has reached its nadir, with only a small core of 30-40 Voadkyn remaining.
+    - Summoning the remaining Chosen to aid him, Elminster is joined in Myth Drannor by Storm Silverhand, one of the Seven Sisters. Storm brings with her Amarune Whitewave, perhaps to be made Chosen, and Amarune's betrothed Arclath Delcastle.
+    - Amarune voluntarily allows Elminster to possess her body. Suspicious of the old sage and angered at his beloved's flightiness, for a time Arclath wanders the Elven city. The Coronal Ilsevele, lonely and sensing his indecision, begins a brief liaison. Declan is conceived.
+    - Riven with grief, paranoid, and unable to conceal the source of her shame, Ilsevele prays to Mystra for guidance. Mystra explains that she will accept the child as the newest Chosen, for he shows uncommon potential, but that he must remain a secret until she can safely contact him for fear that the powerful Szass Tam would seek him out and kidnap him to power the fell energies of the Doomvault.
+    - The coronal fears what will happen when her baby is delivered half-elvish. She seeks the counsel of Elminster, who advises her to seek shelter with a group of trusted advisors in Semberholme and pray to Mystra for guidance.
+    - As Thultanthar reaches Myth Drannor, a massive mercenary army hired by the Shade Prince Telamont Tanthul begins its assault on the city. The elves are outnumbered 20 to 1, but fight fiercely to defend their city. It is a ruse: Telamont's desire is to seize the *mythal* of Myth Drannor, its protective shield, and give it to the goddess Shar in her bid to supplant Mystra.
+    - The Netherese city crashes directly into Myth Drannor, brought down by Elminster. The old elven city is once again reduced to ruin. In the chaos, Arclath dies. Elminster binds Tanthul to Thultanthar itself using the weave, and Tanthul is brought down and destroyed with city. The *baelnorns* of Myth Drannor, on orders from the Srinshee, had created a protective cone of magic around the Tree of Souls, which saved it from destruction.
+    - In Semberholme, Declan is born. A short time later, the child is discovered by Logi wreathed in a strange silver fire that flickers around its bundle of cloth.
+- **1509 DR** (the Year of the Lion Rampant)
+    - Late Tarsakh: Declan overhears the voadkyn Cekvog, Drodcaros, and Logi talking late at night and learns that his life has been a lie. Logi, the architect of the myths concerning Declan, resolves to quash the dissent of Ginkaos, one of the remaining skeptics of Declan. Logi also reveals that he found Declan as a baby wrapped in cloth. Devastated, Declan leaves the cult before the annual Greengrass festival can be celebrated at the end of the month. Ravaged by guilt, Logi scapegoats Ginkaos for the boy's departure and the old Voadkyn is exiled from Diaspor shortly afterward.
+    - Eleint: Wandering the world in search of answers, Declan travels to Phlan and meets Hagar and Calcey at Valhingen Graveyard.

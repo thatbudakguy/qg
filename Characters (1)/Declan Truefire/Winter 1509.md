@@ -1,0 +1,49 @@
+# Winter 1509
+
+<aside>
+🎵 Play "peaceful music" from generic playlist here.
+
+</aside>
+
+As the early winter snows grow more frequent, you find yourself spending more and more time in the company of Aya Glenmiir, staying up until odd hours over tea discussing the theory of the Weave, that ever-present source of arcane power. You find that the old half-elf's face lights up when she begins to speak of it, as though she were in continual amazement at the wonders of her own children. Inevitably, your conversations turn to the practice of metamagic, a skill that has shaped your relationship to magic since before you could read.
+
+Aya's initial recommendation that you begin with the history of metamagic turns out to be somewhat of a dead end. Armed with the knowledge that Sammaster, the infamous founder of the Cult of the Dragon, was a central figure in the research and promulgation of metamagic, you started by enlisting the services of scribe master Cassra Brandywine. Curiously, over many candlelit nights and days in the depths of Mantor's Library, the only references that you and Cassra are able to turn up are in divine texts, not arcane ones.
+
+It turns out that most of the records of Sammaster's life have been lost to modern-day Faerun. Like Khelben Arunsun, Sammaster appears to have made a pact early in his life to serve as a Chosen of Mystra – a divine executor of the will of the Lady of Mysteries, patron of all magic. But this bond was shattered, and Sammaster fell from grace. The writings of the clerics of Azuth, patron deity of Wizards and servant of Mystra, described Sammaster's punishment, but not his crime – every mention of the mage and his works were to be stricken from all magely books, scrolls, and histories. Yet clearly, some traces remain.
+
+One evening in Nightal, as the wind is howling around the corners of the buildings of Scholar's Square, Aya has an epiphany. Leosin had spoken to her in the past of Harper archives kept in Berdusk, at the Twilight Hall, a longtime Harper base of operations in the Western Heartlands. Perhaps Harper records had escaped destruction at the hands of the vengeful Azuth. Aya promises to contact Leosin that very evening.
+
+The reply is confusing, and long in coming, for it is written out physically and "delivered" via the Harper network of spellcasters. Leosin, it seems, has been absent from Berdusk for some time, on an operation that was not authorized by the Harpers of Twilight Hall. Aya's contact politely asks if she has any information on his whereabouts. Enclosed with the message is a thick, leather-bound tome that the writer explains is part of the personal writings of Belhuar Thantarth, former leader of the Harpers at Twilight Hall in the middle and late 14th century.
+
+Putting aside her worry and suspicion about Leosin to pore over the papers with you, Aya is able to pick out a report commissioned by high harper Thantarth on the origins and whereabouts of Sammaster. Written in 1370 by the Harper oracle Veshal Questa, the report links Sammaster to several important early examples of metamagic that he evidently invented, including historic spells named *augmentation, dilation,* and *far reaching* that date back to the early 9th century. Questa was clearly a historian of the arcane, for the descriptions are detailed enough to enable you to begin experimenting on your own.
+
+Sammaster was able to make such advances by isolating what he called the "warp" component of the weave, a structural element that defined how arcane magic would act on the "threads" of reality – what we now refer to as metamagic. Through intense study, he perfected interaction with the "warp" on its own, leading to a mastery of metamagic that required exclusively verbal components to cast, and could be used alongside other arcane magic almost as an afterthought. Up to that point, the study of metamagic had been mostly focused on isolating elements of material components.
+
+As you explore Sammaster's "warp", you find yourself drawn to the young student of the Art, a character Questa describes as troubled but deeply committed to self-improvement. Despite poor health and a nervous disposition, Sammaster achieved the power of an Archmage before he had reached the age of 40. Questa's notes, based on the writing of the itinerant mage Mnethos who trained Sammaster, paint a picture of a man fanatically devoted to Mystra, whom he reverently referred to as "his Lady".
+
+Sammaster's devotion was rewarded when he neared the age of 50, when his most fervent desires were realized. Sometime in the late 9th century, Mystra herself appeared to the mage on the borders of the forest of Cormanthor, asking him if he would consent to carry a part of her divine power inside him as recognition of his devotion to the advancement of metamagic. Weeping with joy, Sammaster ascended to become the first of Mystra's Chosen since the Seven Sisters, the powerful immortal daughters of the goddess of magic. 
+
+Questa's best guess as to what happened next is conjecture...but exceedingly fascinating conjecture. Sammaster, it could not be denied, was smitten with his Lady. Reflecting on the time he had shared with his idol, the mage concluded that his deep and romantic love for Mystra was officially requited. Of course, the Lady of Mysteries loved Sammaster as she does all who revere her gift – perhaps somewhat more, as one of her chosen – but he did not hold her heart in his hands. Sammaster's failure to recognize this would be his downfall.
+
+On Mystra's advice, Sammaster traveled to work with Elminster, the fabled Sage of Shadowdale, one of the oldest living wizards in Faerun. The famously cranky Elminster ended the apprenticeship abruptly after only three seasons with one of his trademark backhanded remarks – had Sammaster even considered the fact that Mystra, a god, obviously did not care romantically for one of her mortal subjects? The seed of resentment planted by this careless question lingered in Sammaster's mind.
+
+Sammaster's long descent into madness saw him obsessed with pushing the boundaries of metamagic, experimenting relentlessly on himself and others to see how far he could strain his gifts as Chosen. Questa guesses that this period was marked by his first contact with Algashon, a former mage turned priest of Bane, the Black Lord, who began to whisper foul ideas into the ears of the aging genius. Sammaster also began a series of translations of important historical works at this time, publishing his famous edition of the *Chronicle of Things to Come* containing the proclamation that "...dead dragons shall rule the world entire".
+
+Plotting to weaken Sammaster so that he could siphon away the powers of the Chosen, Algashon warped the mage's mind and turned him against the Seven Sisters, convincing him that they plotted against not only Sammaster but Mystra herself. Playing on Sammaster's guilt and grief, Algashon arranged for a confrontation with Alustriel Silverhand, Sammaster's one-time lover and fellow Chosen, in the year 875.
+
+Caught off guard by Sammaster's violent assault, Alustriel had no choice but to summon more of the Chosen to her aid – her sister Laeral Silverhand and Laeral's husband the Blackstaff, Khelben Arunsun. The so-called Battle of the Chosen raged for multiple days and nights, wreaking havoc upon the landscape and temporarily blinding Algashon, who could do nothing but lurk in the shadows awaiting its outcome and studying the awesome powers of the Chosen. Questa guesses that the area of barren hills now known as the Evermoors may be a permanent scar upon the land from this very battle.
+
+When the dust settled that day, Sammaster lay dead. Algashon, assuming leadership of the small group of followers the two had accumulated, set about building the foundation of a religious organization using the *Tome of the Dragon*, the volume Sammaster had authored describing the creation process of a Dracolich. The rest, of course, is history.
+
+As you deepen your relationship to metamagic, you find yourself returning to this story again and again. What went through the minds of the four Chosen who assembled on that day, knowing that at least one of them would not live to see another sunrise? Returning to high harper Thantarth's writings, you continue to mine them for more information about these seemingly all-powerful children of the gods.
+
+<aside>
+🔎 Make an investigation check.
+
+</aside>
+
+During one of the interminable snowstorm nights of Hammer, the month of midwinter, you are curled up in a hammock in the servant's quarters of Denlor's tower when you find it. The same year Thantarth commisioned the report about Sammaster, in 1370, he convened several powerful Harpers for a tribunal to decide the fate of two traitors. Khelben Arunsun and his wife Lady Silverhand were on trial.
+
+The very same Chosen who defeated Sammaster, the power couple at the center of Sword Coast politics for centuries, were accused of conspiring with the enemy. Thantarth's notes are almost perfunctory: a tribunal was convened. The charges were read: Khelben stole the *Scepter of the Sorcerer-Kings*, a powerful artifact, and sold it to the Zhentarim. His wife aided him in this task. 
+
+Khelben himself seems to have uttered hardly a word during the trial, simply acquiescing to his exile and vanishing as though he couldn't have cared less about the outcome. He made no effort at denial and even less at reconciliation. The pair resigned from the Harpers and immediately set about establishing the Moonstars, an organization that would last just four more years until Khelben's death. Thantarth's notes end with the observation that, as the couple prepared to depart Twilight Hall, they were seen wreathed in a strange, flickering, heatless silver fire.
