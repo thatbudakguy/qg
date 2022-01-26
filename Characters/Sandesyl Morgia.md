@@ -24,7 +24,7 @@ Sandesyl uses *disguise self* if she is anywhere near the PCs, who have seen her
 # Key Info
 
 - Severin Silrajin, who calls himself the Red Wyrmspeaker, is a usurper and no valid heir to Sammaster, but he is our best chance at cleansing this world of its filth.
-- There is an active Eldreth Valuuthra cell in Evereska who understand that the Dragons are our greatest ally against the “low races”.
+- There is an active [Eldreth Valuuthra](../Factions/Eldreth%20Valuuthra.md) cell in Evereska who understand that the Dragons are our greatest ally against the “low races”.
 
 # Stat Block
 
