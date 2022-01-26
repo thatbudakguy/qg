@@ -31,7 +31,11 @@ The papers calcey took from the desk appear to be part of a company ledger. They
 
 If the PCs come back at dawn to get employed, use this table adapted from "On the Road":
 
-[Employment options](%F0%9F%97%92%EF%B8%8F%20Employment%20options.csv)
+d20|Result
+---|---
+1-8|"No one wants to hire them, but they can come along to find work as a laborer once the caravan reaches its destination."
+9-14|"Hired as a basic guard for 5 gp per tenday, plus food and living expenses on the road."
+15+|"Hired as a sergeant for 8 gp per tenday, plus food and living expenses on the road."
 
 Instead, the PCs may decide to try to embed with the convoy and claim they are headed to the Roadhouse or Neverwinter as well. This can be accomplished via a persuasian check or similar with Ardred, who is rounding up the convoy in the morning. Varick is nowhere to be seen, having supervised the unloading and returned to other business in the city.
 
