@@ -10,6 +10,6 @@ Date: March 3, 2021
 
 # Recap
 
-[Pool's Closed](../Adventure%20Log/%F0%9F%92%A7%20Pool%27s%20Closed.md) 
+[Pool's Closed](../Adventure%20Log/Pool's%20Closed.md) 
 
 # Outline

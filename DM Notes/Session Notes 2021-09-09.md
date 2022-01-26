@@ -13,7 +13,7 @@ Date: September 9, 2021
 
 # Recap
 
-[The Butcher of Castle Naerytar](../Adventure%20Log/%F0%9F%94%AA%20The%20Butcher%20of%20Castle%20Naerytar.md) 
+[The Butcher of Castle Naerytar](../Adventure%20Log/The%20Butcher%20of%20Castle%20Naerytar.md) 
 
 # Outline
 

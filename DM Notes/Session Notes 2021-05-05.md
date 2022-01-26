@@ -12,6 +12,6 @@ Date: May 5, 2021
 
 # Recap
 
-[The Joy of Exploration and Discovery](../Adventure%20Log/%F0%9F%93%96%20The%20Joy%20of%20Exploration%20and%20Discovery.md) 
+[The Joy of Exploration and Discovery](../Adventure%20Log/The%20Joy%20of%20Exploration%20and%20Discovery.md) 
 
 # Outline

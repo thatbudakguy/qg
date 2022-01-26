@@ -9,7 +9,7 @@ Date: August 8, 2021
 
 # Recap
 
-[Boxmaker's Union](../Adventure%20Log/%F0%9F%93%A6%20Boxmaker%27s%20Union.md) 
+[Boxmaker's Union](../Adventure%20Log/Boxmaker's%20Union.md) 
 
 # Outline
 

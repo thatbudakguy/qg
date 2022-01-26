@@ -30,7 +30,7 @@ Date: November 4, 2021
 
 # Recap
 
-[Play Dead](../Adventure%20Log/%F0%9F%90%95%E2%80%8D%F0%9F%A6%BA%20Play%20Dead.md) 
+[Play Dead](../Adventure%20Log/Play%20Dead.md) 
 
 # Outline
 

@@ -14,7 +14,7 @@ Date: June 2, 2021
 
 # Recap
 
-[Murder Most Foul](../Adventure%20Log/%F0%9F%97%A1%EF%B8%8F%20Murder%20Most%20Foul.md) 
+[Murder Most Foul](../Adventure%20Log/Murder%20Most%20Foul.md) 
 
 # Outline
 

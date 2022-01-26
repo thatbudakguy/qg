@@ -12,6 +12,6 @@ Date: June 23, 2021
 
 # Recap
 
-[Can't See Me Own Boobs](../Adventure%20Log/%F0%9F%91%80%20Can%27t%20See%20Me%20Own%20Boobs.md) 
+[Can't See Me Own Boobs](../Adventure%20Log/Can't%20See%20Me%20Own%20Boobs.md) 
 
 # Outline

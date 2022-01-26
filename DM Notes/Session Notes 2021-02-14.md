@@ -15,7 +15,7 @@ Date: February 14, 2021
 
 # Recap
 
-[Homefront](../Adventure%20Log/%F0%9F%8C%A8%EF%B8%8F%20Homefront.md) 
+[Homefront](../Adventure%20Log/Homefront.md) 
 
 # Outline
 

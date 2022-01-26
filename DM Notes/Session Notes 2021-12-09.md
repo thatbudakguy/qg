@@ -25,7 +25,7 @@ Date: December 9, 2021
 
 # Recap
 
-[Concealed Docking](../Adventure%20Log/%F0%9F%94%8C%20Concealed%20Docking.md) 
+[Concealed Docking](../Adventure%20Log/Concealed%20Docking.md) 
 
 # Outline
 

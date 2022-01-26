@@ -11,7 +11,7 @@ Date: March 28, 2021
 
 # Recap
 
-[Prince of Egypt Type Shit](../Adventure%20Log/%F0%9F%96%8C%EF%B8%8F%20Prince%20of%20Egypt%20Type%20Shit.md) 
+[Prince of Egypt Type Shit](../Adventure%20Log/Prince%20of%20Egypt%20Type%20Shit.md) 
 
 # Outline
 

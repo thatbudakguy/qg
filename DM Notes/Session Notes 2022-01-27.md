@@ -22,7 +22,7 @@ Date: January 27, 2022
 
 # Recap
 
-[Castle Crashers](../Adventure%20Log/%F0%9F%8F%97%EF%B8%8F%20Castle%20Crashers.md) 
+[Castle Crashers](../Adventure%20Log/Castle%20Crashers.md) 
 
 # Bang
 

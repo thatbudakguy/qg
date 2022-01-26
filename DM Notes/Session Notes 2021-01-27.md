@@ -27,7 +27,7 @@ Date: January 27, 2021
 
 # Recap
 
-[Witchthorn's Oath](../Adventure%20Log/%F0%9F%8C%B9%20Witchthorn%27s%20Oath.md) 
+[Witchthorn's Oath](../Adventure%20Log/Witchthorn's%20Oath.md) 
 
 # Outline
 

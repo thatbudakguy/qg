@@ -15,7 +15,7 @@ Date: June 18, 2021
 
 # Recap
 
-[Giuseppe the Spy](../Adventure%20Log/%F0%9F%A6%9D%20Giuseppe%20the%20Spy.md) 
+[Giuseppe the Spy](../Adventure%20Log/Giuseppe%20the%20Spy.md) 
 
 # Outline
 

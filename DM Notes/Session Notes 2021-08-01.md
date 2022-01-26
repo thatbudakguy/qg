@@ -14,7 +14,7 @@ Date: August 1, 2021
 
 # Recap
 
-[Natural Male Enhancement](../Adventure%20Log/%F0%9F%90%88%20Natural%20Male%20Enhancement.md) 
+[Natural Male Enhancement](../Adventure%20Log/Natural%20Male%20Enhancement.md) 
 
 # Outline
 

@@ -20,7 +20,7 @@ Date: February 3, 2021
 
 # Recap
 
-[Hagar Bites the Dust](../Adventure%20Log/%F0%9F%91%85%20Hagar%20Bites%20the%20Dust.md) 
+[Hagar Bites the Dust](../Adventure%20Log/Hagar%20Bites%20the%20Dust.md) 
 
 # Outline
 

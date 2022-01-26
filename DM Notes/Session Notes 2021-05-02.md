@@ -12,7 +12,7 @@ Date: May 2, 2021
 
 # Recap
 
-[200 for the Kid](../Adventure%20Log/%F0%9F%92%B2%20200%20for%20the%20Kid.md) 
+[200 for the Kid](../Adventure%20Log/200%20for%20the%20Kid.md) 
 
 # Outline
 

@@ -16,7 +16,7 @@ Date: February 7, 2021
 
 # Recap
 
-[Deal's Off](../Adventure%20Log/%F0%9F%99%85%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F%20Deal%27s%20Off.md) 
+[Deal's Off](../Adventure%20Log/Deal's%20Off.md) 
 
 # Outline
 

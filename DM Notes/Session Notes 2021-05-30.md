@@ -14,7 +14,7 @@ Date: May 30, 2021
 
 # Recap
 
-[My Wife Left Me](../Adventure%20Log/%F0%9F%91%B0%F0%9F%8F%BC%20My%20Wife%20Left%20Me.md) 
+[My Wife Left Me](../Adventure%20Log/My%20Wife%20Left%20Me.md) 
 
 # Outline
 

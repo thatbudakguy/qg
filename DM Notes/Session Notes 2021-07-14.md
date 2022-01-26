@@ -17,7 +17,7 @@ Date: July 14, 2021
 
 # Recap
 
-[The Chalkboard Technique](../Adventure%20Log/%F0%9F%94%8A%20The%20Chalkboard%20Technique.md) 
+[The Chalkboard Technique](../Adventure%20Log/The%20Chalkboard%20Technique.md) 
 
 # Outline
 

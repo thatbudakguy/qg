@@ -26,7 +26,7 @@ We will answer a question in character. At the end, you (and me) will choose som
 
 # Recap
 
-[Is This The Fuck Zone?](../Adventure%20Log/%F0%9F%94%AD%20Is%20This%20The%20Fuck%20Zone.md) 
+[Is This The Fuck Zone?](../Adventure%20Log/Is%20This%20The%20Fuck%20Zone.md) 
 
 # Outline
 

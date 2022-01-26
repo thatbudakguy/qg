@@ -12,4 +12,4 @@ Date: March 21, 2021
 
 # Recap
 
-[Can I Get That To Go?](../Adventure%20Log/%F0%9F%8D%BA%20Can%20I%20Get%20That%20To%20Go.md)
+[Can I Get That To Go?](../Adventure%20Log/Can%20I%20Get%20That%20To%20Go.md)

@@ -13,7 +13,7 @@ Date: May 26, 2021
 
 # Recap
 
-[Industrial Espionage](../../Adventure%20Log/%F0%9F%8F%AD%20Industrial%20Espionage.md) 
+[Industrial Espionage](../Adventure%20Log/Industrial%20Espionage.md) 
 
 # Outline
 

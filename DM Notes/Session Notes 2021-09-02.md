@@ -13,7 +13,7 @@ Date: September 2, 2021
 
 # Recap
 
-[Discreet Opals](../Adventure%20Log/%F0%9F%92%8E%20Discreet%20Opals.md) 
+[Discreet Opals](../Adventure%20Log/Discreet%20Opals.md) 
 
 # Outline
 

@@ -15,6 +15,6 @@ Date: March 24, 2021
 
 # Recap
 
-[Sky Prince](../Adventure%20Log/%F0%9F%90%A6%20Sky%20Prince.md) 
+[Sky Prince](../Adventure%20Log/Sky%20Prince.md) 
 
 # Outline

@@ -25,7 +25,7 @@ This week's question:
 
 # Recap
 
-[Is That My Jimmies Rustling?](../Adventure%20Log/%F0%9F%95%8A%EF%B8%8F%20Is%20That%20My%20Jimmies%20Rustling.md) 
+[Is That My Jimmies Rustling?](../Adventure%20Log/Is%20That%20My%20Jimmies%20Rustling.md) 
 
 # Outline
 

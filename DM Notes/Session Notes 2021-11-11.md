@@ -22,7 +22,7 @@ Date: November 11, 2021
 
 # Recap
 
-[Be Our Guest](../Adventure%20Log/%F0%9F%95%AF%EF%B8%8F%20Be%20Our%20Guest.md) 
+[Be Our Guest](../Adventure%20Log/Be%20Our%20Guest.md) 
 
 # Outline
 

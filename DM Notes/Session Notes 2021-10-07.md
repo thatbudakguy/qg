@@ -14,7 +14,7 @@ Date: October 7, 2021
 
 # Recap
 
-[You Only Live Twice](../Adventure%20Log/%F0%9F%92%AB%20You%20Only%20Live%20Twice.md) 
+[You Only Live Twice](../Adventure%20Log/You%20Only%20Live%20Twice.md) 
 
 # Outline
 

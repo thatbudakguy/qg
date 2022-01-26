@@ -15,7 +15,7 @@ Date: August 4, 2021
 
 # Recap
 
-[Hey Ladies!](../Adventure%20Log/%F0%9F%92%83%F0%9F%8F%BC%20Hey%20Ladies%21.md) 
+[Hey Ladies!](../Adventure%20Log/Hey%20Ladies!.md) 
 
 # Outline
 

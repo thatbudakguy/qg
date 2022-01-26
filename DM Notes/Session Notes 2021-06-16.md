@@ -13,7 +13,7 @@ Date: June 16, 2021
 
 # Recap
 
-[Grudge Match](../Adventure%20Log/%F0%9F%91%8A%20Grudge%20Match.md) 
+[Grudge Match](../Adventure%20Log/Grudge%20Match.md) 
 
 # Outline
 

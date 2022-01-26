@@ -16,7 +16,7 @@ Date: February 28, 2021
 
 # Recap
 
-[Work-Life Balance](../Adventure%20Log/%E2%9A%96%EF%B8%8F%20Work-Life%20Balance.md) 
+[Work-Life Balance](../Adventure%20Log/Work-Life%20Balance.md) 
 
 # Outline
 

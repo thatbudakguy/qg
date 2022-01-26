@@ -13,7 +13,7 @@ Date: June 30, 2021
 
 # Recap
 
-[A Rebellion is Born](../Adventure%20Log/%F0%9F%A6%8E%20A%20Rebellion%20is%20Born.md) 
+[A Rebellion is Born](../Adventure%20Log/A%20Rebellion%20is%20Born.md) 
 
 # Outline
 

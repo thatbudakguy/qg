@@ -12,7 +12,7 @@ Date: July 25, 2021
 
 # Recap
 
-[Toilet Tower](../Adventure%20Log/%F0%9F%9A%BD%20Toilet%20Tower.md) 
+[Toilet Tower](../Adventure%20Log/Toilet%20Tower.md) 
 
 # Outline
 

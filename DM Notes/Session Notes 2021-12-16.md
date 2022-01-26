@@ -21,7 +21,7 @@ Date: December 16, 2021
 
 # Recap
 
-[Going Full Asshole](../Adventure%20Log/%F0%9F%91%89%20Going%20Full%20Asshole.md) 
+[Going Full Asshole](../Adventure%20Log/Going%20Full%20Asshole.md) 
 
 # Outline
 

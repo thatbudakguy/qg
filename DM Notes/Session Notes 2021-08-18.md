@@ -18,7 +18,7 @@ Date: August 18, 2021
 
 # Recap
 
-[Opening New Doors](../Adventure%20Log/%F0%9F%9A%AA%20Opening%20New%20Doors.md) 
+[Opening New Doors](../Adventure%20Log/Opening%20New%20Doors.md) 
 
 # Outline
 

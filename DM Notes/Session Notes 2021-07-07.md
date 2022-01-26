@@ -13,7 +13,7 @@ Date: July 7, 2021
 
 # Recap
 
-[Behind Enemy Lines](../Adventure%20Log/%F0%9F%8F%B0%20Behind%20Enemy%20Lines.md)
+[Behind Enemy Lines](../Adventure%20Log/Behind%20Enemy%20Lines.md)
 
 # Outline
 

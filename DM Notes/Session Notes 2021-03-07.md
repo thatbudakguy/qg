@@ -8,7 +8,7 @@ Date: March 7, 2021
 
 # Recap
 
-[First Day of School](../Adventure%20Log/%F0%9F%8E%92%20First%20Day%20of%20School.md) 
+[First Day of School](../Adventure%20Log/First%20Day%20of%20School.md) 
 
 # Outline
 

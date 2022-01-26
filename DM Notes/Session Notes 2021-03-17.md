@@ -15,6 +15,6 @@ Date: March 17, 2021
 
 # Recap
 
-[Your Dad Met a Grave Fate](../Adventure%20Log/%E2%9A%B0%EF%B8%8F%20Your%20Dad%20Met%20a%20Grave%20Fate.md) 
+[Your Dad Met a Grave Fate](../Adventure%20Log/Your%20Dad%20Met%20a%20Grave%20Fate.md) 
 
 # Outline

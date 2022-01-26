@@ -16,7 +16,7 @@ Date: February 10, 2021
 
 # Recap
 
-[What's Up With That Catapult?](../Adventure%20Log/%E2%98%84%EF%B8%8F%20What%27s%20Up%20With%20That%20Catapult.md) 
+[What's Up With That Catapult?](../Adventure%20Log/What's%20Up%20With%20That%20Catapult.md) 
 
 # Outline
 

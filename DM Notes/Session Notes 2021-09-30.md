@@ -14,7 +14,7 @@ Date: September 30, 2021
 
 # Recap
 
-[Tasty Legs](../Adventure%20Log/%F0%9F%A6%B5%F0%9F%8F%BE%20Tasty%20Legs.md) 
+[Tasty Legs](../Adventure%20Log/Tasty%20Legs.md) 
 
 # Outline
 

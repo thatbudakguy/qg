@@ -18,9 +18,9 @@ Date: December 13, 2020
 
 # Recap & Notes
 
-[A Man Named John Bootlick](../Adventure%20Log/%F0%9F%91%A2%20A%20Man%20Named%20John%20Bootlick.md) 
+[A Man Named John Bootlick](../Adventure%20Log/A%20Man%20Named%20John%20Bootlick.md) 
 
-[Think of the Children](../Adventure%20Log/%F0%9F%91%BC%F0%9F%8F%BC%20Think%20of%20the%20Children.md) 
+[Think of the Children](../Adventure%20Log/Think%20of%20the%20Children.md) 
 
 # Outline
 

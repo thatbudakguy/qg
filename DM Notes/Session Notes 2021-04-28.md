@@ -14,7 +14,7 @@ Date: April 28, 2021
 
 # Recap
 
-[Winter on the Moonsea](../Adventure%20Log/%E2%9D%84%EF%B8%8F%20Winter%20on%20the%20Moonsea.md) 
+[Winter on the Moonsea](../Adventure%20Log/Winter%20on%20the%20Moonsea.md) 
 
 # Outline
 

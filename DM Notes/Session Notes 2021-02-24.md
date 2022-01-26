@@ -13,7 +13,7 @@ Date: February 24, 2021
 
 # Recap
 
-["Coming" of Age](../Adventure%20Log/%F0%9F%8E%82%20Coming%20of%20Age.md) 
+["Coming" of Age](../Adventure%20Log/Coming%20of%20Age.md) 
 
 # Outline
 

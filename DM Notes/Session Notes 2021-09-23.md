@@ -10,4 +10,4 @@ Date: September 23, 2021
 
 # Recap
 
-[Where Is Your God Now?](../Adventure%20Log/%F0%9F%98%87%20Where%20Is%20Your%20God%20Now.md)
+[Where Is Your God Now?](../Adventure%20Log/Where%20Is%20Your%20God%20Now.md)

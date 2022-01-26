@@ -23,7 +23,7 @@ Date: June 9, 2021
 
 # Recap
 
-[Bear Shits in Woods](../Adventure%20Log/%F0%9F%8C%B2%20Bear%20Shits%20in%20Woods.md) 
+[Bear Shits in Woods](../Adventure%20Log/Bear%20Shits%20in%20Woods.md) 
 
 # Outline
 

@@ -16,7 +16,7 @@ Date: June 27, 2021
 
 # Recap
 
-[Down the Hatch](../Adventure%20Log/%F0%9F%9A%AA%20Down%20the%20Hatch.md) 
+[Down the Hatch](../Adventure%20Log/Down%20the%20Hatch.md) 
 
 # Outline
 

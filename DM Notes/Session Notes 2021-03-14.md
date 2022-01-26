@@ -21,7 +21,7 @@ Date: March 14, 2021
 
 # Recap
 
-[Chamber Pots and Smoke Spots](../Adventure%20Log/%F0%9F%9A%AC%20Chamber%20Pots%20and%20Smoke%20Spots.md) 
+[Chamber Pots and Smoke Spots](../Adventure%20Log/Chamber%20Pots%20and%20Smoke%20Spots.md) 
 
 # Outline
 

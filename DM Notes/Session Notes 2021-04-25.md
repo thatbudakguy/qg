@@ -16,7 +16,7 @@ Date: April 25, 2021
 
 # Recap
 
-[End of the Line](../Adventure%20Log/%F0%9F%9B%91%20End%20of%20the%20Line.md) 
+[End of the Line](../Adventure%20Log/End%20of%20the%20Line.md) 
 
 - In recognition of your efforts to keep Phlan safe from forces who would threaten her safety both external and internal, the Lord Regent formally bequeathed to you Denlor's Tower, at the advice and with the permission of the Lord Sage. He did so trusting that you would continue to use it to keep the city safe, and with the understanding that you could be called upon to defend Phlan in her time of need.
 - The Lord Regent also deputized all four of you as honorary Knights of the Black Fist, giving you the power to command soldiers in any scenario where your authority was not superseded by a Lieutenant or Captain. He honorably discharged Sirge from service, despite having had the shortest term of any Knight on record, at the urging of Aya Glenmiir.

@@ -17,7 +17,7 @@ Date: July 18, 2021
 
 # Recap
 
-[This Shit Just Got Real](../Adventure%20Log/%F0%9F%92%A9%20This%20Shit%20Just%20Got%20Real.md) 
+[This Shit Just Got Real](../Adventure%20Log/This%20Shit%20Just%20Got%20Real.md) 
 
 # Outline
 

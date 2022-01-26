@@ -14,7 +14,7 @@ Date: May 16, 2021
 
 # Recap
 
-[The Mail Mage](../Adventure%20Log/%F0%9F%93%AC%20The%20Mail%20Mage.md) 
+[The Mail Mage](../Adventure%20Log/The%20Mail%20Mage.md) 
 
 # Outline
 

@@ -12,7 +12,7 @@ Date: May 12, 2021
 
 # Recap
 
-[Turn Your Head and Cough](../Adventure%20Log/%F0%9F%97%A3%EF%B8%8F%20Turn%20Your%20Head%20and%20Cough.md) 
+[Turn Your Head and Cough](../Adventure%20Log/Turn%20Your%20Head%20and%20Cough.md) 
 
 # Outline
 

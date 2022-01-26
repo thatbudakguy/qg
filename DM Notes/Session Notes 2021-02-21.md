@@ -16,7 +16,7 @@ Date: February 21, 2021
 
 # Recap
 
-[A Man on the Inside](../Adventure%20Log/%F0%9F%95%B5%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F%20A%20Man%20on%20the%20Inside.md) 
+[A Man on the Inside](../Adventure%20Log/A%20Man%20on%20the%20Inside.md) 
 
 # Outline
 
