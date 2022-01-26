@@ -1,7 +1,7 @@
+---
+faction: Harpers
+---
 # Sirge Wintermelt
-
-Faction: ../Factions%20edaaed8213e2408cb90615e4d1814587/Harpers%20f87016ea46da4fec858732a38796985b.md
-
 Sirge clearly has something to prove, but switches quickly to pretending things don't matter when he is called out. He has a good heart, but joined up with the [Harpers](../../Factions/Harpers.md) for the promise of adventure, and thus far hasn't experienced much other than pain and boredom.
 
 Sirge worked with [Leosin Erlanthar](../Leosin%20Erlanthar.md)  in the Western Heartlands of Faerun as a Harpshadow. Leosin had noticed more [Cult of the Dragon](../../Factions/Cult%20of%20the%20Dragon.md)  coordination than usual, and was looking for communication networks between cult cells in the Heartlands, Sword Coast, and Moonsea. He embedded Sirge with a caravan departing Easting for the Moonsea in summer 1509. Sirge was supposed to keep an eye out for cult activity in the Dalelands, but didn't see any.
@@ -10,6 +10,13 @@ Sirge was caught off guard when the Claws of Tiamat attacked the caravan in the 
 
 In Uktar 1509, the Quarantine Gang conspired to have Sirge be inducted into the Knights of the Black Fist as a spy to root out the Tears of Virulence, a group of Cult of the Dragon sympathizers led by [Cron Bolver](../Cron%20Bolver.md). When the Tears moved to take control of Phlan, it was ultimately Sirge himself who delivered the killing blow to the traitorous Cron Bolver at the battle of Valhingen Graveyard.
 
-[DM Notes](DM%20Notes.md)
+# DM Notes
 
-[Character Sheet](Character%20Sheet/%21index.md)
+- Mother Faral, elf ranger of the Snakewood, and father Ernest, a traveling human wizard
+- Dad wasn't around a whole lot and mom couldn't really take you with her because she was supposed to guard various people from snakes and giant spiders, so eventually gave you up to work at Twilight Hall, the temple of Deneir and a Harper base.
+- Leosin decided to take you on as an apprentice because  you showed promise hunting/tracking and resilience.
+
+```statblock
+monster: Scout
+subtype: Half-Elf
+```

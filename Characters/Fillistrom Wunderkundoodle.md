@@ -5,7 +5,3 @@
 This cranky old gnome was first encountered by the Quarantine Gang as a source of herbological knowledge who helped them identify the strange bones recovered from the raids of the "Ghost Ship" that plagued the coast of the northern Moonsea.
 
 When the Gang discovered the secret Banite prison underneath the Lyceum of the Black Lord in Phlan, 
-
-[Character Sheet](Character%20Sheet.md)
-
-[DM Notes](DM%20Notes.md)
