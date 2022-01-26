@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Handouts/Doom Raiders' apology.md",
-            "mode": "preview",
+            "file": "Characters/Araevin Teshurr.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275
   },
   "right": {
     "id": "d89c90b432fbc251",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Doom Raiders' apology.md",
+                "file": "Characters/Araevin Teshurr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Doom Raiders' apology.md"
+                "file": "Characters/Araevin Teshurr.md"
               }
             }
           },
@@ -105,25 +105,56 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "39d2959d13ff6638",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "696a065cb8290894",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8162aaed79c03ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Araevin Teshurr.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 453
   },
   "active": "9496cf47718a7f4a",
   "lastOpenFiles": [
-    "Handouts/Doom Raiders' apology.md",
-    "Locations/Evereska/Hall of the High Hunt.md",
-    "Locations/Evereska/README.md",
-    "Adventures/Corruption in Kryptgarden.md",
-    "Adventures/Xonthal's Tower.md",
-    "Adventures/Varram the White.md",
-    "Adventures/The Scroll Thief.md",
-    "Adventures/The Cult Strikes Back, Pt 2.md",
-    "Adventures/Second Council of Waterdeep.md",
-    "Adventures/Metallic Dragons, Arise.md"
+    "Characters/Araevin Teshurr.md",
+    "Characters/Alero Voortham.md",
+    "Characters/Aisha Cantos.md",
+    "Characters/Ahash al-Mandi.md",
+    "Characters/Ziraj the Hunter.md",
+    "Characters/Yovir Glandon.md",
+    "Characters/Winona O'Heron.md",
+    "Characters/Walteph Wiley.md",
+    "Characters/Tashlyn Yafeera.md",
+    "Characters/Szass Tam.md"
   ]
 }
