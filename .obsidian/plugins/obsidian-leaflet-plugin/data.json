@@ -1,5 +1,87 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "evereska-map",
+      "lastAccessed": 1643266170157,
+      "markers": [
+        {
+          "id": "ID_28792b08abb9",
+          "type": "default",
+          "loc": [
+            1041.126346949543,
+            844.2854967367379
+          ],
+          "layer": "Evereska%2Fevereska.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbab9a1a0a0b",
+          "type": "default",
+          "loc": [
+            1711.6556302736847,
+            713.1361785106983
+          ],
+          "layer": "Evereska%2Fevereska.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            5.688025352029498,
+            -10.143144475695909
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b785ad859d8",
+          "type": "default",
+          "loc": [
+            1581.3559277760653,
+            1186.5251788310268
+          ],
+          "layer": "Evereska%2Fevereska.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a8adbc8c979",
+          "type": "default",
+          "loc": [
+            883.6234904449846,
+            1231.2648744883281
+          ],
+          "layer": "Evereska%2Fevereska.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            9.820657024832128,
+            -5.236287350785093
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Evereska.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -28,9 +110,45 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 7,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "Evereska/evereska.jpg",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "Evereska/evereska.jpg"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 7,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "evereska-map",
+    "filterTag": []
+  },
   "enableDraw": true,
-  "defaultUnitType": "imperial",
+  "defaultUnitType": "metric",
   "defaultTile": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
   "defaultTileDark": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 }
