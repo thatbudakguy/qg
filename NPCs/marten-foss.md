@@ -10,4 +10,4 @@ The Gang ultimately returned Marten's property after tracking down the Scroll Th
 
 [Character Sheet](Character%20Sheet.md)
 
-[DM Notes](../campaign/PCs/Declan%20Truefire/DM%20Notes.md)
+[DM Notes](../campaign/pcs/declan-truefire/DM%20Notes.md)

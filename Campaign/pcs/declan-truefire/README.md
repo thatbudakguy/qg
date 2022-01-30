@@ -2,15 +2,15 @@
 
 [Q&A](Q%26A.md)
 
-[Timeline](Timeline.md)
+[timeline](timeline.md)
 
-["that night"](that%20night.md)
+["that night"](narrative.md)
 
 [Progression](Progression/%21index.md)
 
 [DM Notes](DM%20Notes.md)
 
-[Winter 1509](Winter%201509.md)
+[winter-1509](winter-1509.md)
 
 # History
 

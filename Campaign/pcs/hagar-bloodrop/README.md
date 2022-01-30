@@ -2,15 +2,15 @@
 
 [Q&A](Q%26A.md)
 
-[Origins](Origins.md)
+[origins](origins.md)
 
-[Timeline](Timeline.md)
+[timeline](timeline.md)
 
-[Narrative](Narrative.md)
+[narrative](narrative.md)
 
-[Progression](Progression.md)
+[progression](progression.md)
 
-[Winter 1509](Winter%201509.md)
+[winter-1509](winter-1509.md)
 
 # History
 
