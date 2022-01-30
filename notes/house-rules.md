@@ -60,7 +60,20 @@ According to the DMG (pages 242-243):
 
 The PHB gives speeds for traveling on pages 181-182:
 
-[Travel pace](%F0%9F%8F%A0%20Travel%20pace.csv)
+### Fast
+Effect: -5 to passive Perception score
+Feet/Minute: 400
+Miles/Day: 30
+Miles/Hour: 4
+### Normal
+Feet/Minute: 300
+Miles/Day: 24
+Miles/Hour: 3
+### Slow
+Effect: Can use stealth
+Feet/Minute: 200
+Miles/Day: 18
+Miles/Hour: 2
 
 Additionally:
 
