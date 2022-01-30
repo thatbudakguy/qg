@@ -6,5 +6,5 @@ Rarity: Legendary
 ## Shard locations
 
 - Recovered from the ruins of Hellgate Keep, now owned by [Thurndan Tallwand](../../Characters/Thurndan%20Tallwand/%21index.md)
-- Kept in Lorosfyr, the Maddening Dark, by the Pale Sybil
-- Buried somewhere in the Tortured Lands, where it was used to raze Myth Ondath
+- Buried somewhere in the Tortured Lands, where it was used to raze Myth Ondath & later used by the Orc Shaman Uzgat in a ritual that implanted Magnar's memories in [Hagar](../../Characters/Hagar%20Bloodrop/README.md). Later taken below the surface into the Underdark and kept in Lorosfyr, the Maddening Dark, by the Pale Sybil
+- 
