@@ -13,7 +13,7 @@ Noble-looking elven man wearing gray-green armor. Looks like he’s thinking har
 
 Born and raised in Evereska, Rhaellen is every inch the noble scion of house Darthammel. A captain in the Feather Cavalry, Rhaellen attained his rank mostly because of his noble birth, but tries maybe a little too hard at his job.
 
-Rhaellen idolizes Tomb Master [Kinyon “Trueshot” Colbathin](Kinyon%20%E2%80%9CTrueshot%E2%80%9D%20Colbathin.md)  and his flawless record of service, longing for a major conflict in which he can prove himself.
+Rhaellen idolizes Tomb Master [kinyon-colbathin](kinyon-colbathin.md)  and his flawless record of service, longing for a major conflict in which he can prove himself.
 
 # Key Info
 

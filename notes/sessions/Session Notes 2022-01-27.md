@@ -55,7 +55,7 @@ Perception checks reveal the following:
 
 ### Developments
 
-- If the PCs allow the creatures to meet them, they will be met by Captain of the Feather Cavalry [Rhaellen Darthammel](../../npcs/Rhaellen%20Darthammel.md) and two other cavalry members (scouts) on griffons.
+- If the PCs allow the creatures to meet them, they will be met by Captain of the Feather Cavalry [rhaellen-darthammel](../../npcs/rhaellen-darthammel.md) and two other cavalry members (scouts) on griffons.
 - If the PCs attempt to flee, the Griffons pursue and attack, dashing them to the ground to deal nonlethal damage. Rhaellen will call out in broken common “Do not run! You surrounded!”
 - Rhaellen speaks Elvish to Declan and asks if he speaks Elvish, telling him to translate if Declan replies in the affirmative.
 - Rhaellen contacts Starmeadow Tower with a *sending stone* to inform them that survivors from the crash have been located.

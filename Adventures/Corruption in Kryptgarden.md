@@ -121,21 +121,21 @@ A list of the various groups who have signed on to fight at Kryptgarden.
 
 The Moonstars, Renaer's group of old friends. They nominally serve the Blackstaff, but often act independently, sometimes in concert with the Harpers.
 
-- [Renaer Neverember](../npcs/Renaer%20Neverember.md)
-- [Eiruk Weskur](../npcs/Eiruk%20Weskur.md)
-- [Laraelra Harsard](../npcs/Laraelra%20Harsard.md)
-- [Meloon Wardragon](../npcs/Meloon%20Wardragon.md)
+- [renaer-neverember](../npcs/renaer-neverember.md)
+- [eiruk-weskur](../npcs/eiruk-weskur.md)
+- [laraelra-harsard](../npcs/laraelra-harsard.md)
+- [meloon-wardragon](../npcs/meloon-wardragon.md)
 
 ### Harpers
 
 The HAWKs, a famous gang of Harper-aligned rogues based in Waterdeep. The HAWKs are all young women in their 20s who came up together on the streets of Waterdeep's Dock Ward. They know of the Foxteeth by reputation. Remallia Haventree ("Remi"), Wise Owl of the Harpers in Waterdeep and lady of house Ulbrinter, considers all of the HAWKs like daughters to her, as her adult children live outside the city and her husband was assassinated many years ago.
 
-- [Henna Castiglione](../npcs/Henna%20Castiglione.md)
-- [Aisha Cantos](../npcs/Aisha%20Cantos.md)
-- [Winona O'Heron](../npcs/Winona%20O'Heron.md)
-- [Kirsten Solari](../npcs/Kirsten%20Solari.md)
+- [henna-castiglione](../npcs/henna-castiglione.md)
+- [aisha-cantos](../npcs/aisha-cantos.md)
+- [winona-oheron](../npcs/winona-oheron.md)
+- [kirsten-solari](../npcs/kirsten-solari.md)
 
-The HAWKs are being "looked after" at Kryptgarden by Renaer and [Leosin Erlanthar](../npcs/Leosin%20Erlanthar.md), the Harper monk from Berdusk.
+The HAWKs are being "looked after" at Kryptgarden by Renaer and [leosin-erlanthar](../npcs/leosin-erlanthar.md), the Harper monk from Berdusk.
 
 ### Lord's Alliance
 

@@ -36,17 +36,17 @@
 
 # NPCs
 
-[Rhaellen Darthammel](../../npcs/Rhaellen%20Darthammel.md) 
+[rhaellen-darthammel](../../npcs/rhaellen-darthammel.md) 
 
-[Erlan Duirsar](../../npcs/Erlan%20Duirsar.md) 
+[erlan-duirsar](../../npcs/erlan-duirsar.md) 
 
-[Araevin Teshurr](../../npcs/Araevin%20Teshurr.md) 
+[araevin-teshurr](../../npcs/araevin-teshurr.md) 
 
-[Thia Riverwall](../../npcs/Thia%20Riverwall.md) 
+[thia-riverwall](../../npcs/thia-riverwall.md) 
 
-[Kinyon “Trueshot” Colbathin](../../npcs/Kinyon%20“Trueshot”%20Colbathin.md) 
+[kinyon-colbathin](../../npcs/kinyon-colbathin.md) 
 
-[Sandesyl Morgia](../../npcs/Sandesyl%20Morgia.md) 
+[sandesyl-morgia](../../npcs/sandesyl-morgia.md) 
 
 # Locations
 
@@ -90,10 +90,10 @@ Located just Southwest of the center of the city, this is the main garrison for 
 
 Located just Northeast of the center of the city, this is the meeting place for the Hill Elders of Evereska:
 
-- [Erlan Duirsar](../../npcs/Erlan%20Duirsar.md), Watcher Over the Hills
-- [Kinyon “Trueshot” Colbathin](../../npcs/Kinyon%20“Trueshot”%20Colbathin.md), Tomb Master
-- [Thia Riverwall](../../npcs/Thia%20Riverwall.md), High Huntress
-- [Araevin Teshurr](../../npcs/Araevin%20Teshurr.md), High Mage
+- [erlan-duirsar](../../npcs/erlan-duirsar.md), Watcher Over the Hills
+- [kinyon-colbathin](../../npcs/kinyon-colbathin.md), Tomb Master
+- [thia-riverwall](../../npcs/thia-riverwall.md), High Huntress
+- [araevin-teshurr](../../npcs/araevin-teshurr.md), High Mage
 
 When the Elders are present here in times of crisis, they will be accompanied by a guard of the elite Cold Hand, who are wearing ornate Elven full plate.
 
