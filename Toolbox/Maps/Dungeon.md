@@ -1,3 +1,0 @@
-# Dungeon
-
-Type: Dungeon
