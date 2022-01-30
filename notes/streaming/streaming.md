@@ -28,7 +28,7 @@
 
 # Audio settings
 
-[Old Audio Settings](Old%20Audio%20Settings.md)
+[old-audio-settings](old-audio-settings.md)
 
 MOTU interface needs to be on and plugged into desktop
 
