@@ -5,13 +5,14 @@ Date: January 27, 2022
 # Todo
 
 - [x]  pick from [Warmup Questions](../%F0%9F%A7%B0%20Toolbox/%E2%9D%93%20Warmup%20Questions.md)
-- [ ]  prep bang
+- [x]  prep bang
 - [ ]  check timeline
 - [ ]  OBS setup (episode title, time indicator)
 
 # Announcements
 
-- announcements
+- Leveling up
+- Playing around with A/V setup again, pls be patient. New VTT, more on that later.
 
 # Warmup
 
@@ -29,7 +30,7 @@ Date: January 27, 2022
 ## Eastpeak
 
 <aside>
-🎵 “Mountain Pass” from tabletop audio?
+🎵 Jeremy Soule -- Skyrim "tundra"
 
 </aside>
 
@@ -57,7 +58,13 @@ Perception checks reveal the following:
 - If the PCs allow the creatures to meet them, they will be met by Captain of the Feather Cavalry [Rhaellen Darthammel](../Characters/Rhaellen%20Darthammel.md) and two other cavalry members (scouts) on griffons.
 - If the PCs attempt to flee, the Griffons pursue and attack, dashing them to the ground to deal nonlethal damage. Rhaellen will call out in broken common “Do not run! You surrounded!”
 - Rhaellen speaks Elvish to Declan and asks if he speaks Elvish, telling him to translate if Declan replies in the affirmative.
+- Rhaellen contacts Starmeadow Tower with a *sending stone* to inform them that survivors from the crash have been located.
 - Rhaellen takes the PC’s weapons, paying particular attention to the Black Dragon Mask and Hazirawn.
 - Once the PCs make their way down to the floor of the vale and approach the cliff, Rhaellen has them blindfolded in order to traverse the cliff tunnels up to the city. They emerge in the Hall of the High Hunt in [Evereska](../Adventures/%F0%9F%8C%84%20Evereska/%21index.md).
 
 # Notes
+- griffons see them, no hide. calcey stays hidden until people lay down their weapons. peregrine disguising self
+- declan tell too much vamp dragon wizard. board griffons. peregrine bad disguise.
+- go thru passage blindfolded. darthammel send to starmeadow. declan convince to keep weapons within sight.
+- calcey cooks a fig for the elf sentries
+- they go to hall of high hunt, araevin recognizes declan. they talk about skyreach, the dragon masks, Hagar brings out the mask and offers it to them
