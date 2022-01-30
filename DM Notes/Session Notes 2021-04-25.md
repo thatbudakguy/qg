@@ -26,10 +26,10 @@ Date: April 25, 2021
 
 ## Winter developments
 
-- Calcey: [Winter 1509](../Characters/Calcey%20Firecrotch/Winter%201509.md)
-- Declan: [Winter 1509](../Characters/Declan%20Truefire/Winter%201509.md)
-- Hagar: [Winter 1509](../Characters/Hagar%20Bloodrop/Winter%201509.md)
-- Peregrine: [Winter 1509](../Characters/Peregrine%20Buntly/Winter%201509.md)
+- Calcey: [Winter 1509](../Campaign/PCs/Calcey%20Firecrotch/Winter%201509.md)
+- Declan: [Winter 1509](../Campaign/PCs/Declan%20Truefire/Winter%201509.md)
+- Hagar: [Winter 1509](../Campaign/PCs/Hagar%20Bloodrop/Winter%201509.md)
+- Peregrine: [Winter 1509](../Campaign/PCs/Peregrine%20Buntly/Winter%201509.md)
 
 <aside>
 🎵 Play "Oblivion - music & ambience - day & night" from 2:25 here.

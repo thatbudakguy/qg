@@ -30,7 +30,7 @@ Date: January 20, 2021
 
 ### Harpers
 
-The HAWKs will attempt to find [Leosin Erlanthar](../Characters/Leosin%20Erlanthar.md) once arriving in Westbridge in order to bring his information back to Remi. He is conferring with Ontharr Frume on the field west of town the night they arrive, but if the PCs do not visit him, he will venture into town to seek them out and find a private place to talk.
+The HAWKs will attempt to find [Leosin Erlanthar](../NPCs/Leosin%20Erlanthar.md) once arriving in Westbridge in order to bring his information back to Remi. He is conferring with Ontharr Frume on the field west of town the night they arrive, but if the PCs do not visit him, he will venture into town to seek them out and find a private place to talk.
 
 Leosin has the following to reveal:
 
