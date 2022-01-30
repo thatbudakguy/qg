@@ -5,11 +5,11 @@ Adventures: ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Varram%20the%20W
 # Todo
 
 - [ ]  Prep Evereska scenario
-- [ ]  [](../../NPCs/Characters.csv) entry for Talis
-- [ ]  [](../../NPCs/Characters.csv) entry for Remallia Haventree (Remi)
-- [ ]  [](../../NPCs/Characters.csv) entry for Sir Isteval of Cormyr
-- [ ]  [](../../NPCs/Characters.csv) entry for Szass Tam
-- [ ]  [](../../NPCs/Characters.csv) entry for Rath Modar
+- [ ]  [](../../npcs/Characters.csv) entry for Talis
+- [ ]  [](../../npcs/Characters.csv) entry for Remallia Haventree (Remi)
+- [ ]  [](../../npcs/Characters.csv) entry for Sir Isteval of Cormyr
+- [ ]  [](../../npcs/Characters.csv) entry for Szass Tam
+- [ ]  [](../../npcs/Characters.csv) entry for Rath Modar
 - [ ]  Create Ali chess puzzle for Denlor’s Tower
 - [ ]  Test dual-PC streaming setup
 - [ ]  Test audio streaming setup
@@ -46,10 +46,10 @@ Adventures: ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Varram%20the%20W
 ## Waterdeep
 
 - The PCs meet the delegates to the First Council of Waterdeep:
-    - [Davil Starsong](../../Characters%20%281%29/Davil%20Starsong/%21index.md), who is acting as an aide to Dagult and isn’t explicitly acknowledged as [Zhentarim](../../Factions/Zhentarim.md) (travels with Ziraj as bodyguard)
-    - [Ontharr Frume](../../Characters%20%281%29/Ontharr%20Frume.md), representing the [Order of the Gauntlet](../../Factions/Order%20of%20the%20Gauntlet.md)
-    - [Remallia Haventree](../../Characters%20%281%29/Remallia%20Haventree/%21index.md), representing the [Harpers](../../Factions/Harpers.md) (and maybe Renaer)
-    - Sir Isteval (Cormyr), Ahash Al-Mandi (Calimshan), etc. representing the [Lord's Alliance](../../Factions/Lord%27s%20Alliance.md) (see adventure)
+    - [Davil Starsong](../../Characters%20%281%29/Davil%20Starsong/%21index.md), who is acting as an aide to Dagult and isn’t explicitly acknowledged as [Zhentarim](../../factions/Zhentarim.md) (travels with Ziraj as bodyguard)
+    - [Ontharr Frume](../../Characters%20%281%29/Ontharr%20Frume.md), representing the [Order of the Gauntlet](../../factions/Order%20of%20the%20Gauntlet.md)
+    - [Remallia Haventree](../../Characters%20%281%29/Remallia%20Haventree/%21index.md), representing the [Harpers](../../factions/Harpers.md) (and maybe Renaer)
+    - Sir Isteval (Cormyr), Ahash Al-Mandi (Calimshan), etc. representing the [Lord's Alliance](../../factions/Lord's%20Alliance.md) (see adventure)
 - Clue leading to Varram the White
 - Clue leading to the Sea of Moving Ice
 
@@ -89,7 +89,7 @@ Adventures: ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Varram%20the%20W
 
 ## Adversaries
 
-### [Red Wizards of Thay](../../Factions/Red%20Wizards%20of%20Thay.md)
+### [Red Wizards of Thay](../../factions/Red%20Wizards%20of%20Thay.md)
 
 - What does Rath Modar do?
 - What does Szass Tam do?

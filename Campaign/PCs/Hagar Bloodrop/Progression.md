@@ -21,11 +21,11 @@
 
 ## Act IV
 
-- Goes to candlekeep in [Candlekeep](../../../Adventures/Candlekeep.md) to learn that the remaining shard is in Myth Ondath
+- Goes to candlekeep in [Candlekeep](../../../adventures/Candlekeep.md) to learn that the remaining shard is in Myth Ondath
 
 ## Act V
 
-- Travels to the ruins of Myth Ondath in [Hunting the Shard](../../../Adventures/Hunting%20the%20Shard.md); learns his past fully
+- Travels to the ruins of Myth Ondath in [Hunting the Shard](../../../adventures/Hunting%20the%20Shard.md); learns his past fully
 - Has to decide whether to use the crystal to free Magnar or not
 
 ## Act VI

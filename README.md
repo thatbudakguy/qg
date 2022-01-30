@@ -6,20 +6,20 @@
 
 [Adventures](Adventures/README.md)
 
-[Campaign](Campaign/README.md)
+[Campaign](campaign/README.md)
 
 # Database
 
-[NPCs](NPCs/README.md)
+[NPCs](npcs/README.md)
 
-[Factions](Factions/README.md)
+[Factions](factions/README.md)
 
-[Locations](Locations/README.md)
+[Locations](locations/README.md)
 
 # Resources
 
-[Toolbox](Toolbox/README.md)
+[Toolbox](notes/README.md)
 
 [DM Notes](DM%20Notes/README.md)
 
-[Handouts](Handouts/README.md)
+[Handouts](handouts/README.md)

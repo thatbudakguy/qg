@@ -2,9 +2,9 @@
 faction: Harpers
 ---
 # Sirge Wintermelt
-Sirge clearly has something to prove, but switches quickly to pretending things don't matter when he is called out. He has a good heart, but joined up with the [Harpers](../../Factions/Harpers.md) for the promise of adventure, and thus far hasn't experienced much other than pain and boredom.
+Sirge clearly has something to prove, but switches quickly to pretending things don't matter when he is called out. He has a good heart, but joined up with the [Harpers](../factions/Harpers.md) for the promise of adventure, and thus far hasn't experienced much other than pain and boredom.
 
-Sirge worked with [Leosin Erlanthar](Leosin%20Erlanthar.md)  in the Western Heartlands of Faerun as a Harpshadow. Leosin had noticed more [Cult of the Dragon](../../Factions/Cult%20of%20the%20Dragon.md)  coordination than usual, and was looking for communication networks between cult cells in the Heartlands, Sword Coast, and Moonsea. He embedded Sirge with a caravan departing Easting for the Moonsea in summer 1509. Sirge was supposed to keep an eye out for cult activity in the Dalelands, but didn't see any.
+Sirge worked with [Leosin Erlanthar](Leosin%20Erlanthar.md)  in the Western Heartlands of Faerun as a Harpshadow. Leosin had noticed more [Cult of the Dragon](../factions/Cult%20of%20the%20Dragon.md)  coordination than usual, and was looking for communication networks between cult cells in the Heartlands, Sword Coast, and Moonsea. He embedded Sirge with a caravan departing Easting for the Moonsea in summer 1509. Sirge was supposed to keep an eye out for cult activity in the Dalelands, but didn't see any.
 
 Sirge was caught off guard when the Claws of Tiamat attacked the caravan in the Grass Sea west of Phlan, when he had nearly made it to the city. He was captured by the Claws of Tiamat and held prisoner, and later taken to King's Pyre, potentially to be bartered with the Grey Patriots as part of a deal brokered by [Sahnd Krulek](../Sahnd%20Krulek/%21index.md). He was ultimately freed by the Quarantine Gang and returned to Phlan to be a ward of [Aya Glenmiir](Aya%20Glenmiir.md)  in late Marpenoth of 1509 DR.
 

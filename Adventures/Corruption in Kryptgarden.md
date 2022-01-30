@@ -121,27 +121,27 @@ A list of the various groups who have signed on to fight at Kryptgarden.
 
 The Moonstars, Renaer's group of old friends. They nominally serve the Blackstaff, but often act independently, sometimes in concert with the Harpers.
 
-- [Renaer Neverember](../NPCs/Renaer%20Neverember.md)
-- [Eiruk Weskur](../NPCs/Eiruk%20Weskur.md)
-- [Laraelra Harsard](../NPCs/Laraelra%20Harsard.md)
-- [Meloon Wardragon](../NPCs/Meloon%20Wardragon.md)
+- [Renaer Neverember](../npcs/Renaer%20Neverember.md)
+- [Eiruk Weskur](../npcs/Eiruk%20Weskur.md)
+- [Laraelra Harsard](../npcs/Laraelra%20Harsard.md)
+- [Meloon Wardragon](../npcs/Meloon%20Wardragon.md)
 
 ### Harpers
 
 The HAWKs, a famous gang of Harper-aligned rogues based in Waterdeep. The HAWKs are all young women in their 20s who came up together on the streets of Waterdeep's Dock Ward. They know of the Foxteeth by reputation. Remallia Haventree ("Remi"), Wise Owl of the Harpers in Waterdeep and lady of house Ulbrinter, considers all of the HAWKs like daughters to her, as her adult children live outside the city and her husband was assassinated many years ago.
 
-- [Henna Castiglione](../NPCs/Henna%20Castiglione.md)
-- [Aisha Cantos](../NPCs/Aisha%20Cantos.md)
-- [Winona O'Heron](../NPCs/Winona%20O'Heron.md)
-- [Kirsten Solari](../NPCs/Kirsten%20Solari.md)
+- [Henna Castiglione](../npcs/Henna%20Castiglione.md)
+- [Aisha Cantos](../npcs/Aisha%20Cantos.md)
+- [Winona O'Heron](../npcs/Winona%20O'Heron.md)
+- [Kirsten Solari](../npcs/Kirsten%20Solari.md)
 
-The HAWKs are being "looked after" at Kryptgarden by Renaer and [Leosin Erlanthar](../NPCs/Leosin%20Erlanthar.md), the Harper monk from Berdusk.
+The HAWKs are being "looked after" at Kryptgarden by Renaer and [Leosin Erlanthar](../npcs/Leosin%20Erlanthar.md), the Harper monk from Berdusk.
 
 ### Lord's Alliance
 
 The Calishite retinue of Ahash al-Mandi, famed warlock of Calimport. Ahash has been hired by the house of Al-Qutaa to serve as the Lord's Alliance's contribution to the coalition forces at Kryptgarden. The Calishite nobles are hoping that this substantial offering does not go unnoticed by Waterdeep's nobility and gives them an upper hand in the lucrative wine trade.
 
-- [Ahash al-Mandi](../NPCs/Ahash%20al-Mandi.md)
+- [ahash-al-mandi](../npcs/ahash-al-mandi.md)
 - 10 Male Human Mercenaries, N. Guard stats.
 - 2 Female Human Servants, NG. Commoner stats.
 

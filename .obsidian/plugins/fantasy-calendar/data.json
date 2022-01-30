@@ -359,7 +359,7 @@
             "year": 1510
           },
           "id": "ID_1a7b999b0a8b",
-          "note": "Adventures/Trouble in Paradise/README.md",
+          "note": "adventures/Trouble in Paradise/README.md",
           "category": "festivals",
           "end": {
             "year": 1510,
@@ -368,7 +368,7 @@
           }
         },
         {
-          "name": "Skyreach castle crashes",
+          "name": "Castle Crashers",
           "description": "Skyreach Castle crashes into the Vine Vale of Evereska, oblitering several orchards and fields. 200 warriors of the Vale Guard (Scout stats) are dispatched into the Vale with an escort of 30 Lordly Wands (Mage stats) to investigate the remains of Skyreach, and the Feather Cavalry (Scouts on Griffons) are activated to patrol the Vale and report back on any potential survivors in the Greycloak hills.",
           "date": {
             "day": 10,
@@ -376,7 +376,7 @@
             "year": 1510
           },
           "id": "ID_3a4b79b8a80a",
-          "note": "Adventure Log/Castle Crashers.md",
+          "note": "logbook/Castle Crashers.md",
           "category": null,
           "end": {
             "year": 1510,
