@@ -2,7 +2,7 @@
 
 # Hook
 
-[Fillistrom Wunderkundoodle](../Characters/Fillistrom%20Wunderkundoodle.md)'s daughter Villonah is captured by the Black Fists and imprisoned under the Lyceum.
+[Fillistrom Wunderkundoodle](../NPCs/Fillistrom%20Wunderkundoodle.md)'s daughter Villonah is captured by the Black Fists and imprisoned under the Lyceum.
 
 If the party goes to the Lyceum, they find that it has been turned into an aid station by followers of Lathander, the Morninglord. 
 
@@ -23,7 +23,7 @@ Quotes:
 
 # Adjustments
 
-- when Yllivia meets the party, she can talk about being assigned to travel to Phlan to investigate the Black Fists by [Ontharr Frume](../Characters/Ontharr%20Frume.md) of Elturel. Describe her as wearing a climbing harness, gloves, and her boots have special tips. Her short white hair is pulled straight back. She enunciates her words quite strongly.
+- when Yllivia meets the party, she can talk about being assigned to travel to Phlan to investigate the Black Fists by [Ontharr Frume](../NPCs/Ontharr%20Frume.md) of Elturel. Describe her as wearing a climbing harness, gloves, and her boots have special tips. Her short white hair is pulled straight back. She enunciates her words quite strongly.
 - A history check can reveal the following about the [Order of the Gauntlet](../Factions/Order%20of%20the%20Gauntlet.md):
     - Allies of the [Harpers](../Factions/Harpers.md)
     - Favored deities are Torm, Tyr, Hoar, Helm; often clerics/paladins
@@ -37,4 +37,4 @@ Quotes:
     - Once, when she was thrown inside the gate for the night, Yllivia overheard her jailers discussing something about a White Dragon living in the Galena Mountains.
     - The "drunk tank" cell is not particularly secure, and the next time she was able to smuggle in a pick that let her escape for long enough to steal the map. She used Fillistrom's supplies to work a piece of fake skin out of leather.
 - If inspected, the map shows a river running through the Galena mountains labeled "Snake", with a X marking a spot roughly halfway in between the two points of Bloodstone Pass and Justin's Mine.
-- If the PCs tell Yllivia of the other cult plots they have foiled, she cops to knowing about the apprehension of Spernik (and is appreciative that he has been publicly exposed), but is dismayed to learn anything else. If they learn anything else that might expose collusion between the cult and the Fists, she asks them to report it to [Marten Foss](../Characters/Marten%20Foss.md) and tell them that she sent them.
+- If the PCs tell Yllivia of the other cult plots they have foiled, she cops to knowing about the apprehension of Spernik (and is appreciative that he has been publicly exposed), but is dismayed to learn anything else. If they learn anything else that might expose collusion between the cult and the Fists, she asks them to report it to [Marten Foss](../NPCs/Marten%20Foss.md) and tell them that she sent them.

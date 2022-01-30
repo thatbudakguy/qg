@@ -1,18 +1,18 @@
-# Evereska
+# Trouble in Paradise
 
 # Prep
 
 - [x]  scenario timeline
 - [x]  character sheets for all NPCs
 - [ ]  prep locations
-- [ ]  initial session notes
+- [x]  initial session notes
 - [ ]  character portraits for all NPCs
 - [ ]  images for all locations
 - [ ]  music for all locations
 
 # Timeline
 
-- 3/9/1510: Worshippers of Rillifane Rallathil begin their vernal equinox fast, and will fast for a tenday.
+- 1510-03-09: Worshippers of Rillifane Rallathil begin their vernal equinox fast, and will fast for a tenday.
 - 3/10/1510: Skyreach Castle crashes into the Vine Vale of Evereska, oblitering several orchards and fields. 200 warriors of the Vale Guard (Scout stats) are dispatched into the Vale with an escort of 30 Lordly Wands (Mage stats) to investigate the remains of Skyreach, and the Feather Cavalry (Scouts on Griffons) are activated to patrol the Vale and report back on any potential survivors in the Greycloak hills.
 - 3/10/1510: Sandesyl Morgia, having transformed into bat form and survived the fall, feeds on one of the Vale Guard at night, creating a Vampire Spawn.
 - 3/11/1510: The Hill Elders convene at the Hall of the High Hunt to determine what to do with the castle. A temporary camp is established near the wreckage and artisans are called from the city to the Vine Vale to aid in the disassembly of Skyreach.
@@ -36,17 +36,17 @@
 
 # NPCs
 
-[Rhaellen Darthammel](../../Characters/Rhaellen%20Darthammel.md) 
+[Rhaellen Darthammel](../../NPCs/Rhaellen%20Darthammel.md) 
 
-[Erlan Duirsar](../../Characters/Erlan%20Duirsar.md) 
+[Erlan Duirsar](../../NPCs/Erlan%20Duirsar.md) 
 
-[Araevin Teshurr](../../Characters/Araevin%20Teshurr.md) 
+[Araevin Teshurr](../../NPCs/Araevin%20Teshurr.md) 
 
-[Thia Riverwall](../../Characters/Thia%20Riverwall.md) 
+[Thia Riverwall](../../NPCs/Thia%20Riverwall.md) 
 
-[Kinyon “Trueshot” Colbathin](../../Characters/Kinyon%20%E2%80%9CTrueshot%E2%80%9D%20Colbathin.md) 
+[Kinyon “Trueshot” Colbathin](../../NPCs/Kinyon%20“Trueshot”%20Colbathin.md) 
 
-[Sandesyl Morgia](../../Characters/Sandesyl%20Morgia.md) 
+[Sandesyl Morgia](../../NPCs/Sandesyl%20Morgia.md) 
 
 # Locations
 
@@ -90,10 +90,10 @@ Located just Southwest of the center of the city, this is the main garrison for 
 
 Located just Northeast of the center of the city, this is the meeting place for the Hill Elders of Evereska:
 
-- [Erlan Duirsar](../../Characters/Erlan%20Duirsar.md), Watcher Over the Hills
-- [Kinyon “Trueshot” Colbathin](../../Characters/Kinyon%20%E2%80%9CTrueshot%E2%80%9D%20Colbathin.md), Tomb Master
-- [Thia Riverwall](../../Characters/Thia%20Riverwall.md), High Huntress
-- [Araevin Teshurr](../../Characters/Araevin%20Teshurr.md), High Mage
+- [Erlan Duirsar](../../NPCs/Erlan%20Duirsar.md), Watcher Over the Hills
+- [Kinyon “Trueshot” Colbathin](../../NPCs/Kinyon%20“Trueshot”%20Colbathin.md), Tomb Master
+- [Thia Riverwall](../../NPCs/Thia%20Riverwall.md), High Huntress
+- [Araevin Teshurr](../../NPCs/Araevin%20Teshurr.md), High Mage
 
 When the Elders are present here in times of crisis, they will be accompanied by a guard of the elite Cold Hand, who are wearing ornate Elven full plate.
 
