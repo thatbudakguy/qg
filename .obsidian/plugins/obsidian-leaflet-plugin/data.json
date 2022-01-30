@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "evereska-map",
-      "lastAccessed": 1643266170157,
+      "lastAccessed": 1643570926395,
       "markers": [
         {
           "id": "ID_28792b08abb9",
@@ -78,7 +78,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Locations/Evereska.md"
+        "Locations/Evereska/README.md"
       ]
     }
   ],

@@ -351,7 +351,7 @@
           }
         },
         {
-          "name": "Budding fast",
+          "name": "README",
           "description": "Worshippers of Rillifane Rallathil fast from sunup to sundown to celebrate the Budding.",
           "date": {
             "day": 9,
@@ -359,7 +359,7 @@
             "year": 1510
           },
           "id": "ID_1a7b999b0a8b",
-          "note": "Adventures/Evereska/Evereska.md",
+          "note": "Adventures/Trouble in Paradise/README.md",
           "category": "festivals",
           "end": {
             "year": 1510,
