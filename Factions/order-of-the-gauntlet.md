@@ -1,6 +1,6 @@
 # Order of the Gauntlet
 
-The Order of the Gauntlet shares the [Harpers](Harpers.md) ’ dedication to justice and equality, but their methods and attitude are quite different. Bearers of the gauntlet are holy warriors on a righteous quest to crush evil and promote justice, and they never hide in the shadows. Evil must be opposed openly and vanquished in the light of day, so that all can see and be emboldened by its destruction. 
+The Order of the Gauntlet shares the [harpers](harpers.md) ’ dedication to justice and equality, but their methods and attitude are quite different. Bearers of the gauntlet are holy warriors on a righteous quest to crush evil and promote justice, and they never hide in the shadows. Evil must be opposed openly and vanquished in the light of day, so that all can see and be emboldened by its destruction. 
 
 Members of the order are driven by religious fervor and by devotion to the principle of justice for all. Whether a member places more emphasis on one or the other of those ideals is an individual choice. Camaraderie and esprit de corps run high within the order, and an individual member will risk anything to save a fellow member or to complete an important mission. Clerics, paladins, and monks make up the majority of the Order of the Gauntlet, but any character of a righteous mind is welcome in the order’s ranks.
 

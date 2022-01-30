@@ -4,4 +4,4 @@ The Zhentarim—also known as the Black Network—is a loose affiliation of merc
 
 Affiliation with the Zhentarim can be profitable to sellswords, thieves, and rogues of every stripe. However, engaging in mainstream corruption and wanting to see Tiamat ascendant are two different things. The Zhentarim have no illusions about what the Dragon Queen’s return would mean for their plans. Wanting to secretly rule the world from the shadows for themselves, the leaders of the Black Network have no desire to become agents and errand-runners for some petty god and her dragon cohorts.
 
-Even with the fate of the world and the Zhentarim’s own future hanging in the balance, the order demands payment for services—and where need and risk are greatest, the pay is expected to be equally great. This mercenary attitude does not sit well with the [Lord's Alliance](Lord%27s%20Alliance.md).
+Even with the fate of the world and the Zhentarim’s own future hanging in the balance, the order demands payment for services—and where need and risk are greatest, the pay is expected to be equally great. This mercenary attitude does not sit well with the [lords-alliance](lords-alliance.md).
