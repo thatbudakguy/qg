@@ -1,8 +1,17 @@
 # Evereska
 
-Created: January 23, 2022 12:23 PM
-
-city blah blah
+```leaflet
+id: evereska-map
+image: Evereska/evereska.jpg
+bounds: [[0, 0], [2700, 2006]]
+unit: feet
+lat: 1350
+long: 1003
+defaultZoom: -1.5
+maxZoom: 5
+minZoom: -2
+zoomDelta: 0.5
+```
 
 # Areas
 

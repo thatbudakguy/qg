@@ -2,24 +2,24 @@
 
 # Story
 
-[Adventure Log](Adventure%20Log.csv)
+[Adventure Log](Adventure%20Log/README.md)
 
-[Adventures](Adventures.csv)
+[Adventures](Adventures/README.md)
 
-[Campaign](%F0%9F%8C%8E%20Campaign/%21index.md)
+[Campaign](Campaign/README.md)
 
 # Database
 
-[Characters](Characters.csv)
+[NPCs](NPCs/README.md)
 
-[Factions](Factions.csv)
+[Factions](Factions/README.md)
 
-[Locations](Locations.csv)
+[Locations](Locations/README.md)
 
 # Resources
 
-[Toolbox](%F0%9F%A7%B0%20Toolbox/%21index.md)
+[Toolbox](Toolbox/README.md)
 
-[DM Notes](DM%20Notes.csv)
+[DM Notes](DM%20Notes/README.md)
 
-[Handouts](Handouts.csv)
+[Handouts](Handouts/README.md)
