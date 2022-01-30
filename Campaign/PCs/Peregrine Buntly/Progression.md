@@ -11,14 +11,14 @@
 
 ## Act III
 
-- The divination pool in Diderius's tomb in [Varram the White](../../Adventures/Varram%20the%20White.md) could show him something
+- The divination pool in Diderius's tomb in [Varram the White](../../../Adventures/Varram%20the%20White.md) could show him something
 
 ## Act IV
 
 - Meets Otaaryliakkarnos in [Metallic Dragons, Arise](../../Adventures/Metallic%20Dragons%2C%20Arise.md)
 - Travels to Battledale to meet the Sisterhood of Essembra
 - Choice to become a Dragonborn by taking the Rite of Rebirth
-- Goes to Candlekeep in [Candlekeep](../../Adventures/Candlekeep.md) to learn the truth about his mother and the Gatekeeper's Crystal
+- Goes to Candlekeep in [Candlekeep](../../../Adventures/Candlekeep.md) to learn the truth about his mother and the Gatekeeper's Crystal
 
 ## Act V
 

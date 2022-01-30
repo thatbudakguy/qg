@@ -5,11 +5,11 @@ Adventures: ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Varram%20the%20W
 # Todo
 
 - [ ]  Prep Evereska scenario
-- [ ]  [](../../Characters.csv) entry for Talis
-- [ ]  [](../../Characters.csv) entry for Remallia Haventree (Remi)
-- [ ]  [](../../Characters.csv) entry for Sir Isteval of Cormyr
-- [ ]  [](../../Characters.csv) entry for Szass Tam
-- [ ]  [](../../Characters.csv) entry for Rath Modar
+- [ ]  [](../../NPCs/Characters.csv) entry for Talis
+- [ ]  [](../../NPCs/Characters.csv) entry for Remallia Haventree (Remi)
+- [ ]  [](../../NPCs/Characters.csv) entry for Sir Isteval of Cormyr
+- [ ]  [](../../NPCs/Characters.csv) entry for Szass Tam
+- [ ]  [](../../NPCs/Characters.csv) entry for Rath Modar
 - [ ]  Create Ali chess puzzle for Denlor’s Tower
 - [ ]  Test dual-PC streaming setup
 - [ ]  Test audio streaming setup
