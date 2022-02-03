@@ -59,6 +59,6 @@ decision they made in the past year. Which one do they pick?
 - What is one way that your character shows they care about someone else?
 - What is something your character doesn’t have enough of?
 - If your character was a drink, what would they be and why?
-- How can someone new earn your character’s trust?
+- <s>How can someone new earn your character’s trust?</s>
 - If your character were to start a business, what would it be? What would make it special?
 - What is one thing your character has seen or done that no one would ever believe?
