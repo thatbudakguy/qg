@@ -23,22 +23,21 @@ Rudderless, Araevin returned for a time to his childhood home, the House of Ceda
 
 # Key Info
 
-- Mythals
-    - are living magic, sentient creations that have will and a purpose
-    - often required the sacrifice of multiple lives in order to cast
-    - can show the one in Evereska, which is weak but functional, if he knows Declan has spellsight (”don’t tell anyone, but i didn’t know if it would hold up under a direct hit...”)
-- High Magic
+- Mythals / High Magic
+    - are permanent alterations to the weave at a massive scale, often to protect an entire city
+    - often required the sacrifice of multiple lives in order to cast, especially after Mystra's Ban prohibited spells of level 10 and above.
     - knowledge was once passed from Elves to Humans and powered Netheril’s floating enclaves
-    - banned by Mystra after Karsus’s Avatar killed Mystryl
-    - araevin is the only one he knows who can wield it, but all he’s willing to do is teach its history
+    - can show the one in Evereska, which is weak but functional, if he knows Declan has spellsight (”don’t tell anyone, but i didn’t know if it would hold up under a direct hit...”)
+    - evereska's mythal regulates the weather of the city and part of the vine vale (out to the meadow wall) and prevents disease & slows aging.
 - The *[gatekeepers-crystal](../campaign/storyline/gatekeepers-crystal.md)*
     - enormously powerful artifact that felt, to him, like it was not of this world. yet it could easily have been a weapon of the crown wars era
     - total dominion over portals, prisons, and planes: open, close, knowledge, etc. all just an extension of one’s will (when assembled).
     - negating *mythals* in particular caused violent explosions and scattered the pieces of the crystal; maybe a safety device?
-    - pieces tended to go to places where it had been used before, as though there was more “gravity” in the weave there. but neither he nor sarya ever found them all again.
+    - pieces tended to go to places where it had been used before, as though there was more “gravity” in the weave there. but neither he nor sarya ever found them all again after Nar Kerymhoarth was opened
 - Myth Drannor
-    - 23 years ago (recently, to Araevin!) Ilsevele contacted him warning him the city would fall and to stay away. He told no one of this and respected her wishes, knowing she would be able to flee safely to Evermeet, where she now stays.
-    - the city has fallen back to ruin now. he never once visited ilsevele during their more than a century apart, but he heard it was beautiful, like in the old days.
+    - 23 years ago (recently, to Araevin!) Ilsevele contacted him warning him the city would fall and to stay away. He told no one of this and respected her wishes, praying she would be able to flee safely to Evermeet, where she now stays.
+    - the city has fallen back to ruin now. he never once visited ilsevele during their more than a century apart, but he heard she made it beautiful, like in the old days.
+    - Trueshot fought to defend the city and was one of the few who returned alive. He knows more about what happened.
 
 # Stat Block
 
