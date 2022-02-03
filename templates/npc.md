@@ -1,4 +1,4 @@
-# New NPC
+# {{title}}
 
 # Appearance
 

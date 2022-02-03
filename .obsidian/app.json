@@ -4,5 +4,6 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }
