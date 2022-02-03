@@ -15,4 +15,6 @@ zoomDelta: 0.5
 
 # Areas
 
-[Hall of the High Hunt](Hall%20of%20the%20High%20Hunt.md)
+[groaning-cave](groaning-cave.md)
+[college-of-magic](college-of-magic.md)
+[hall-of-the-high-hunt](hall-of-the-high-hunt.md)
