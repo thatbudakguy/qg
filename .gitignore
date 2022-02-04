@@ -1,11 +1,2 @@
 # mac thumbnails
 **/.DS_Store
-
-# obsidian local state
-.obsidian/workspace
-.obsidian/graph.json
-
-# obsidian plugin source
-.obsidian/plugins/**/*.css
-.obsidian/plugins/**/*.js
-.obsidian/plugins/**/manifest.json

@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "bd132873037ad1e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d78973a611b1637d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "locations/evereska/skyreach-castle.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "046ae069711a199e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5042ff3331bb4de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149c4b9d6e1556b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8686258480a5faf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#general",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275
+  },
+  "right": {
+    "id": "d89c90b432fbc251",
+    "type": "split",
+    "children": [
+      {
+        "id": "24fae42c9c02b641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "587b68fdc8dbca27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "locations/evereska/skyreach-castle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fac6aff87112337e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "locations/evereska/skyreach-castle.md"
+              }
+            }
+          },
+          {
+            "id": "962b473918eacf04",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "426ab00b9e64f01d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "39d2959d13ff6638",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "696a065cb8290894",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8162aaed79c03ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "locations/evereska/skyreach-castle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350,
+    "collapsed": true
+  },
+  "active": "d78973a611b1637d",
+  "lastOpenFiles": [
+    "locations/evereska/skyreach-castle.md",
+    "adventures/trouble-in-paradise.md",
+    "locations/evereska/college-of-magic.md",
+    "locations/evereska/adventure_awaits_by_sucdeportocale_dext97a-fullview.jpg",
+    "locations/evereska/starmeadow-tower.md",
+    "locations/evereska/hall-of-the-high-hunt.md",
+    "templates/location.md",
+    "adventures/the-sea-of-moving-ice.md",
+    "adventures/the-traitor-in-purple.md",
+    "templates/adventure.md"
+  ]
+}
