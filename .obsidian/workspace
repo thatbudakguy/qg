@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "locations/evereska/skyreach-castle.md",
-            "mode": "preview",
+            "file": "locations/evereska/unicorn-and-crescent-inn.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/evereska/skyreach-castle.md",
+                "file": "locations/evereska/unicorn-and-crescent-inn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/evereska/skyreach-castle.md"
+                "file": "locations/evereska/unicorn-and-crescent-inn.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locations/evereska/skyreach-castle.md",
+                "file": "locations/evereska/unicorn-and-crescent-inn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,6 +147,8 @@
   },
   "active": "d78973a611b1637d",
   "lastOpenFiles": [
+    "locations/evereska/unicorn-and-crescent-inn.md",
+    "notes/sessions/2022-02-03.md",
     "locations/evereska/skyreach-castle.md",
     "adventures/trouble-in-paradise.md",
     "locations/evereska/college-of-magic.md",
@@ -154,8 +156,6 @@
     "locations/evereska/starmeadow-tower.md",
     "locations/evereska/hall-of-the-high-hunt.md",
     "templates/location.md",
-    "adventures/the-sea-of-moving-ice.md",
-    "adventures/the-traitor-in-purple.md",
-    "templates/adventure.md"
+    "adventures/the-sea-of-moving-ice.md"
   ]
 }
