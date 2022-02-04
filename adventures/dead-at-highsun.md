@@ -17,11 +17,3 @@ While the PCs are speaking with Yovir, Simon enters in a state of great agitatio
 Simon tells the room that one of the senior acolytes of Kelemvor, Brother Keefe, has come forward with information suggesting that one of the longstanding residents of Valhingen, Xandria Welltran, was not human but instead a polymorphed green dragon.
 
 Yovir's reaction is characteristically muted. He appeals to the PCs to ask what they would do in this situation: let the secret die with its owner, or exhume the crypt and find the truth? He is inclined to leave the situation alone, but the PCs wish to investigate further, he won't stop them. He asks Simon to determine where Brother Keefe is today and lead the PCs out to him.
-
-# Adjustments
-
-- 
-
-# Adventure
-
-[The%20Dead%20at%20Highsun%20af9751abdcd34667a038af861ba93235/DDEX11_Defiance_in_Phlan-17-20.pdf](DDEX11_Defiance_in_Phlan-17-20.pdf)
