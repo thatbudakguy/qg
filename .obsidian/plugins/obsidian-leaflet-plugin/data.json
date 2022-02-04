@@ -85,7 +85,7 @@
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#dddddd",
+    "color": "#bababa",
     "transform": {
       "size": 6,
       "x": 0,
