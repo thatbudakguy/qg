@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "handouts/map-of-kryptgarden-forest/README.md",
+            "file": "locations/evereska/skyreach-castle.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "handouts/map-of-kryptgarden-forest/README.md",
+                "file": "locations/evereska/skyreach-castle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "handouts/map-of-kryptgarden-forest/README.md"
+                "file": "locations/evereska/skyreach-castle.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "handouts/map-of-kryptgarden-forest/README.md",
+                "file": "locations/evereska/skyreach-castle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,15 +147,15 @@
   },
   "active": "c8dde570abe8b99c",
   "lastOpenFiles": [
-    "handouts/map-of-kryptgarden-forest/README.md",
-    "logbook/a3e2-killing-two-birds-in-one-castle.md",
-    "notes/sessions/2022-02-03.md",
-    "logbook/what-dreams-may-come.md",
-    "locations/evereska/readme.md",
-    "notes/readme.md",
-    "handouts/readme.md",
-    "locations/readme.md",
-    "locations/merchants/fillistrom's-apothecary/items-for-sale/antidote-tincture.md",
-    "locations/merchants/fillistrom's-apothecary/items-for-sale/tincture-of-animal-friendship.md"
+    "locations/evereska/skyreach-castle.md",
+    "handouts/map-of-western-faerun.md",
+    "handouts/map-of-waterdeep.md",
+    "handouts/map-of-carnath-roadhouse.md",
+    "handouts/map-of-castle-naerytar.md",
+    "handouts/map-of-faerun.md",
+    "handouts/castle-naerytar-dungeons.md",
+    "locations/sword-coast.md",
+    "handouts/map-of-the-sword-coast/sword_coast_map.png",
+    "handouts/maps/city-of-phlan.md"
   ]
 }
