@@ -27,7 +27,7 @@
     - Dornal has been told my Mystra that the last thing he must do before he can die is to pass this knowledge on to Declan. Then he will be allowed to die
 - Perhaps speaks directly to Mystra, learning that he is the newest of the Chosen
 - Learns why he was kept a secret, and that Szass Tam continues to search for chosen
-- Confronts his half-brother Neronvain in [Neronvain](../../../../adventures/Neronvain.md)
+- Confronts his half-brother Neronvain in [neronvain](../../../adventures/neronvain.md)
 
 ## Act V
 

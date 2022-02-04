@@ -18,7 +18,7 @@
 - Meets Otaaryliakkarnos in [Metallic Dragons, Arise](../../Adventures/Metallic%20Dragons%2C%20Arise.md)
 - Travels to Battledale to meet the Sisterhood of Essembra
 - Choice to become a Dragonborn by taking the Rite of Rebirth
-- Goes to Candlekeep in [Candlekeep](../../../adventures/Candlekeep.md) to learn the truth about his mother and the Gatekeeper's Crystal
+- Goes to Candlekeep in [candlekeep](../../../adventures/candlekeep.md) to learn the truth about his mother and the Gatekeeper's Crystal
 
 ## Act V
 

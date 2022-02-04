@@ -21,7 +21,7 @@
 
 ## Act IV
 
-- Goes to candlekeep in [Candlekeep](../../../adventures/Candlekeep.md) to learn that the remaining shard is in Myth Ondath
+- Goes to candlekeep in [candlekeep](../../../adventures/candlekeep.md) to learn that the remaining shard is in Myth Ondath
 
 ## Act V
 

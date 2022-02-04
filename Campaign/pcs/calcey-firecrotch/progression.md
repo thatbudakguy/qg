@@ -23,7 +23,7 @@
 
 ## Act IV
 
-- At [Candlekeep](../../../adventures/Candlekeep.md), might learn how to banish or defeat TTX, or why he seeks the Gatekeeper's Crystal
+- At [candlekeep](../../../adventures/candlekeep.md), might learn how to banish or defeat TTX, or why he seeks the Gatekeeper's Crystal
 - Witchthorn calls in his bargain, trying to force Calcey to kill her father – later it is revealed that he in fact had no gambling problem, but cheated others in order to fund his wife's alcoholism, and was devastated when she absconded with their child
 - If calcey does do so, Witchthorn grants her boons, etc. But if she doesn't, her father can help her kill TTX, because he's high-level Zhentarim
 

@@ -26,12 +26,12 @@
 | Tiraenion | Tauriel | Bariel |  |
 
 ## NPCs
-[rhaellen-darthammel](../../npcs/rhaellen-darthammel.md) 
-[erlan-duirsar](../../npcs/erlan-duirsar.md) 
-[araevin-teshurr](../../npcs/araevin-teshurr.md) 
-[thia-riverwall](../../npcs/thia-riverwall.md) 
-[kinyon-colbathin](../../npcs/kinyon-colbathin.md) 
-[sandesyl-morgia](../../npcs/sandesyl-morgia.md) 
+[rhaellen-darthammel](../npcs/rhaellen-darthammel.md) 
+[erlan-duirsar](../npcs/erlan-duirsar.md) 
+[araevin-teshurr](../npcs/araevin-teshurr.md) 
+[thia-riverwall](../npcs/thia-riverwall.md) 
+[kinyon-colbathin](../npcs/kinyon-colbathin.md) 
+[sandesyl-morgia](../npcs/sandesyl-morgia.md) 
 
 ## Locations
 [hall-of-the-high-hunt](../locations/evereska/hall-of-the-high-hunt.md)
