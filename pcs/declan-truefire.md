@@ -2,15 +2,15 @@
 
 [Q&A](Q%26A.md)
 
-[timeline](timeline.md)
+[timeline](declan-truefire/timeline.md)
 
-["that night"](narrative.md)
+["that night"](declan-truefire/narrative.md)
 
 [Progression](Progression/%21index.md)
 
 [DM Notes](DM%20Notes.md)
 
-[winter-1509](winter-1509.md)
+[winter-1509](declan-truefire/winter-1509.md)
 
 # History
 

@@ -1,11 +1,9 @@
-# Skyreach Castle
+# Skyreach Castle Wreck
 ## Appearance
 
 ![fantasy_landscape_by_jjpeabody_d72jtd0.jpg](fantasy_landscape_by_jjpeabody_d72jtd0.jpg)
 
 > The remnants of Skyreach Castle are in bad shape. The castle’s central iceberg has been driven deep into the earth, opening a huge crater where uprooted trees and rubble are layered many feet thick. The lower courtyard has almost completely disintegrated, while the upper courtyard tilts into the sky at a crazed angle, its high towers crumbling or sheared off entirely. Debris is scattered for miles in every direction, including chunks of ice, mangled bits of metal, and the occasional corpse. There is a strange, lingering smell of burnt flesh and hair.
-> 
-
 ## Background
 On Ches 10, 1510, the cloud giant Blagothkus lost control of Skyreach Castle, leading to its crash landing in the Vine Vale of Evereska. The castle is severely damaged and has caused widespread destruction at its landing site, but some items and clues can be retrieved from the wreckage.
 ## Areas

@@ -1,7 +1,7 @@
 ---
-tags: []
+tags: [emerald-enclave]
 ---
-# {{title}}
+# Serelis Greenleaf
 
 ## Appearance
 

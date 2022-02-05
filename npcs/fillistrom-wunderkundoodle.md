@@ -1,3 +1,6 @@
+---
+tags: [merchant]
+---
 # Fillistrom Wunderkundoodle
 
 [Fillistrom's Apothecary](%F0%9F%8C%BF%20Fillistrom%27s%20Apothecary/%21index.md)

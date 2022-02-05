@@ -2,13 +2,13 @@
 
 [Q&A](Q%26A.md)
 
-[narrative](narrative.md)
+[narrative](calcey-firecrotch/narrative.md)
 
-[timeline](timeline.md)
+[timeline](calcey-firecrotch/timeline.md)
 
-[progression](progression.md)
+[progression](calcey-firecrotch/progression.md)
 
-[winter-1509](winter-1509.md)
+[winter-1509](calcey-firecrotch/winter-1509.md)
 
 # History
 

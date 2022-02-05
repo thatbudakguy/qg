@@ -36,7 +36,7 @@
 ## Locations
 [hall-of-the-high-hunt](../locations/evereska/hall-of-the-high-hunt.md)
 [college-of-magic](../locations/evereska/college-of-magic.md)
-[skyreach-castle](../locations/evereska/skyreach-castle.md)
+[skyreach-castle-wreck](../locations/evereska/skyreach-castle-wreck.md)
 
 ### Key Info
 

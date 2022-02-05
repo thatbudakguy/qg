@@ -1,12 +1,12 @@
 # Peregrine Buntly
 
-[timeline](timeline.md)
+[timeline](peregrine-buntly/timeline.md)
 
-[narrative](narrative.md)
+[narrative](peregrine-buntly/narrative.md)
 
-[progression](progression.md)
+[progression](peregrine-buntly/progression.md)
 
-[winter-1509](winter-1509.md)
+[winter-1509](peregrine-buntly/winter-1509.md)
 
 # History
 

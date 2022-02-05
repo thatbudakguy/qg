@@ -1,6 +1,6 @@
 # Cron Bolver
 
-This hard-driving Knight of the Black Fist showed his age in a weathered, lined face often set in a frown or sneer. Formerly a Sergeant serving with [Aleyd Burral](Aleyd%20Burral/%21index.md), Cron was content to use Phlan's period of martial law to line his own pockets until the main obstacles to his promotion were unceremoniously eliminated by the Quarantine Gang – his superiors.
+This hard-driving Knight of the Black Fist showed his age in a weathered, lined face often set in a frown or sneer. Formerly a Sergeant serving with [Aleyd Burral](Aleyd%20Burral/%21index.md), Cron was content to use [Phlan](../locations/phlan.md)'s period of martial law to line his own pockets until the main obstacles to his promotion were unceremoniously eliminated by the Quarantine Gang – his superiors.
 
 With his sudden promotion to Lieutenant, Bolver appeared to have developed a taste for power as well as coin. From the satchel of a [cult-of-the-dragon](../factions/cult-of-the-dragon.md) operative recovered from the battle of Kryptgarden, the Gang learned that the Lieutenant had been leading a covert faction within the Black Fist who swore loyalty to the dragon Vorgansharax, in return for power once the Maimed Virulence staked his claim to the Cinnabar Throne.
 
