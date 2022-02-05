@@ -4,12 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "c8dde570abe8b99c",
+        "id": "7f7ffbe53d272a0a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "npcs/renaer-neverember.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "127203c8f3eb1f95"
+      },
+      {
+        "id": "de9405211321f9da",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "npcs/renaer-neverember.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": false,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "127203c8f3eb1f95"
       }
     ],
     "direction": "vertical"
@@ -65,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "npcs/renaer-neverember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "npcs/renaer-neverember.md"
+              }
             }
           },
           {
@@ -124,30 +168,38 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "npcs/renaer-neverember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "765ed07fa0ef94bf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 350,
-    "collapsed": true
+    "width": 350
   },
-  "active": "c8dde570abe8b99c",
+  "active": "7f7ffbe53d272a0a",
   "lastOpenFiles": [
-    "templates/npc.md",
+    "npcs/renaer-neverember.md",
     "factions/arcane-brotherhood.md",
-    "factions/red-wizards-of-thay.md",
-    "factions/zhentarim.md",
-    "factions/order-of-the-gauntlet.md",
-    "factions/lords-alliance.md",
-    "factions/harpers.md",
-    "factions/emerald-enclave.md",
-    "factions/eldreth-valuuthra.md",
-    "factions/cult-of-the-dragon.md"
+    "npcs/glevith.md",
+    "locations/phlan/denlors-tower.md",
+    "locations/phlan/madame-freonas-tea-kettle.md",
+    "locations/phlan/laughing-goblin-inn.md",
+    "npcs/fillistrom-wunderkundoodle.md",
+    "templates/npc.md",
+    "npcs/serelis-greenleaf.md",
+    "logbook/a2e-apex-predators.md"
   ]
 }

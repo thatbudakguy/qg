@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:-notes AND path:-adventures AND path:-campaign AND path:-logbook AND path:-handouts AND path:-templates",
+  "search": "path:-notes AND path:-adventures AND path:-logbook AND path:-handouts AND path:-templates AND path:-campaign",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,24 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:factions",
+      "query": "tag:harpers",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 2579155
       }
     },
     {
-      "query": "path:npcs",
+      "query": "tag:order-of-the-gauntlet",
       "color": {
         "a": 1,
-        "rgb": 5404128
-      }
-    },
-    {
-      "query": "path:locations",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
+        "rgb": 12168989
       }
     }
   ],
@@ -39,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2760032483048395,
+  "scale": 0.5835567791433128,
   "close": false
 }
