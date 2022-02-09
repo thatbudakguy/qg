@@ -1,7 +1,7 @@
 # Hall of the High Hunt
 ## Appearance
 
-![lineage_ii__ivory_tower_by_sinto_risky_deeqz7r.jpg](lineage_ii__ivory_tower_by_sinto_risky_deeqz7r.jpg)
+![lineage_ii__ivory_tower_by_sinto_risky_deeqz7r.jpg](../../images/backgrounds/lineage_ii__ivory_tower_by_sinto_risky_deeqz7r.jpg)
 
 > This “hall” is really an open-air pavilion, hewn from delicate stonework and sheltered by a grove of huge shadowtop trees that have been hollowed out to form rooms off of the main atrium. At its center, a spring bubbles forth from the earth into a carved marble fountain. The air here has a sweet, clear smell like a field of wildflowers.
 > 

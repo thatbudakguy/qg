@@ -2,7 +2,7 @@
 
 Type: Settlement
 
-![Town%20of%20Westbridge%202895eee1aac24351b512b58e31b5a5be/westbridge.png](westbridge.png)
+![Town%20of%20Westbridge%202895eee1aac24351b512b58e31b5a5be/westbridge.png](../../images/maps/westbridge.png)
 
 # Geography
 

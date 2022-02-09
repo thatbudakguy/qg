@@ -1,6 +1,6 @@
 # College of Magic
 ## Appearance
-![elven_city_in_forest_by_ferdinandladera_dej1eyl-fullview](elven_city_in_forest_by_ferdinandladera_dej1eyl-fullview.jpg)
+![elven_city_in_forest_by_ferdinandladera_dej1eyl-fullview](../../images/backgrounds/elven_city_in_forest_by_ferdinandladera_dej1eyl-fullview.jpg)
 
 > On either side of an open glade stand two complexes of buildings, cleverly wrought of stone and covered in vines so that they blend seamlessly into the groves of ancient sycamore and blueleaf trees that seem to be everywhere in the city. Elves in long robes come and go freely between the buildings, some lounging on the grass or speaking quietly in small groups. You can hear the musical chatter of Elvish conversation and the distant ring of steel on steel.
 

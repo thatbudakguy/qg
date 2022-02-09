@@ -1,5 +1,5 @@
 # Denlor's Tower
-
+![spoiler_denlors_tower](../../images/maps/spoiler_denlors_tower.png)
 Created: March 21, 2021 10:12 AM
 
 items stored in storeroom by hagar:

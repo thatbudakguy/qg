@@ -6,7 +6,7 @@ Type: Residence
 
 Waterdeep, Sea Ward. On Skull Street, aligned with Kulzar's Alley.
 
-![Roarke%20House%20959c4bc676164404a8acf5b39bbfeb4c/Screen_Shot_2021-01-09_at_4.37.33_PM.png](Screen_Shot_2021-01-09_at_4.37.33_PM.png)
+![Roarke%20House%20959c4bc676164404a8acf5b39bbfeb4c/Screen_Shot_2021-01-09_at_4.37.33_PM.png](../../../images/backgrounds/Screen_Shot_2021-01-09_at_4.37.33_PM.png)
 
 # Appearance
 
