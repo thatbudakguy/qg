@@ -8,7 +8,7 @@
 - 1510-03-10: Sandesyl Morgia, having transformed into bat form and survived the fall, feeds on one of the Vale Guard at night, creating a Vampire Spawn.
 - 1510-03-11: A temporary camp is established near the wreckage and artisans are called from the city to the Vine Vale to aid in the disassembly of Skyreach.
 - 1510-03-11: High Lord Erlan Duirsar contacts the elves of the High Forest to ask about the Cult of the Dragon, learning that raids have occurred there.
-- 1510-03-11: Araevin investigates Hazirawn and reports his assessment of the spirit within the sword to the Quarantine Gang.
+- 1510-03-11: Araevin investigates Hazirawn and the Black Dragon Mask and reports his assessment of the spirit within the sword to the Quarantine Gang.
 - 1510-03-11: Sandesyl uses the knowledge of her new Vampire Spawn to choose to establish a lair in the Groaning Cave. She charms one of the Vale Guard into carrying some grave dirt back into the city after night falls.
 - 1510-03-12: Small items scattered across the Vale implicating the Cult of the Dragon are discovered, including some of Rezmir’s personal effects.
 - 1510-03-13: The Elven crews working to open the split in the core berg of Skyreach succeed in widening it enough for medium-sized creatures to enter. The hoard of Glazhael is discovered inside, largely left intact but frozen in ice.
