@@ -15,3 +15,9 @@ The conservatory has high ceilings, an oak floor, and paneled walls of cherry, c
 The vaults of the College contain many rare and precious artifacts and magical devices. Some vaults were deep in the earth, but others existed only in extradimensional spaces. The most valuable and dangerous items were stored in vaults protected by lethal traps.
 ### Archmage's Quarters
 [araevin-teshurr](../../npcs/araevin-teshurr.md)'s office has a theurglass-plate window overlooking the Shaeradim and a large fireplace and desk, along with a small reverie couch.
+
+## Key Info
+
+- Araevin can help research the *Gatekeeper’s Crystal* at the College’s library. Each PC can make an investigation check with him, revealing the following:
+    - A history of the Crown Wars mentions the Crystal being acquired by the Elven empire of Aryvandaar during the Third Crown War, circa -10,900 DR.
+    - A book on *mythals* describes the total destruction of the city of Myth Ondath via the use of the *Crystal*, and an “army of the Ice Queen led by a faceless corpse”.

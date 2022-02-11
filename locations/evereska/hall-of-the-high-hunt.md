@@ -20,3 +20,5 @@ When the Elders are present here in times of crisis, they will be accompanied by
 ## Areas
 ### Singing Spring of Rillifane Rallathil
 a magical fountain whose natural spring water has healing properties, located in the center of the pavilion.
+### The Passage
+the hall has a passage underneath it into Moondark Hill, which leads through a tunnel system out into the Vine vale. traversing this passage for non-elves requires being blindfolded to avoid the forbidden knowledge of how to enter the city.
