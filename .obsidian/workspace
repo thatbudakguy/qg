@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a7bd869e11e53541",
+        "id": "595367aec3699e4b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/sessions/2022-02-17.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "888e40b211e17c87",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "locations/evereska/skyreach-castle-wreck.md",
-            "mode": "preview",
+            "file": "logbook/a3e4-doors-keep-people-apart.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -65,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 222.5,
+    "collapsed": true
   },
   "right": {
     "id": "d89c90b432fbc251",
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/sessions/2022-02-17.md",
+                "file": "logbook/a3e4-doors-keep-people-apart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/sessions/2022-02-17.md"
+                "file": "logbook/a3e4-doors-keep-people-apart.md"
               }
             }
           },
@@ -143,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/sessions/2022-02-17.md",
+                "file": "logbook/a3e4-doors-keep-people-apart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,23 +147,24 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 358.5,
+    "collapsed": true
   },
-  "active": "a7bd869e11e53541",
+  "active": "595367aec3699e4b",
   "lastOpenFiles": [
+    "logbook/a3e4-doors-keep-people-apart.md",
     "notes/sessions/2022-02-17.md",
+    "notes/sessions/2022-02-24.md",
+    "npcs/kinyon-colbathin.md",
+    "locations/evereska/skyreach-castle-wreck.md",
+    "logbook/a3e3-moon-shines-twice.md",
     "npcs/hazirawn.md",
     "npcs/glevith.md",
     "templates/npc.md",
-    "locations/evereska/skyreach-castle-wreck.md",
-    "adventures/trouble-in-paradise.md",
-    "npcs/kinyon-colbathin.md",
-    "notes/warmup-questions.md",
-    "logbook/a3e3-moon-shines-twice.md",
-    "notes/sessions/2022-02-24.md"
+    "adventures/trouble-in-paradise.md"
   ]
 }
