@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ec04c6a97533663f",
+        "id": "a7bd869e11e53541",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "logbook/a3e3-moon-shines-twice.md",
+            "file": "notes/sessions/2022-02-17.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "888e40b211e17c87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "locations/evereska/skyreach-castle-wreck.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logbook/a3e3-moon-shines-twice.md",
+                "file": "notes/sessions/2022-02-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logbook/a3e3-moon-shines-twice.md"
+                "file": "notes/sessions/2022-02-17.md"
               }
             }
           },
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logbook/a3e3-moon-shines-twice.md",
+                "file": "notes/sessions/2022-02-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,23 +158,23 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 350
+    "width": 358.5
   },
-  "active": "ec04c6a97533663f",
+  "active": "a7bd869e11e53541",
   "lastOpenFiles": [
-    "logbook/a3e3-moon-shines-twice.md",
     "notes/sessions/2022-02-17.md",
-    "logbook/a3e2-killing-two-birds-in-one-castle.md",
-    "logbook/Untitled 1.md",
-    "logbook/a2e-apex-predators.md",
+    "npcs/hazirawn.md",
+    "npcs/glevith.md",
+    "templates/npc.md",
     "locations/evereska/skyreach-castle-wreck.md",
-    "locations/evereska/unicorn-and-crescent-inn.md",
     "adventures/trouble-in-paradise.md",
-    "notes/sessions/2021-12-16.md",
-    "notes/sessions/2021-12-09.md"
+    "npcs/kinyon-colbathin.md",
+    "notes/warmup-questions.md",
+    "logbook/a3e3-moon-shines-twice.md",
+    "notes/sessions/2022-02-24.md"
   ]
 }

@@ -5,5 +5,7 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "readableLineLength": false
 }
