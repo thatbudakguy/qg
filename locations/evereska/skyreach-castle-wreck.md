@@ -14,7 +14,7 @@ The lower deck largely disintegrated upon impacting the earth. Due to the castle
 - The giant book "Beyond the Iron Gates" fell off of its lectern and has been damaged. Written entirely in Infernal, its final chapters describe the usage of mass sacrifice to bring large entities out of the Nine Hells and onto the material plane.
 #### Wyrmspeaker's Quarters
 - Almost everything inside this chamber burned when the lit brazier overturned. It stinks of smoke and charred flesh.
-- A stray letter fragment from can be discovered amongst the debris (DC 20 investigation). It’s from Varram, who gloats that he has located a powerful artifact from the far north with the help of Old White Death (the *Draakhorn).*
+- A stray letter fragment from can be discovered amongst the debris (DC 20 investigation). It’s from Varram, who gloats that he has located a powerful artifact from the far north with the help of Old White Death (the *Draakhorn*).
 #### Stone Giant's Quarters
 - The stone giant's chest is largely intact. It's a six foot by four foot, 500-lb iron chest. One side has been dented and it requires a DC 15 Strength check to open. The *globe of force* inside can be deactivated with an *antimagic shell* or *dispel magic* (DC 16). There are 32 small but perfect gemstones inside totalling 16,000gp (500 gp each) and a set of massive masonry tools.
 - The mangled bodies of the two giants are slumped in the lower corner. Hulda is extending her arms as if to protect Wiglof and cushion him from a fall.
