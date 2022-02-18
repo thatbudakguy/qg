@@ -3,9 +3,9 @@ date: {{title}}
 ---
 # Session Notes {{title}}
 # Todo
-- [ ]  pick warmup question
-- [ ]  check/update scenario timeline
-- [ ]  prep bang
+- [ ] pick warmup question
+- [ ] check/update scenario timeline
+- [ ] prep bang
 # Announcements
 - announcements
 # Warmup
