@@ -351,24 +351,7 @@
           }
         },
         {
-          "name": "README",
-          "description": "Worshippers of Rillifane Rallathil fast from sunup to sundown to celebrate the Budding.",
-          "date": {
-            "day": 9,
-            "month": 3,
-            "year": 1510
-          },
-          "id": "ID_1a7b999b0a8b",
-          "note": null,
-          "category": "festivals",
-          "end": {
-            "year": 1510,
-            "month": 3,
-            "day": 19
-          }
-        },
-        {
-          "name": "Castle Crashers",
+          "name": "Skyreach crashes",
           "description": "Skyreach Castle crashes into the Vine Vale of Evereska, oblitering several orchards and fields. 200 warriors of the Vale Guard (Scout stats) are dispatched into the Vale with an escort of 30 Lordly Wands (Mage stats) to investigate the remains of Skyreach, and the Feather Cavalry (Scouts on Griffons) are activated to patrol the Vale and report back on any potential survivors in the Greycloak hills.",
           "date": {
             "day": 10,
@@ -377,25 +360,91 @@
           },
           "id": "ID_3a4b79b8a80a",
           "note": null,
-          "category": null,
+          "category": "natural-events",
           "end": {
             "year": 1510,
             "month": 3,
             "day": 10
+          }
+        },
+        {
+          "name": "Audience with the Elders",
+          "description": "The Quarantine Gang are recovered from Eastpeak by Cpt. Rhaellen Darthammel and brought before the Hill Elders of Evereska to explain the fall of Skyreach. Hagar Bloodrop entrusts the Black Dragon Mask to the Elders.",
+          "date": {
+            "day": 10,
+            "month": 3,
+            "year": 1510
+          },
+          "id": "ID_7b39ba7af94b",
+          "note": null,
+          "category": "ID_f96beb69ab59",
+          "end": {
+            "year": 1510,
+            "month": 3,
+            "day": 10
+          }
+        },
+        {
+          "name": "New lair for Sandesyl",
+          "description": "Sandesyl Morgia, having transformed into bat form and survived the fall, feeds on one of the Vale Guard at night, creating a Vampire Spawn. Sandesyl uses the knowledge of her new Vampire Spawn to choose to establish a lair in the Groaning Cave. She charms one of the Vale Guard into carrying some grave dirt back into the city after night falls.",
+          "date": {
+            "day": 10,
+            "month": 3,
+            "year": 1510
+          },
+          "id": "ID_4a4bfaeadbdb",
+          "note": null,
+          "category": "natural-events",
+          "end": {
+            "year": 1510,
+            "month": 3,
+            "day": 10
+          }
+        },
+        {
+          "name": "Vale Camp established",
+          "description": "A temporary camp is established near the wreckage of Skyreach Castle and artisans are called from the city of Evereska to the Vine Vale to aid in the disassembly of Skyreach.",
+          "date": {
+            "day": 11,
+            "month": 3,
+            "year": 1510
+          },
+          "id": "ID_9a2be9ab28db",
+          "note": null,
+          "category": "ID_88a928385989",
+          "end": {
+            "year": 1510,
+            "month": 3,
+            "day": 11
           }
         }
       ],
       "id": "ID_a888291a196b",
       "categories": [
         {
-          "name": "Natural Events",
+          "name": "Enemy Events",
           "id": "natural-events",
-          "color": "#2E7D32"
+          "color": "#9d0006"
         },
         {
           "name": "Festivals",
           "id": "festivals",
-          "color": "#9b2c2c"
+          "color": "#8f3f71"
+        },
+        {
+          "id": "ID_88a928385989",
+          "color": "#b57614",
+          "name": "NPC Events"
+        },
+        {
+          "id": "ID_f96beb69ab59",
+          "color": "#076678",
+          "name": "Party Events"
+        },
+        {
+          "id": "ID_1af9badacbfa",
+          "color": "#79750e",
+          "name": "Natural Events"
         }
       ],
       "displayWeeks": false
