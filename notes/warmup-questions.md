@@ -11,6 +11,7 @@
 - ~~How can someone new earn your character’s trust?~~
 - ~~How would you describe your character’s fashion style?~~
 - ~~If your character was an author, what would be the title of their first book?~~
+- ~~What’s one thing that always makes your character smile?~~
 - What is the best meal your character has ever eaten?
 - What is the best gift your character has ever received?
 - What is one title your character has earned that makes them proud?
@@ -44,7 +45,6 @@
 - How does your character relax after a hard day’s work?
 - What does your character see when they look in the mirror?
 - Describe your character’s personal hell.
-- What’s one thing that always makes your character smile?
 - What is one way that someone can earn your character’s trust?
 - What is one thing your character has seen or done that no one would ever believe?
 - What is one goal your character hopes to accomplish in the next year?
