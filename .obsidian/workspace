@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "595367aec3699e4b",
+        "id": "cc09d1ef2b967437",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "logbook/a3e4-doors-keep-people-apart.md",
-            "mode": "source",
+            "file": "notes/sessions/2022-02-24.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "d89c90b432fbc251",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logbook/a3e4-doors-keep-people-apart.md",
+                "file": "notes/sessions/2022-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logbook/a3e4-doors-keep-people-apart.md"
+                "file": "notes/sessions/2022-02-24.md"
               }
             }
           },
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logbook/a3e4-doors-keep-people-apart.md",
+                "file": "notes/sessions/2022-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,20 +150,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 358.5
   },
-  "active": "595367aec3699e4b",
+  "active": "cc09d1ef2b967437",
   "lastOpenFiles": [
-    "logbook/a3e4-doors-keep-people-apart.md",
-    "notes/sessions/2022-02-17.md",
     "notes/sessions/2022-02-24.md",
-    "npcs/kinyon-colbathin.md",
+    "monsters/elvish-veteran-archer.md",
     "locations/evereska/skyreach-castle-wreck.md",
-    "logbook/a3e3-moon-shines-twice.md",
-    "npcs/hazirawn.md",
-    "npcs/glevith.md",
-    "templates/npc.md",
-    "adventures/trouble-in-paradise.md"
+    "notes/sessions/2022-02-17.md",
+    "notes/sessions/2022-02-10.md",
+    "notes/sessions/2022-01-27.md",
+    "notes/sessions/2021-12-16.md",
+    "notes/sessions/2022-02-03.md",
+    "npcs/kinyon-colbathin.md",
+    "notes/warmup-questions.md"
   ]
 }
