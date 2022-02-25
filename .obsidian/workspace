@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cc09d1ef2b967437",
+        "id": "2dcef8b2ad7b4134",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/sessions/2022-02-24.md",
+            "file": "logbook/a3e2-killing-two-birds-in-one-castle.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/sessions/2022-02-24.md",
+                "file": "logbook/a3e2-killing-two-birds-in-one-castle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/sessions/2022-02-24.md"
+                "file": "logbook/a3e2-killing-two-birds-in-one-castle.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/sessions/2022-02-24.md",
+                "file": "logbook/a3e2-killing-two-birds-in-one-castle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,23 +146,23 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 358.5
   },
-  "active": "cc09d1ef2b967437",
+  "active": "2dcef8b2ad7b4134",
   "lastOpenFiles": [
+    "logbook/a3e2-killing-two-birds-in-one-castle.md",
+    "logbook/a2e-apex-predators.md",
+    "logbook/a3e3-moon-shines-twice.md",
+    "logbook/a3e4-doors-keep-people-apart.md",
+    "logbook/a3e5-calcey-do-it-more.md",
     "notes/sessions/2022-02-24.md",
     "monsters/elvish-veteran-archer.md",
     "locations/evereska/skyreach-castle-wreck.md",
     "notes/sessions/2022-02-17.md",
-    "notes/sessions/2022-02-10.md",
-    "notes/sessions/2022-01-27.md",
-    "notes/sessions/2021-12-16.md",
-    "notes/sessions/2022-02-03.md",
-    "npcs/kinyon-colbathin.md",
-    "notes/warmup-questions.md"
+    "notes/sessions/2022-02-10.md"
   ]
 }
