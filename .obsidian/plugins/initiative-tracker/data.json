@@ -1,5 +1,34 @@
 {
-  "players": [],
+  "players": [
+    {
+      "name": "Hagar Bloodrop",
+      "note": "hagar-bloodrop",
+      "player": true,
+      "marker": "default",
+      "level": 8
+    },
+    {
+      "name": "Peregrine Buntly",
+      "note": "peregrine-buntly",
+      "player": true,
+      "marker": "default",
+      "level": 8
+    },
+    {
+      "note": "calcey-firecrotch",
+      "name": "Calcey Firecrotch",
+      "player": true,
+      "marker": "default",
+      "level": 8
+    },
+    {
+      "note": "declan-truefire",
+      "name": "Declan Truefire",
+      "player": true,
+      "marker": "default",
+      "level": 8
+    }
+  ],
   "homebrew": [],
   "version": null,
   "canUseDiceRoll": false,
