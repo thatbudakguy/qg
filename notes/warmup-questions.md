@@ -12,6 +12,7 @@
 - ~~How would you describe your character’s fashion style?~~
 - ~~If your character was an author, what would be the title of their first book?~~
 - ~~What’s one thing that always makes your character smile?~~
+- ~~If your character had a warning label, what would it say?~~
 - What is the best meal your character has ever eaten?
 - What is the best gift your character has ever received?
 - What is one title your character has earned that makes them proud?
@@ -27,7 +28,6 @@
 - What does your character do on their day off?
 - How would the other party members describe your character?
 - What is your character’s pet peeve?
-- If your character had a warning label, what would it say?
 - What is one of your character’s fondest memories?
 - What is one rule your character never breaks?
 - A new adventurer approaches your character, asking them for wisdom. What lesson does your character impart to the young adventurer?

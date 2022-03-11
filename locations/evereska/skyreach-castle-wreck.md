@@ -26,7 +26,7 @@ The towers of the Upper Deck are tilted at a 30-degree angle to the ground, and 
 - Grave dirt can be found in Sandesyl’s coffin, until she charms some Vale Guard into moving it into the city to establish a new lair. A detailed search (DC 15 investigation) reveals that the dirt has been moved since the castle fell.
 #### Esclarotta's Tower
 - This tower is intact and tilted at a 30-degree angle, but smashed corpses of several ogres litter the ground around it. A coil of rope hangs down from the upper reaches of the tower to stop about 20 feet off the ground.
-- The magic in this tower has ceased to function, so it's just a hollow cylinder about 90 feet long.
+- 
 #### Steering Tower
 - There are no traces of Blagothkus. The massive *arcane lock*ed ice door still holds, but the top of this tower has sheared off, revealing the gems embedded in the walls and the huge steering apparatus wrought of copper and gold.
 ### Core

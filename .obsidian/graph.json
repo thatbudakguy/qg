@@ -8,17 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:harpers",
+      "query": "tag:#harpers",
       "color": {
         "a": 1,
-        "rgb": 2579155
+        "rgb": 1844834
       }
     },
     {
-      "query": "tag:order-of-the-gauntlet",
+      "query": "tag:#order-of-the-gauntlet",
       "color": {
         "a": 1,
-        "rgb": 12168989
+        "rgb": 12306900
+      }
+    },
+    {
+      "query": "tag:#emerald-enclave",
+      "color": {
+        "a": 1,
+        "rgb": 935988
+      }
+    },
+    {
+      "query": "tag:#cult-of-the-dragon",
+      "color": {
+        "a": 1,
+        "rgb": 13663863
+      }
+    },
+    {
+      "query": "tag:#zhentarim",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#lords-alliance",
+      "color": {
+        "a": 1,
+        "rgb": 14001162
       }
     }
   ],
@@ -33,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.5835567791433128,
-  "close": false
+  "close": true
 }

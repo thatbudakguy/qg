@@ -1,6 +1,7 @@
 # Trouble in Paradise
 
 ## Timeline
+- 1510-03-11: The Gang kill the Vampire Spawn set by Sandesyl to protect the Grave Dirt in her lair on Skyreach.
 - 1510-03-11: High Lord Erlan Duirsar contacts the elves of the High Forest to ask about the Cult of the Dragon, learning that raids have occurred there.
 - 1510-03-11: Araevin investigates Hazirawn and the Black Dragon Mask and reports his assessment of the spirit within the sword to the Quarantine Gang.
 - 1510-03-13: The Elven crews working to get access to the core berg of Skyreach succeed in opening an entrance large enough for medium-sized creatures to enter. The hoard of Glazhael is discovered inside, largely left intact but frozen in ice.
