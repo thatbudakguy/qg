@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4aebcf0239e42a6d",
+        "id": "a8161b1d158ee28c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adventures/trouble-in-paradise.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "15a820cbf05ff362",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/sessions/2022-03-10.md",
+            "file": "logbook/a3e5.md",
             "mode": "preview",
             "source": true
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/sessions/2022-03-10.md",
+                "file": "logbook/a3e5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/sessions/2022-03-10.md"
+                "file": "logbook/a3e5.md"
               }
             }
           },
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/sessions/2022-03-10.md",
+                "file": "logbook/a3e5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,23 +146,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
     "width": 358.5
   },
-  "active": "15a820cbf05ff362",
+  "active": "a8161b1d158ee28c",
   "lastOpenFiles": [
-    "notes/sessions/2022-03-10.md",
-    "adventures/trouble-in-paradise.md",
-    "notes/warmup-questions.md",
-    "locations/evereska/skyreach-castle-wreck.md",
-    "logbook/a3e5-calcey-do-it-more.md",
-    "notes/sessions/2022-02-24.md",
-    "notes/sessions/2021-01-20.md",
-    "logbook/a3e2-killing-two-birds-in-one-castle.md",
+    "logbook/a3e5.md",
+    "logbook/a3e4.md",
+    "logbook/a3e3.md",
+    "logbook/a3e2.md",
     "logbook/a2e-apex-predators.md",
-    "logbook/a3e3-moon-shines-twice.md"
+    "logbook/a-rebellion-is-born.md",
+    "logbook/a3e6.md",
+    "notes/sessions/2022-03-17.md",
+    "templates/log.md",
+    "templates/session.md"
   ]
 }
