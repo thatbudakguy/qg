@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8161b1d158ee28c",
+        "id": "72e2e56203486f24",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "logbook/a3e5.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logbook/a3e5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "logbook/a3e5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logbook/a3e5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,17 +144,17 @@
     "direction": "horizontal",
     "width": 358.5
   },
-  "active": "a8161b1d158ee28c",
+  "active": "72e2e56203486f24",
   "lastOpenFiles": [
+    "notes/sessions/2022-03-17.md",
+    "notes/sessions/2022-03-10.md",
+    "adventures/trouble-in-paradise.md",
+    "locations/evereska/skyreach-castle-wreck.md",
+    "notes/warmup-questions.md",
     "logbook/a3e5.md",
     "logbook/a3e4.md",
     "logbook/a3e3.md",
     "logbook/a3e2.md",
-    "logbook/a2e-apex-predators.md",
-    "logbook/a-rebellion-is-born.md",
-    "logbook/a3e6.md",
-    "notes/sessions/2022-03-17.md",
-    "templates/log.md",
-    "templates/session.md"
+    "logbook/a2e-apex-predators.md"
   ]
 }

@@ -13,6 +13,7 @@
 - ~~If your character was an author, what would be the title of their first book?~~
 - ~~What’s one thing that always makes your character smile?~~
 - ~~If your character had a warning label, what would it say?~~
+- ~~What is one rule your character never breaks?~~
 - What is the best meal your character has ever eaten?
 - What is the best gift your character has ever received?
 - What is one title your character has earned that makes them proud?
