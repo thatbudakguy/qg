@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "72e2e56203486f24",
+        "id": "e4d586a8a562f4c1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "notes/prep-board.md"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/prep-board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/prep-board.md"
+              }
             }
           },
           {
@@ -124,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/prep-board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,19 +148,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 358.5,
+    "collapsed": true
   },
-  "active": "72e2e56203486f24",
+  "active": "e4d586a8a562f4c1",
   "lastOpenFiles": [
-    "notes/sessions/2022-03-17.md",
-    "notes/sessions/2022-03-10.md",
-    "adventures/trouble-in-paradise.md",
-    "locations/evereska/skyreach-castle-wreck.md",
-    "notes/warmup-questions.md",
-    "logbook/a3e5.md",
-    "logbook/a3e4.md",
-    "logbook/a3e3.md",
-    "logbook/a3e2.md",
-    "logbook/a2e-apex-predators.md"
+    "notes/prep-board.md",
+    "npcs/sandesyl-morgia.md",
+    "adventures/cult-strikes-back-pt-1.md",
+    "templates/adventure.md",
+    "adventures/sea-of-moving-ice.md",
+    "adventures/city-of-danger.md",
+    "adventures/metallic-dragons-arise.md",
+    "adventures/spell-major.md",
+    "adventures/candlekeep.md",
+    "adventures/xonthal's-tower.md"
   ]
 }
