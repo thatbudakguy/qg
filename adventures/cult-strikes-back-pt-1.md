@@ -1,14 +1,20 @@
 # The Cult Strikes Back, Pt. 1
 ## Diagram
 ```mermaid
-graph TD
+flowchart TD
 
-%% Nodes
-id1(Denlor's Tower)
-id2(Mantor's Library)
-id3(Stojanow Gate)
-id4(Kabel's Hill)
-id5(Phlan Docks)
+%% nodes
+a(Denlor's Tower)
+b(Mantor's Library)
+c(Stojanow Gate)
+d(Kabel's Hill)
+e(Calvin Bramblebottom)
+
+%% links
+a --> b & c & d --> e
+b --> c & d
+c --> b & d
+d --> b & c
 ```
 
 ## Revelations
