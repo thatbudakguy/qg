@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "evereska-map",
-      "lastAccessed": 1643744102516,
+      "lastAccessed": 1648603661738,
       "markers": [
         {
           "id": "ID_28792b08abb9",
@@ -11,6 +11,7 @@
             1041.126346949543,
             844.2854967367379
           ],
+          "link": "starmeadow-tower",
           "layer": "Evereska%2Fevereska.jpg",
           "mutable": true,
           "command": false,
@@ -44,7 +45,7 @@
             883.6234904449846,
             1231.2648744883281
           ],
-          "link": "college-of-magic-and-arms",
+          "link": "college-of-magic",
           "layer": "Evereska%2Fevereska.jpg",
           "mutable": true,
           "command": false,
@@ -73,19 +74,36 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea581afb28b9",
+          "type": "default",
+          "loc": [
+            1142.949723440406,
+            1396.6733514296168
+          ],
+          "link": "unicorn-and-crescent-inn",
+          "layer": "..%2Fimages%2Fmaps%2Fevereska.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "locations/evereska/readme.md"
+        "locations/evereska.md"
       ]
     }
   ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#bababa",
+    "color": "#0040ff",
     "transform": {
       "size": 6,
       "x": 0,

@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e4d586a8a562f4c1",
+        "id": "1b5594cfe8cb976e",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "notes/prep-board.md"
+            "file": "adventures/trouble-in-paradise.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/prep-board.md",
+                "file": "adventures/trouble-in-paradise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/prep-board.md"
+                "file": "adventures/trouble-in-paradise.md"
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/prep-board.md",
+                "file": "adventures/trouble-in-paradise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,26 +144,34 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "79d8dc44536c576a",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 358.5,
     "collapsed": true
   },
-  "active": "e4d586a8a562f4c1",
+  "active": "1b5594cfe8cb976e",
   "lastOpenFiles": [
+    "adventures/trouble-in-paradise.md",
+    "campaign/act-iv.md",
+    "campaign/act-iii.md",
     "notes/prep-board.md",
-    "npcs/sandesyl-morgia.md",
-    "adventures/cult-strikes-back-pt-1.md",
-    "templates/adventure.md",
-    "adventures/sea-of-moving-ice.md",
-    "adventures/city-of-danger.md",
-    "adventures/metallic-dragons-arise.md",
-    "adventures/spell-major.md",
-    "adventures/candlekeep.md",
-    "adventures/xonthal's-tower.md"
+    "campaign/act-v.md",
+    "locations/evereska.md",
+    "locations/evereska/hall-of-the-high-hunt.md",
+    "locations/evereska/groaning-cave.md",
+    "college-of-magic-and-arms.md",
+    "images/maps/chult.jpg"
   ]
 }
