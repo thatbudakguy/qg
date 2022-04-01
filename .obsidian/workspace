@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sessions/2022-03-31.md",
+            "file": "logbook/a3e2.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2022-03-31.md",
+                "file": "logbook/a3e2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2022-03-31.md"
+                "file": "logbook/a3e2.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2022-03-31.md",
+                "file": "logbook/a3e2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,24 +154,23 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
-    "collapsed": true
+    "width": 397.5
   },
   "active": "5cc43d812daf0e95",
   "lastOpenFiles": [
+    "logbook/a3e2.md",
+    "logbook/a3e3.md",
+    "logbook/a3e4.md",
+    "logbook/a3e5.md",
+    "logbook/a3e6.md",
+    "logbook/a3e7.md",
+    "logbook/a3e8.md",
     "sessions/2022-03-31.md",
     "notes/warmup-questions.md",
-    "sessions/202.md",
-    "adventures/trouble-in-paradise.md",
-    "locations/evereska.md",
-    "campaign/act-iv.md",
-    "campaign/act-iii.md",
-    "notes/prep-board.md",
-    "campaign/act-v.md",
-    "locations/evereska/hall-of-the-high-hunt.md"
+    "sessions/202.md"
   ]
 }
