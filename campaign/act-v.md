@@ -14,8 +14,8 @@ At Xonthal's tower, the gang may learn a bit about the plans of the cultists not
 
 Third Council of Waterdeep
 
-Xonthal's Tower
-
 Mission to Thay
 
 The Cult Strikes Back: Part 3
+
+Hunting the Shard

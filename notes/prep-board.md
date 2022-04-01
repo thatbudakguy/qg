@@ -6,28 +6,33 @@ kanban-plugin: basic
 
 ## icebox
 
-- [ ] investigate hide volumes in TaleSpire
-- [ ] investigate streaming plugin for TaleSpire
 - [ ] create [groaning cave](../locations/evereska/groaning-cave.md) map in TaleSpire
+- [ ] draft node graph for [the cult strikes back, pt. 1](../adventures/cult-strikes-back-pt-1.md)
+- [ ] draft node graph for [city of danger](../adventures/city-of-danger.md)
+- [ ] investigate hide volumes in TaleSpire
+- [ ] investigate [streaming plugin](https://talespire.thunderstore.io/package/LordAshes/StreamViewsPlugin/) for TaleSpire
 - [ ] create custom subclass for Declan in DDB
+- [ ] create d&d beyond OBS overlay
+- [ ] use [obsidian-timeline](https://github.com/George-debug/obsidian-timeline) plugin for timelines
 
 
 ## backlog
 
+- [ ] write background section for the [groaning-cave](../locations/evereska/groaning-cave.md)
 - [ ] draft 2d map for the [groaning cave](../locations/evereska/groaning-cave.md)
-- [ ] create statblock for [sandesyl morgia](../npcs/sandesyl-morgia.md)
-- [ ] draft node graph for [the cult strikes back, pt. 1](../adventures/cult-strikes-back-pt-1.md)
-- [ ] draft node graph for [city of danger](../adventures/city-of-danger.md)
 
 
 ## in progress
 
-- [ ] finish session notes for [2022-03-17](../sessions/2022-03-17.md)
+- [ ] draft node graph for [trouble-in-paradise](../adventures/trouble-in-paradise.md)
 
 
 ## done
 
 **Complete**
+- [x] update scenario timeline for [trouble-in-paradise](../adventures/trouble-in-paradise.md)
+- [x] finish logbook for [[a3e7]]
+- [x] create statblock for [sandesyl morgia](../npcs/sandesyl-morgia.md)
 
 
 

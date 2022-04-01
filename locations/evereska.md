@@ -2,7 +2,7 @@
 
 ```leaflet
 id: evereska-map
-image: Evereska/evereska.jpg
+image: ../images/maps/evereska.jpg
 bounds: [[0, 0], [2700, 2006]]
 unit: feet
 lat: 1350

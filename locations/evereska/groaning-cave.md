@@ -4,8 +4,10 @@
 ## Ambience
 https://www.youtube.com/watch?v=jxzX3OHaGw8
 plus cave ambience on watch2gether
+## Background
+
 ## Areas
 ### Entrance
 ### Mythal room
-
-### Coffin room
+The room containing the Mythal Stone was protected by a powerful ward, but once Sandesyl realized what was concealed in the room, she abducted Mithriel Summergale in order to obtain entrance. Mithriel knew of the existence of this room but had never entered it; Araevin is the only one who had.
+### 

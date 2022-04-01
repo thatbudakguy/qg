@@ -1,7 +1,5 @@
 # Act III: “Revelations”
 
-Adventures: ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Varram%20the%20White%200d3702e7d9684925b2c1fc5cbca6c2a7.md, ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/The%20Cult%20Strikes%20Back,%20Pt%201%2043bb1e34464c4aaaa22f2dd096ffee42.md, ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/The%20Sea%20of%20Moving%20Ice%20419a63a18bd048eaa22d34d28f1a50ec.md, ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/First%20Council%20of%20Waterdeep%20766fa5e3a48a44058d834bdc184caf26.md, ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Windsong%20Tower%20c3980d8f1aa242eeb70124ce914bb2ae.md, ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Evereska%20fa9bf13aa41f42b7a8011b7d04faa038.md
-
 # Todo
 
 - [ ]  Prep Evereska scenario
@@ -50,12 +48,7 @@ Adventures: ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Varram%20the%20W
     - [Ontharr Frume](../../Characters%20%281%29/Ontharr%20Frume.md), representing the [order-of-the-gauntlet](../../factions/order-of-the-gauntlet.md)
     - [Remallia Haventree](../../Characters%20%281%29/Remallia%20Haventree/%21index.md), representing the [harpers](../../factions/harpers.md) (and maybe Renaer)
     - Sir Isteval (Cormyr), Ahash Al-Mandi (Calimshan), etc. representing the [lords-alliance](../../factions/lords-alliance.md) (see adventure)
-- Clue leading to Varram the White
 - Clue leading to the Sea of Moving Ice
-
-## The Serpent Hills
-
-- The Pool of Diderius can offer insights to anyone in the Gang
 
 ## The Sea of Moving Ice
 
@@ -81,7 +74,6 @@ Adventures: ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Varram%20the%20W
 
 - *Frostskimmr* generic battlemap? ([https://talestavern.com/slab/small-viking-ship/](https://talestavern.com/slab/small-viking-ship/), [https://talestavern.com/slab/sea-of-moving-ice-encounters-tyranny-of-dragons/](https://talestavern.com/slab/sea-of-moving-ice-encounters-tyranny-of-dragons/))
 - Oyaviggaton / Ice Hunter village
-- Tomb of Diderius
 - Tower of Arcane Might (Thurndan’s Lair)
 - Denlor’s Tower
 

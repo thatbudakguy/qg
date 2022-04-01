@@ -1,4 +1,4 @@
-# Sandesyl Morgia
+z# Sandesyl Morgia
 
 # Appearance
 
@@ -27,7 +27,10 @@ Sandesyl uses *disguise self* if she is anywhere near the PCs, who have seen her
 - There is an active [eldreth-valuuthra](../factions/eldreth-valuuthra.md) cell in Evereska who understand that the Dragons are our greatest ally against the “low races”.
 
 # Stat Block
-
-Uses Vampire stats.
-
-[Roll20](https://roll20.net/compendium/dnd5e/Monsters:Vampire/#h-Vampire)
+```statblock
+monster: Vampire Spellcaster
+name: Sandesyl Morgia, Vampire
+hp: 161
+hit_dice: null
+languages: Common, Elvish, Draconic
+```

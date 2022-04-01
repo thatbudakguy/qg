@@ -2,6 +2,14 @@
 
 Adventures: ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Second%20Council%20of%20Waterdeep%20752e743daf2242dc98e167aecc1ebbf9.md, ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Neronvain%208f1b14feaa3a44cb8656af7f8e3f4dde.md, ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/The%20Cult%20Strikes%20Back,%20Pt%202%20949e84c366ae4564b1f97a844fb3e515.md, ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Metallic%20Dragons,%20Arise%20bd9309b66447467a8100f792b082c8ae.md, ../../Adventures%2073db78ef941a4ddba0b2d61f27688925/Candlekeep%2084540401130c41ec8b052d5a05416dd4.md
 
+## Nodes
+
+### Waterdeep
+second council of waterdeep
+### High Forest
+neronvain
+### 
+
 ## Synopsis
 
 Perhaps the gang could return to the Moonsea here for an underwater expedition to Northkeep, the ancient city that was the first human settlement in the Moonsea near Calcey's home of Elmwood. All that remains of Northkeep now is the Bell in the Deep, a ghostly tower of the old city that sailors speak of in legends. Could Northkeep hold a secret key to defeating the cult?

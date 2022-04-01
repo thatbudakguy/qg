@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1b5594cfe8cb976e",
+        "id": "5cc43d812daf0e95",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adventures/trouble-in-paradise.md",
-            "mode": "source",
+            "file": "sessions/2022-03-31.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/trouble-in-paradise.md",
+                "file": "sessions/2022-03-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/trouble-in-paradise.md"
+                "file": "sessions/2022-03-31.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/trouble-in-paradise.md",
+                "file": "sessions/2022-03-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,24 +154,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
+    "width": 397.5,
     "collapsed": true
   },
-  "active": "1b5594cfe8cb976e",
+  "active": "5cc43d812daf0e95",
   "lastOpenFiles": [
+    "sessions/2022-03-31.md",
+    "notes/warmup-questions.md",
+    "sessions/202.md",
     "adventures/trouble-in-paradise.md",
+    "locations/evereska.md",
     "campaign/act-iv.md",
     "campaign/act-iii.md",
     "notes/prep-board.md",
     "campaign/act-v.md",
-    "locations/evereska.md",
-    "locations/evereska/hall-of-the-high-hunt.md",
-    "locations/evereska/groaning-cave.md",
-    "college-of-magic-and-arms.md",
-    "images/maps/chult.jpg"
+    "locations/evereska/hall-of-the-high-hunt.md"
   ]
 }

@@ -23,6 +23,7 @@ d --> b & c
 - Sandesyl used her pawn Tyrael to abduct Mithriel Summergale the night of Ches 11.
 	- Mithriel doesn't wake the party up on the morning of Ches 12.
 	- Students at the Unicorn and Crescent can describe seeing Tyrael enter the place late at night, looking for Mithriel. He left after a short conversation with her. Nothing seemed amiss.
+	- Mithriel's parents, who live near Moondark hill, haven't seen her in two tendays, as she's been busy with her stewardship and studies. She normally visits every few tendays.
 
 ## Timeline
 ```timeline
