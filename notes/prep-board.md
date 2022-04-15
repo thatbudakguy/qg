@@ -13,7 +13,6 @@ kanban-plugin: basic
 - [ ] investigate [streaming plugin](https://talespire.thunderstore.io/package/LordAshes/StreamViewsPlugin/) for TaleSpire
 - [ ] create custom subclass for Declan in DDB
 - [ ] create d&d beyond OBS overlay
-- [ ] use [obsidian-timeline](https://github.com/George-debug/obsidian-timeline) plugin for timelines
 
 
 ## backlog
@@ -32,6 +31,7 @@ kanban-plugin: basic
 **Complete**
 - [x] update scenario timeline for [trouble-in-paradise](../adventures/trouble-in-paradise.md)
 - [x] finish logbook for [[a3e7]]
+- [x] use [obsidian-timeline](https://github.com/George-debug/obsidian-timeline) plugin for timelines
 - [x] create statblock for [sandesyl morgia](../npcs/sandesyl-morgia.md)
 
 

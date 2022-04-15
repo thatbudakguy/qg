@@ -14,8 +14,11 @@ At Xonthal's tower, the gang may learn a bit about the plans of the cultists not
 
 Third Council of Waterdeep
 
-Mission to Thay
+The Cult Strikes Back: Part 3 / dragon mask thing
 
-The Cult Strikes Back: Part 3
+Metallic Dragons, Arise (Peregrine)
 
-Hunting the Shard
+Gatekeeper's Crystal thing?
+
+Thay thing?
+

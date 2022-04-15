@@ -2,15 +2,11 @@
 
 # Todo
 
-- [ ]  Prep Evereska scenario
-- [ ]  [](../../npcs/Characters.csv) entry for Talis
+- [ ]  [](../../npcs/Characters.csv) entry for Talis the White
 - [ ]  [](../../npcs/Characters.csv) entry for Remallia Haventree (Remi)
 - [ ]  [](../../npcs/Characters.csv) entry for Sir Isteval of Cormyr
 - [ ]  [](../../npcs/Characters.csv) entry for Szass Tam
-- [ ]  [](../../npcs/Characters.csv) entry for Rath Modar
 - [ ]  Create Ali chess puzzle for Denlor’s Tower
-- [ ]  Test dual-PC streaming setup
-- [ ]  Test audio streaming setup
 
 # Overview
 
@@ -22,26 +18,16 @@
 - The Gang meet Araevin Teshurr, who is now the High Mage of Evereska and retired from adventuring. Events of Last Mythal didn’t happen though; he just has been separated from Ilsevele since Seiveril’s Crusade retook the city (which was a long time ago!)
 - Something with [Eryn](../../Characters%20%281%29/Eryn/%21index.md)?
 
-## Phlan
+## [Phlan](../adventures/cult-strikes-back-pt-1.md)
 
 - The Gang have an opportunity to solve the puzzle that grants access to Denlor’s private chambers - and it may involve books in his library
 - There is new mail for [Peregrine Buntly](../../Characters%20%281%29/Peregrine%20Buntly/%21index.md) to deliver?
 - Cult Strikes Back here, and they maybe learn about the Scale of Tiamat?
 - Seagull’s Caw
 
-## Mulmaster
+## [Mulmaster](../adventures/city-of-danger.md)
 
-[http://67.82.39.229:88/DandD/5E/Campaigns/Adventurer' League/Season 2 - Elemental Evil/DDEX2 - d&d ee expeditions/DDEX2-8 Foulness Beneath Mulmaster (1-4).pdf](http://67.82.39.229:88/DandD/5E/Campaigns/Adventurer%27%20League/Season%202%20-%20Elemental%20Evil/DDEX2%20-%20d&d%20ee%20expeditions/DDEX2-8%20Foulness%20Beneath%20Mulmaster%20(1-4).pdf)
-
-[https://forgottenrealms.fandom.com/wiki/Mulmaster?so=search&file=Mulmaster_district_Will_Doyle.jpg](https://forgottenrealms.fandom.com/wiki/Mulmaster?so=search&file=Mulmaster_district_Will_Doyle.jpg)
-
-[https://forgottenrealms.fandom.com/wiki/The_Sword_of_Selfaril](https://forgottenrealms.fandom.com/wiki/The_Sword_of_Selfaril)
-
-[https://forgottenrealms.fandom.com/wiki/The_Drowned_Tower](https://forgottenrealms.fandom.com/wiki/The_Drowned_Tower)
-
-- [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md) lays a trap for the gang using [Sahnd Krulek](../../Characters%20%281%29/Sahnd%20Krulek/%21index.md)
-
-## Waterdeep
+## [Waterdeep](../adventures/first-council-of-waterdeep.md)
 
 - The PCs meet the delegates to the First Council of Waterdeep:
     - [Davil Starsong](../../Characters%20%281%29/Davil%20Starsong/%21index.md), who is acting as an aide to Dagult and isn’t explicitly acknowledged as [zhentarim](../../factions/zhentarim.md) (travels with Ziraj as bodyguard)
@@ -50,7 +36,7 @@
     - Sir Isteval (Cormyr), Ahash Al-Mandi (Calimshan), etc. representing the [lords-alliance](../../factions/lords-alliance.md) (see adventure)
 - Clue leading to the Sea of Moving Ice
 
-## The Sea of Moving Ice
+## [Sea of Moving Ice]
 
 - [Hagar Bloodrop](../../Characters%20%281%29/Hagar%20Bloodrop/%21index.md) can have an audience with Bonecarver, the shaman who practices totem magic
 - Maccath the Crimson can explain things about the Arcane Brotherhood, and about [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md) and maybe [Eryn](../../Characters%20%281%29/Eryn/%21index.md)

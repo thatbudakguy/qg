@@ -15,6 +15,7 @@
 - ~~If your character had a warning label, what would it say?~~
 - ~~What is one rule your character never breaks?~~
 - ~~- Describe your character’s personal hell.~~
+- ~~What is one thing your character admires about someone else in the party?~~
 - What is the best meal your character has ever eaten?
 - What is the best gift your character has ever received?
 - What is one title your character has earned that makes them proud?
@@ -43,7 +44,6 @@
 - When’s the last time your character has used a set of tools?
 - What deity does your character worship? How do they show their devotion?
 - Tell me about one trinket your character possesses.
-- What is one thing your character admires about someone else in the party?
 - How does your character relax after a hard day’s work?
 - What does your character see when they look in the mirror?
 - What is one way that someone can earn your character’s trust?

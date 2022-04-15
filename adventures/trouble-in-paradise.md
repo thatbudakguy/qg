@@ -1,29 +1,23 @@
 # Trouble in Paradise
-## Diagram
-```mermaid
-flowchart TD
-
-%% nodes
-a(Unicorn and Crescent Inn)
-b(College of Magic)
-c(Skyreach Castle Wreck)
-d(Groaning Cave)
-
-%% links
-a --> b & c & d --> e
-b --> c & d
-c --> b & d
-d --> b & c
-```
 ## Revelations
 - Sandesyl turned the Vale Guard soldier Tyrael Mooncairn into a Vampire Spawn the night of Ches 10.
 	- Trueshot or Rhaellen Darthammel know that Tyrael didn't return from his patrol on the night of Ches 10.
+	- Captain Darthammel knows that Tyrael was a veteran of the Tomb Guard, not some fresh soldier. He was an expert ranger and, as a Cavewalker, knew the Passage better than most, as he was responsible for teaching it to the Elves who were preparing to leave the city.
+	- Both men know that no patrols entered Skyreach on the night of Ches 10, as it wasn't deemed safe. Tyrael's route would have taken him around the perimeter of the castle.
+	- It's difficult as the tracks are muddy and well-worn, but a PC can potentially retrace Tyrael's steps. A DC 20 Survival check reveals a scuffle took place some days ago on the far side of the castle, where a medium Creature struggled for some time. Blood was lost here, but oddly, only one pair of footprints leaves this area in a different direction.
 - Sandesyl has established a new lair inside the Groaning Cave.
+	- 
 - The Mythal Stone that governs Evereska's Mythal is inside the Groaning Cave.
+	- If not blindfolded, Declan's spellsight reveals that there are long magical threads running through the Passage itself, and winding out into the open space above the City. Something with a powerful connection to the weave must be hidden somewhere in the caves.
+	- Mithriel has a small room at the Unicorn and Crescent that she uses as steward. In the room is a journal that reveals that about two years ago, Araevin brought Mithriel with him to a place called the Groaning Cave in order to test her in Elven High Magic (after years of practice with him). The trip seems to have been a mixed success.
 - Sandesyl used her pawn Tyrael to abduct Mithriel Summergale the night of Ches 11.
 	- Mithriel doesn't wake the party up on the morning of Ches 12.
 	- Students at the Unicorn and Crescent can describe seeing Tyrael enter the place late at night, looking for Mithriel. He left after a short conversation with her. Nothing seemed amiss.
 	- Mithriel's parents, who live near Moondark hill, haven't seen her in two tendays, as she's been busy with her stewardship and studies. She normally visits every few tendays.
+	- An investigation check reveals that Mithriel's room at the Unicorn and Crescent hasn't been touched since the night of Ches 12.
+- Another dragon mask is held by someone who is terrorizing the Misty Forest (link to Neronvain adventure).
+	- Erlan Duirsar sends for the party using Manynests and invites them to an audience where he reveals that his contact with King Melandrach did not go well.
+	- Or, later on, once the council contacts Evereska or the party, Duirsar will volunteer this information.
 
 ## Timeline
 ```timeline
