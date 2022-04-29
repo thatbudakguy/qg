@@ -55,7 +55,7 @@
 
 + Ches 13<br/>day
 + Cult forces assemble
-+ After being contacted by Sandesyl, Severin Silrajin authorizes the assembly of an army to retake the Hoard of Tiamat from Evereska. Preparing for the Mythal's defenses to be lowered, Severin orders the _Draakhorn_ to be sounded, and commands Varram the White to lead a detachment of dragons who assemble at the Well of Dragons to Evereska to retake the Hoard.
++ After being contacted by Sandesyl, Severin Silrajin authorizes the assembly of an army to retake the Hoard of Tiamat and the Black Dragon Mask from the wreck of Skyreach. Preparing for the Mythal's defenses to be lowered, Severin orders the _Draakhorn_ to be sounded, and commands Varram the White to lead a detachment of dragons who assemble at the Well of Dragons to Evereska.
 
 + Ches 15<br/>night
 + Cult attacks
