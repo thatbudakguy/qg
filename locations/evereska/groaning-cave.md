@@ -10,4 +10,20 @@ This
 ### Entrance
 ### Mythal room
 The room containing the Mythal Stone was protected by a powerful ward, but once Sandesyl realized what was concealed in the room, she abducted Mithriel Summergale in order to obtain entrance.
+
 ### 
+
+## Mythal
+- the mythal was raised by several (3) high mages who gave their lives during a ritual of complement
+- when mithriel attempts to alter the mythal, she influences these spirits using the power from the souls of the dead elves
+- declan has to engage in some sort of content of wits/arcane lore with these spirits, and his body is catatonic, in order to reverse the changes to the mythal
+- mithriel is able to remove the prohibition against dragons, so it is a race against time to re-add this as the cult forces are nearing the meadow wall
+
+## Battle
+### Skyreach Assault
+During the battle, the cult will be simultaneously attempting to recapture the treasure from Skyreach Castle in the Vine Vale.
+	- on initiative count 20, roll a d6.
+	- on a 1-4, tick one segment on the skyreach battle clock (8 segments).
+	- on a 5, do nothing.
+	- on a 6, remove one segment from the clock.
+	- if the Vale Guard and Cold Hand were alerted to the Cult's arrival prior to the battle, do nothing on a roll of 4 and 5. they are still outgunned by the dragons, but in a better defensive position.

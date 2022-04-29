@@ -20,4 +20,5 @@ zoomDelta: 0.5
 [Starmeadow Tower](evereska/starmeadow-tower.md)
 [The Unicorn and Crescent Inn](evereska/unicorn-and-crescent-inn.md)
 [College of Magic](evereska/college-of-magic.md)
+[Floating Gardens of Aerdrie Faenya]()
 

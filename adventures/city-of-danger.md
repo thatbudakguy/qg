@@ -32,4 +32,5 @@ flowchart TD
 ## Timeline
 - 1510/09/09: foobar
 ## NPCs
+- some sort of former colleague of calcey who needs the party to do a QPQ task for them (heist?) to get something
 ## Locations
