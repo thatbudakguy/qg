@@ -14,6 +14,18 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "c90fa2a44ddbbfeb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "a3e11.md",
+            "mode": "source",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "right": {
     "id": "d89c90b432fbc251",
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2022-05-05.md",
+                "file": "a3e11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2022-05-05.md"
+                "file": "a3e11.md"
               }
             }
           },
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2022-05-05.md",
+                "file": "a3e11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,8 +175,9 @@
     "width": 397.5,
     "collapsed": true
   },
-  "active": "1fd1a5a8c334931f",
+  "active": "c90fa2a44ddbbfeb",
   "lastOpenFiles": [
+    "a3e11.md",
     "sessions/2022-05-05.md",
     "sessions/2022-04-14.md",
     "notes/warmup-questions.md",
@@ -172,7 +186,6 @@
     "npcs/sandesyl-morgia.md",
     "locations/evereska/college-of-magic.md",
     "logbook/a3e10.md",
-    "locations/evereska/floating-gardens.md",
-    "logbook/a3e9.md"
+    "locations/evereska/floating-gardens.md"
   ]
 }
