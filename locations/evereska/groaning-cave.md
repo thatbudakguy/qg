@@ -5,7 +5,10 @@
 https://www.youtube.com/watch?v=jxzX3OHaGw8
 plus cave ambience on watch2gether
 ## Background
-This 
+-   There’s a noticeable increase in the populations of bats, rats, and wolves in the region.
+-   Plants within 500 feet of the lair wither, and their stems and branches become twisted and thorny.
+-   Shadows cast within 500 feet of the lair seem abnormally gaunt and sometimes move as though alive.
+-   A creeping fog clings to the ground within 500 feet of the vampire’s lair. The fog occasionally takes eerie forms, such as grasping claws and writhing serpents.
 ## Areas
 ### Entrance
 ### Mythal room

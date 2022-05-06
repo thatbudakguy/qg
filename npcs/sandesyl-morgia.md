@@ -11,7 +11,7 @@ Gaunt moon elf woman with silvery hair and high, noble cheekbones. Wearing a lon
 
 # Background
 
-The Morgias were once one of the great families of Evermeet, but great wasn’t enough: they needed to be the greatest. The price for that ambition turned out to be undeath — [name] Morgia’s patron, who provided the family with a near endless source of wealth, was a vampire who sought inroads into one of the only communities on Toril that had kept his kind out since the dawn of time.
+The Morgias were once one of the great families of Evermeet, but great wasn’t enough: they needed to be the greatest. The price for that ambition turned out to be undeath — Malkizid, Morgia’s patron, who provided the family with a near endless source of wealth, was a vampire who sought inroads into one of the only communities on Toril that had kept his kind out since the dawn of time.
 
 When the treachery of the Morgias was finally exposed, they were exiled to Toril, where their resentment only festered further. 
 
