@@ -16,6 +16,9 @@
 - ~~What is one rule your character never breaks?~~
 - ~~- Describe your character’s personal hell.~~
 - ~~What is one thing your character admires about someone else in the party?~~
+- ~~What is one thing your character has seen or done that no one would ever believe?~~
+- ~~If your character were to start a business, what would it be? What would make it special?~~
+- ~~If your character could ask an all-knowing entity one question, what would it be?~~
 - What is the best meal your character has ever eaten?
 - What is the best gift your character has ever received?
 - What is one title your character has earned that makes them proud?
@@ -35,7 +38,6 @@
 - What is one rule your character never breaks?
 - A new adventurer approaches your character, asking them for wisdom. What lesson does your character impart to the young adventurer?
 - Describe one of your character’s childhood friends.
-- If your character could ask an all-knowing entity one question, what would it be?
 - If your character was an animal, which one would they be?
 - Where was your character educated? If they didn’t have a formal education, how were they taught?
 - What is one secret the rest of the party doesn’t know about your character?
@@ -57,5 +59,3 @@
 - What is one way that your character shows they care about someone else?
 - What is something your character doesn’t have enough of?
 - If your character was a drink, what would they be and why?
-- If your character were to start a business, what would it be? What would make it special?
-- What is one thing your character has seen or done that no one would ever believe?

@@ -5,8 +5,6 @@
 	- Captain Darthammel knows that Tyrael was a veteran of the Tomb Guard, not some fresh soldier. He was an expert ranger and, as a Cavewalker, knew the Passage better than most, as he was responsible for teaching it to the Elves who were preparing to leave the city.
 	- Both men know that no patrols entered Skyreach on the night of Ches 10, as it wasn't deemed safe. Tyrael's route would have taken him around the perimeter of the castle.
 	- It's difficult as the tracks are muddy and well-worn, but a PC can potentially retrace Tyrael's steps. A DC 20 Survival check reveals a scuffle took place some days ago on the far side of the castle, where a medium Creature struggled for some time. Blood was lost here, but oddly, only one pair of footprints leaves this area in a different direction.
-- Sandesyl has established a new lair inside the Groaning Cave.
-	- 
 - The Mythal Stone that governs Evereska's Mythal is inside the Groaning Cave.
 	- If not blindfolded, Declan's spellsight reveals that there are long magical threads running through the Passage itself, and winding out into the open space above the City. Something with a powerful connection to the weave must be hidden somewhere in the caves.
 	- Mithriel has a small room at the Unicorn and Crescent that she uses as steward. In the room is a journal that reveals that about two years ago, Araevin brought Mithriel with him to a place called the Groaning Cave in order to test her in Elven High Magic (after years of practice with him). The trip seems to have been a mixed success.
@@ -49,17 +47,17 @@
 + Abduction of Mithriel
 + Sandesyl sends Tyrael, using _disguise self_ to appear as a normal soldier of the Cold Hand, into Evereska in search of one with knowledge of High Magic. The Spawn talks to several students at the [College](../locations/evereska/college-of-magic.md) and is eventually directed to the [Unicorn and Crescent Inn](../locations/evereska/unicorn-and-crescent-inn.md), where he finds Mithriel Summergale, student of Araevin. On learning that Mithriel has studied High Magic, Tyrael convinces her to accompany him to the Groaning Cave, where Sandesyl uses _dominate person_ to force Mithriel to open the door to the Mythal Chamber.
 
++ Ches 12<br/>day
++ Cult forces assemble
++ After being contacted by Sandesyl, Severin Silrajin authorizes the assembly of an army to retake the Hoard of Tiamat and the Black Dragon Mask from the wreck of Skyreach. Preparing for the Mythal's defenses to be lowered, Severin orders the _Draakhorn_ to be sounded, and commands Varram the White to lead a detachment of dragons who assemble at the Well of Dragons to Evereska.
+
 + Ches 12<br/>night
 + Abduction of the sick
 + On learning that Mithriel lacks the power to corrupt Evereska's mythal on her own, Sandesyl resolves to make up the gap in High Mages required for a _Ritual of Complement_ by paying the cost in lives. She again sends Tyrael into the city, this time to visit the Floating Gardens, where the sick are tended to by the clerics of the Seldarine, including High Huntress [Thia Riverwall](../npcs/thia-riverwall.md). Tyrael abducts two elves, Laethan and Morian, who are suffering from [Marsh fever](https://forgottenrealms.fandom.com/wiki/Marsh_fever).
 
-+ Ches 13<br/>day
-+ Cult forces assemble
-+ After being contacted by Sandesyl, Severin Silrajin authorizes the assembly of an army to retake the Hoard of Tiamat and the Black Dragon Mask from the wreck of Skyreach. Preparing for the Mythal's defenses to be lowered, Severin orders the _Draakhorn_ to be sounded, and commands Varram the White to lead a detachment of dragons who assemble at the Well of Dragons to Evereska.
-
-+ Ches 15<br/>night
++ Ches 12<br/>night
 + Cult attacks
-+ With a new moon leaving the power of the Mythal at its weakest, Sandesyl sacrifices the sick elves using _soultheft_ and forces Mithriel to use their power to alter the Mythal, removing its forbiddance against dragons. The Cult forces, including the dragons Vorgansharax (adult green), Lennithon (adult blue), and Glazhael (adult white), attack after nightfall, ravaging the forces in the Vine Vale and quickly taking control of the wreck of Skyreach.
++ With no time left to waste, Sandesyl sacrifices the sick elves using _soultheft_ and forces Mithriel to use their power to alter the Mythal, removing its forbiddance against dragons. The Cult forces, including the dragons Vorgansharax (adult green), Lennithon (adult blue), and Glazhael (adult white), attack after nightfall, ravaging the forces in the Vine Vale and quickly taking control of the wreck of Skyreach.
 
 + Later?
 + Orders from Waterdeep

@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd1a5a8c334931f",
+        "id": "a666aecb085f5d86",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sessions/2022-05-05.md",
+            "file": "sessions/2022-05-26.md",
             "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "c90fa2a44ddbbfeb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "a3e11.md",
-            "mode": "source",
             "source": true
           }
         }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scry",
+                "query": "clock",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "d89c90b432fbc251",
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a3e11.md",
+                "file": "sessions/2022-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a3e11.md"
+                "file": "sessions/2022-05-26.md"
               }
             }
           },
@@ -145,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a3e11.md",
+                "file": "sessions/2022-05-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,17 +161,17 @@
     "width": 397.5,
     "collapsed": true
   },
-  "active": "c90fa2a44ddbbfeb",
+  "active": "a666aecb085f5d86",
   "lastOpenFiles": [
-    "a3e11.md",
-    "sessions/2022-05-05.md",
-    "sessions/2022-04-14.md",
+    "sessions/2022-05-26.md",
     "notes/warmup-questions.md",
+    "sessions/2022-05-22.md",
+    "logbook/a3e12.md",
+    "logbook/a3e11.md",
     "locations/evereska/groaning-cave.md",
-    "sessions/2022-05-19.md",
-    "npcs/sandesyl-morgia.md",
-    "locations/evereska/college-of-magic.md",
-    "logbook/a3e10.md",
-    "locations/evereska/floating-gardens.md"
+    "pcs/declan-truefire.md",
+    "pcs/declan-truefire/timeline.md",
+    "adventures/trouble-in-paradise.md",
+    "logbook/a3e10.md"
   ]
 }
