@@ -1,4 +1,5 @@
 {
+  "addToDefaultIfMissing": true,
   "calendars": [
     {
       "name": "Calendar of Harptos",
@@ -382,17 +383,30 @@
       "displayWeeks": false
     }
   ],
+  "configDirectory": null,
   "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
   "defaultCalendar": "ID_a888291a196b",
   "eventPreview": true,
-  "configDirectory": null,
-  "path": "/",
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
   "parseDates": false,
-  "dateFormat": "YYYY-MM-DD",
-  "dailyNotes": false,
+  "settingsToggleState": {
+    "calendars": false,
+    "events": false,
+    "advanced": true
+  },
+  "showIntercalary": false,
   "version": {
     "major": null,
     "minor": null,
     "patch": null
-  }
+  },
+  "debug": false,
+  "path": "/"
 }
