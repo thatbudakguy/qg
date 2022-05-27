@@ -30,7 +30,7 @@ kanban-plugin: basic
 
 **Complete**
 - [x] update scenario timeline for [trouble-in-paradise](../adventures/trouble-in-paradise.md)
-- [x] finish logbook for [[a3e7]]
+- [x] finish logbook for [[../logbook/act-iii/a3e7]]
 - [x] use [obsidian-timeline](https://github.com/George-debug/obsidian-timeline) plugin for timelines
 - [x] create statblock for [sandesyl morgia](../npcs/sandesyl-morgia.md)
 

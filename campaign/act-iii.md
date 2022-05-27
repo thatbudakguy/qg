@@ -1,13 +1,4 @@
 # Act III: “Revelations”
-
-# Todo
-
-- [ ]  [](../../npcs/Characters.csv) entry for Talis the White
-- [ ]  [](../../npcs/Characters.csv) entry for Remallia Haventree (Remi)
-- [ ]  [](../../npcs/Characters.csv) entry for Sir Isteval of Cormyr
-- [ ]  [](../../npcs/Characters.csv) entry for Szass Tam
-- [ ]  Create Ali chess puzzle for Denlor’s Tower
-
 # Overview
 
 # Nodes
@@ -43,18 +34,15 @@
 
 # Revelations
 
-- [Declan Truefire](../../Characters%20%281%29/Declan%20Truefire/%21index.md) is one of Mystra’s Chosen
-- The Chosen have been disappearing and few are left on Faerun
-- A great battle was fought and Myth Drannor fell in the recent past, leaving the throne of Cormyr vacant
-- The Great Spirit Magnar lives, and is trying to get [Hagar Bloodrop](../../Characters%20%281%29/Hagar%20Bloodrop/%21index.md)’s help because it is oppressed in some way
-- Varram the White has lost the White Dragon mask, and is seeking it in the Serpent Hills
-- The sound heard across Faerun was produced by the Draakhorn, an ancient artifact last known to be in the Sea of Moving Ice
-- Talis the White has been promoted to Wyrmspeaker and continues to observe the characters via *scrying*
-- Rastol Shan, a political and arcane leader in Mulmaster, was ousted for dealing with Thay and fled to Luskan, later becoming [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md)
-- [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md) has one of the shards of the Gatekeeper’s Crystal
-- [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md) is possessed by Tyranthraxus and intent controlling the Moonsea while seeking the Gatekeeper’s Crystal
-- [Eryn](../../Characters%20%281%29/Eryn/%21index.md) was an assistant to [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md), imprisoned because she discovered he had been possessed by Tyranthraxus
-- [Sahnd Krulek](../../Characters%20%281%29/Sahnd%20Krulek/%21index.md) serves as right-hand man to [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md), believing his power will put an end to corruption across the Moonsea
+- [ ] [Declan Truefire](../../Characters%20%281%29/Declan%20Truefire/%21index.md) is one of Mystra’s Chosen
+- [ ] The Chosen have been disappearing and few are left on Faerun
+- [ ] A great battle was fought and Myth Drannor fell in the recent past, leaving the throne of Cormyr vacant
+- [ ] The Great Spirit Magnar lives, and is trying to get [Hagar Bloodrop](../../Characters%20%281%29/Hagar%20Bloodrop/%21index.md)’s help because it is oppressed in some way
+- [ ] The sound heard across Faerun was produced by the Draakhorn, an ancient artifact last known to be in the Sea of Moving Ice
+- [ ] Talis the White has been promoted to Wyrmspeaker and continues to observe the characters via *scrying*
+- [ ] [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md) has one of the shards of the Gatekeeper’s Crystal
+- [ ] [Eryn](../../Characters%20%281%29/Eryn/%21index.md) was an assistant to [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md), imprisoned because she discovered he had been possessed by Tyranthraxus
+- [ ] [Sahnd Krulek](../../Characters%20%281%29/Sahnd%20Krulek/%21index.md) serves as right-hand man to [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md), believing his power will put an end to corruption across the Moonsea
 
 # TaleSpire Maps
 

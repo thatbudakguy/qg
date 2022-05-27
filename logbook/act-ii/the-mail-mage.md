@@ -1,0 +1,10 @@
+# The Mail Mage
+
+Date: May 12, 2021
+
+- Feasting on a breakfast assembled by [Calcey Firecrotch](../Characters/Calcey%20Firecrotch/%21index.md) in the Roarke House kitchen, the gang enjoys an early dessert of candied figs. [Peregrine Buntly](../Characters/Peregrine%20Buntly/%21index.md) contacts [leosin-erlanthar](../../npcs/leosin-erlanthar.md) via *sending* and learns that his caravan will arrive in the city on the following day.
+- Visiting the great Market of Waterdeep, the gang look for some souvenirs to bring back to Phlan. [Declan Truefire](../Characters/Declan%20Truefire/%21index.md) acquires a wheel of fine Waterdhavian cheese, but passes on the much stranger and more expensive Luiren Spring Cheese. Calcey approaches an unscrupulous vendor and learns of a gang of wagon robbers for hire captained by a halfling named Kynt.
+- Visting Kynt's supposed haunt, the Mighty Manticore tavern, the gang learn that Kynt won't arrive until the evening. Enjoying a midday meal, Declan makes the unfortunate discovery that he is lactose intolerant, and the gang leave before his flatulence attracts undue attention.
+- Peregrine stops by a courier depot in the Castle Ward to see if he can ferry any mail back to Phlan, and is paid 5gp to transport a small bundle of personal mail.
+- Returning to the Mighty Manticore at sundown, the gang spot Kynt at a table in the back. [Sirge Wintermelt](../Characters/Sirge%20Wintermelt/%21index.md) volunteers to speak with the thief, but comes back mostly emptyhanded — evidently Kynt has no foreknowledge of the arriving cult caravan. The gang return to Roarke House to get some sleep.
+- In the morning, [Hagar Bloodrop](../Characters/Hagar%20Bloodrop/%21index.md) summons a spectral peregrine falcon to spy on the arriving caravan. At Caravan Court, several wagons begin arriving, and before long the guards have queued up to receive their pay and goods begin to be unloaded. A single guard approaches the gang and reveals that he is Leosin in disguise.
