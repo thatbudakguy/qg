@@ -1,2 +1,5 @@
 # mac thumbnails
 **/.DS_Store
+
+# obisidian workspace setup
+.obsidian/workspace
