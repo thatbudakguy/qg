@@ -1,26 +1,27 @@
 # The Cult Strikes Back, Pt. 1
-## Diagram
-```mermaid
-flowchart TD
-
-%% nodes
-a(Denlor's Tower)
-b(Mantor's Library)
-c(Stojanow Gate)
-d(Kabel's Hill)
-e(Calvin Bramblebottom)
-
-%% links
-a --> b & c & d --> e
-b --> c & d
-c --> b & d
-d --> b & c
-```
-
+## Revelations
+- [ ] The Lord Sage of Phlan is Ranthor, half-brother to Denlor and Gensor.
+	- Denlor's journal describes 
+- [ ] Thurndan Tallwand is Gensor, half-brother to Ranthor and brother to Denlor.
+	- Denlor's journal details the wizard's 
+- [ ] Thurndan is currently active in Mulmaster and plotting to take over the Moonsea.
+	- [ ] Crew of the Seagull's Caw haven't been able to get anywhere east of Melvaunt due to blockades. Thentia was closed off, and they heard the Mulmasterite navy is everywhere in the East.
+	- [ ] Aya's last student, the noble Devon Nanther of Melvaunt, has withdrawn from her studies (when?), apparently at the behest of his family. Aya thinks the Nanthers are preparing for war.
+	- [ ] In Kabel's Hill, word is that Lord ??? of Hillsfar will soon cease sending resources (which?) to Phlan over the latter's refusal to join the "Moonsea League", a new confederation of city-states that is being run out of Mulmaster.
+	- [ ] On the docks, there are whispers that a great evil was recently perpetrated in Thentia. An arcane weapon of terrifying power was unleashed that destroyed the Watchlord's Tower. The next day, Thentia joined the Moonsea League.
 ## Nodes
+- Denlor's Tower
+	- foo -> 1
+- Mantor's Library
+	- foo -> 2
 ### Denlor's Tower
-- Puzzle
 - Clue to the Lord Sage's identity
+- Inside Denlor's room is information that is also a clue to City of Danger (hinting at Thurndan's identity)
+#### Puzzle
+- Derived from Chaos Magic Sigils, where words are encoded into a circle by converting them into numbers
+- Encoded names of Efreet only care about consonants, not vowels (borrowing from Abjads like Arabic), but encoded names in Common or other languages do (because they use an alphabet). Maybe the sigils can be different colors to indicate this.
+- Sigils for Efreet names have small "diacritics" or indicators added onto the stop points to indicate the vowel, instead of actually "visiting" the vowel.
+- See the Witch's Wheel method and [narZart method](https://www.chaostarot.com/app/kameas/narZart_original.jpg) for encoding techniques.
 ### Mantor's Library
 - Lord Sage confesses his identity (why?)
 - 
@@ -30,12 +31,6 @@ d --> b & c
 - Maybe there was a murder by a Zhent prison gang of one of the Cult-connected inmates.
 ### Kabel's Hill
 ### Seagull's Caw
-
-## Revelations
-- [ ] The Lord Sage of Phlan is Ranthor, half-brother to the twins Gensor and Denlor.
-- [ ] Gensor is the same man who now goes by the name Thurndan Tallwand, who magically aged Calcey.
-- [ ] Thurndan is currently active (how?) in Mulmaster in a way that threatens the Moonsea (a blockade?).
-- [ ] Denlor kept his greatest riches in his personal chambers, which were never breached. 
 
 ## Timeline
 

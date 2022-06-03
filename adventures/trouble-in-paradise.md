@@ -57,12 +57,11 @@
 
 + Ches 12<br/>night
 + Cult attacks
-+ With no time left to waste, Sandesyl sacrifices the sick elves using _soultheft_ and forces Mithriel to use their power to alter the Mythal, removing its forbiddance against dragons. The Cult forces, including the dragons Vorgansharax (adult green), Lennithon (adult blue), and Glazhael (adult white), attack after nightfall, ravaging the forces in the Vine Vale and quickly taking control of the wreck of Skyreach.
++ With no time left to waste, Sandesyl sacrifices the sick elves using _soultheft_ and forces Mithriel to use their power to alter the Mythal, removing its forbiddance against dragons. The Cult forces, including the dragons Vorgansharax (adult green), Lennithon (adult blue), and Glazhael (adult white), attack after nightfall.
 
-+ Later?
-+ Orders from Waterdeep
-+ The newly formed Council contacts Evereska to demand that the treasure be held until it can be returned to the people, and requesting representation on the Council from the elves of Evermeet.
-
++ Ches 12<br/>night
++ Mythal battle
++ The Quarantine Gang and Araevin Teshurr enter the Groaning Cave and battle Sandesyl for control of Evereska's mythal, eventually reactivating its powers to repel the Cult attack. Araevin banishes Sandesyl to the Elemental Plane of Fire.
 ```
 
 ## Names

@@ -18,7 +18,6 @@
     - Mystra, in her latest incarnation as the human wizard Midnight, is murdered by the god Cyric, touching off the Spellplague.
     - Wild magic effects rock Semberholme, twisting and distorting the ancient Elven magic intended to protect the forest. Logi's prophecy of a cataclysm seemingly confirmed, membership in the cult of Diaspor grows quickly.
     - Many of Mystra's Chosen die, and continue to do so over the intervening years – among them Manshoon, the Simbul, and Symrustar Auglamyr.
-    - Melandrach returns to the Misty Forest to assume rulership of its Elvish court, taking his two children and leaving Isevele alone to struggle with the effects of the Spellplague in Myth Drannor.
 - **1479 DR** (the Year of the Ageless One)
     - Elminster feels Mystra's presence calling to him. He absorbs the energy of the remaining chosen as they die and passes it on to the weakened Mystra. She asks him to find new Chosen for her.
     - As Mystra's magic returns to the world, the effects of the Spellplague manifesting in Semberholme begin to wane. Sensing that the promised apocalypse may have been a lie, Voadkyn begin to leave the Diaspor cult.

@@ -1,4 +1,4 @@
-# Ali
+# Alireza Hormuzd
 
 [DM Notes](../campaign/pcs/declan-truefire/DM%20Notes.md)
 

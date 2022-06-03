@@ -12,6 +12,10 @@
 
 # Timeline
 
+```timeline
++ 
+```
+
 - Alias Gensor, court mage of the Cadornas, until 1340 DR when Tyranthraxus was defeated. Collected some of the Pool of Radiance into a phial as part of his experiments into determining the nature of Tyranthraxus. Experimented on both undead and Raaxil, but eventually killed her.
 - Leader of Mulmaster's Brotherhood of the Cloak circa 1373 DR, when he was known by his birth name Rastol Shan.
 - In 1375 DR, conspired with Rassendyll Coldshore to usurp the rule of Rassendyll's twin brother Selfaril, the High Blade. Rastol believed (rightly) that Rassendyll would be a more impressionable ruler, and imprisoned Selfaril within a soul gem in the pommel of a sword, the *Sword of Selfaril*.
