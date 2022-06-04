@@ -1,5 +1,6 @@
 ---
 date: {{title}}
+aliases: [{{title}}]
 ---
 # Session Notes {{title}}
 # Todo
