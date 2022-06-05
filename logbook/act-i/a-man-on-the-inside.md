@@ -1,6 +1,10 @@
 # A Man on the Inside
 
-Date: February 17, 2021
+---
+date: February 17, 2021
+act: 1
+episode: 
+---
 
 Before leaving Mantor's Library, Declan takes the opportunity to commission research on Khelben Arunsun and Vorgansharax from Cassra Brandywine for the price of 15gp. Cassra promised to deliver results within 3 days.
 
