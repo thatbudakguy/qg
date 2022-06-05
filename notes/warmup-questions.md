@@ -19,6 +19,7 @@
 - ~~What is one thing your character has seen or done that no one would ever believe?~~
 - ~~If your character were to start a business, what would it be? What would make it special?~~
 - ~~If your character could ask an all-knowing entity one question, what would it be?~~
+- ~~When was the last time your character said, “I love you,” if ever?~~
 - What is the best meal your character has ever eaten?
 - What is the best gift your character has ever received?
 - What is one title your character has earned that makes them proud?
@@ -41,7 +42,6 @@
 - If your character was an animal, which one would they be?
 - Where was your character educated? If they didn’t have a formal education, how were they taught?
 - What is one secret the rest of the party doesn’t know about your character?
-- When was the last time your character said, “I love you,” if ever?
 - What is your character’s catch phrase?
 - When’s the last time your character has used a set of tools?
 - What deity does your character worship? How do they show their devotion?
