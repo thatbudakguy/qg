@@ -1,3 +1,6 @@
+---
+aliases: [Trouble in Paradise]
+---
 # Trouble in Paradise
 ## Revelations
 - Sandesyl turned the Vale Guard soldier Tyrael Mooncairn into a Vampire Spawn the night of Ches 10.

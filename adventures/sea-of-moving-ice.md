@@ -1,15 +1,14 @@
 ---
-aliases: [First Council of Waterdeep, First Council]
+aliases: [The Sea of Moving Ice, Sea of Moving Ice]
 ---
-# First Council of Waterdeep
+# The Sea of Moving Ice
 ## Synopsis
 A short, one-paragraph summary that describes the events you know will happen or need to happen to move the plot forward, along with the opportunities and dangers that will be presented to the PCs.
 ## Revelations
-- [ ] Draakhorn (link to [Sea of Moving Ice](sea-of-moving-ice.md))
+- [ ] Major revelation
 	- [ ] Place that it can be learned. checked off when acquired
 	- [ ] Another place/node that can give this info
 	- [ ] At least three per revelation!
-- [ ] 
 ## Timeline
 ```timeline
 + Someday, 1510 DR

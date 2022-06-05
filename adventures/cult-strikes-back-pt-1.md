@@ -24,13 +24,14 @@
 - See the Witch's Wheel method and [narZart method](https://www.chaostarot.com/app/kameas/narZart_original.jpg) for encoding techniques.
 ### Mantor's Library
 - Lord Sage confesses his identity (why?)
-- 
+- Lord Sage explains that the Scale of Tiamat has been behaving strangely and he's not sure why (the *Draakhorn* is the cause of this)
 ### Stojanow Gate Prison
 - Who is here? Walharrow, Fulta, Spernik, some Black Fists who surrendered.
 - Aleyd got put in charge of this place.
-- Maybe there was a murder by a Zhent prison gang of one of the Cult-connected inmates.
+- Maybe there was a murder by a Zhent/Welcomer prison gang of one of the Cult-connected inmates. The Cult inmate (a former Fist?) was going to snitch and reveal that a prison break is being planned to break out the Welcomer/Zhent aligned thugs and wreak havoc in Phlan.
 ### Kabel's Hill
 ### Seagull's Caw
+### Mail Mage
 
 ## Timeline
 
