@@ -20,6 +20,7 @@ kanban-plugin: basic
 ## in progress
 
 - [ ] draft revelation list for [the cult strikes back, pt. 1](../adventures/cult-strikes-back-pt-1.md)
+- [ ] denlor's tower puzzle
 
 
 ## done

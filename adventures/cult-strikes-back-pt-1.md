@@ -1,4 +1,8 @@
 # The Cult Strikes Back, Pt. 1
+## Overview
+- The lord sage has been acting erratically upon learning that Gensor has returned to power in Mulmaster. He fears for his life.
+- Prior to Spernik's execution, he gave the information to the former Tears of Virulence in Stojanow Gate that the Quarantine Gang know where a Relic of Tiamat is, and this info made it to the Cult. Spernik was temporarily hired as a scribe and was able to guess that the Lord Sage might hide the Scale in his chambers.
+- The Cult of the Dragon is preparing to take the Lord Sage hostage to extract information about the Scale of Tiamat or to extort the QG, but their efforts have triggered his paranoia, since he thinks they are Brotherhood agents.
 ## Revelations
 - [ ] The Lord Sage of Phlan is Ranthor, half-brother to Denlor and Gensor.
 	- Denlor's journal describes 
@@ -30,11 +34,22 @@
 - Aleyd got put in charge of this place.
 - Maybe there was a murder by a Zhent/Welcomer prison gang of one of the Cult-connected inmates. The Cult inmate (a former Fist?) was going to snitch and reveal that a prison break is being planned to break out the Welcomer/Zhent aligned thugs and wreak havoc in Phlan.
 ### Kabel's Hill
+
 ### Seagull's Caw
+- This has clues about the Blockade, the Doom of Thentia, etc.
 ### Mail Mage
-
+- Cult was attempting to exfiltrate some information about Scale out of Phlan via the mail?
 ## Timeline
+```timeline
++ 1510 DR
++ Execution of Spernik
++ Spernik is found guilty of Treason and executed by hanging.
 
+
++ 1510 DR
++ Erratic Behavior
++ Aya notices that the Lord Sage has been behaving erratically and contacts the Quarantine Gang via *sending*.
+```
 remember that the cult always know where the PCs are, thanks to Talis taking Hagar’s hair
 
 cult assaults Phlan to come for the Scale??

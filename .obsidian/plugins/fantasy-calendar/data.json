@@ -196,7 +196,7 @@
         "eras": []
       },
       "current": {
-        "day": 12,
+        "day": 13,
         "month": 3,
         "year": 1510
       },
@@ -350,6 +350,42 @@
             "year": null,
             "month": 15
           }
+        },
+        {
+          "name": "Hagar's Birthday",
+          "description": null,
+          "date": {
+            "day": 19,
+            "month": 3,
+            "year": 1510
+          },
+          "id": "ID_a9fae9293b5a",
+          "note": null,
+          "category": "ID_f96beb69ab59"
+        },
+        {
+          "name": "Peregrine's Birthday",
+          "description": null,
+          "date": {
+            "day": 26,
+            "month": 11,
+            "year": 1510
+          },
+          "id": "ID_797ac8a87ac9",
+          "note": null,
+          "category": "ID_f96beb69ab59"
+        },
+        {
+          "name": "Declan's Birthday",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 12,
+            "year": 1510
+          },
+          "id": "ID_9bfae93b7b6b",
+          "note": null,
+          "category": "ID_f96beb69ab59"
         }
       ],
       "id": "ID_a888291a196b",
