@@ -1,4 +1,6 @@
-
+---
+aliases: [Trueshot, "Kinyon Colbathin"]
+---
 # Kinyon “Trueshot” Colbathin
 
 # Appearance

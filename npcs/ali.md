@@ -19,10 +19,6 @@ Ali's spirit has been bound into Denlor's tower, but he can move between windows
 - became a great friend? commander? of the efreet, such that he was made a gift of *mutaghayir*, the flame tongue short sword forged by them
 - died prior to the spellplague and had no knowledge of halruaa's shift to abeir or its return.
 
-puzzle to unlock access to Denlor's Chambers is to beat Ali at a game of chess. Ali, of course, can't be beaten – but Denlor beat him by cheating.
-
-puzzle to heat the tower is to answer a riddle (the one about being beaten half to death).
-
 # History
 
 When the wizard Denlor began extraplanar voyages to the City of Brass in the 1320s, he sought the legendary weapons forged by its denizens, the fire genies called Efreet. 
