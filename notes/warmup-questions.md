@@ -20,6 +20,8 @@
 - ~~If your character were to start a business, what would it be? What would make it special?~~
 - ~~If your character could ask an all-knowing entity one question, what would it be?~~
 - ~~When was the last time your character said, “I love you,” if ever?~~
+- ~~What is your character’s catch phrase?~~
+- ~~What is one goal your character hopes to accomplish in the next year?~~
 - What is the best meal your character has ever eaten?
 - What is the best gift your character has ever received?
 - What is one title your character has earned that makes them proud?
@@ -42,7 +44,6 @@
 - If your character was an animal, which one would they be?
 - Where was your character educated? If they didn’t have a formal education, how were they taught?
 - What is one secret the rest of the party doesn’t know about your character?
-- What is your character’s catch phrase?
 - When’s the last time your character has used a set of tools?
 - What deity does your character worship? How do they show their devotion?
 - Tell me about one trinket your character possesses.
@@ -50,7 +51,6 @@
 - What does your character see when they look in the mirror?
 - What is one way that someone can earn your character’s trust?
 - What is one thing your character has seen or done that no one would ever believe?
-- What is one goal your character hopes to accomplish in the next year?
 - What does your character look like when they get angry?
 - What is one sacrifice your character has made?
 - Describe your character’s aesthetic in one word.
