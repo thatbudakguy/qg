@@ -7,35 +7,24 @@ aliases: [Act 3, Act III,  Act III - "Revelations"]
 graph TD
 
 %% nodes
-id1(<b>Trouble in Paradise</b>)
+id1(Trouble in Paradise)
 id2(Cult Strikes Back, Pt. 1)
 id3(First Council of Waterdeep)
-id4(<b>City of Danger</b>)
-id5(<b>The Sea of Moving Ice</b>)
+id4(City of Danger)
+id5(The Sea of Moving Ice)
 
 %% links
-id1 --> id2
-id1 --> id3
-id2 --> id4
-id3 --> id5
+id1 -->|aya glenmiir| id2
+id1 -->|renaer/leosin| id3
+id2 -->|lord sage revelations| id4
+id2 -->|draakhorn sounds| id3
+id3 -->|council assignment| id5
+id3 -->|scale of tiamat stolen| id2
+id4 -->|arcane brotherhood| id5
+id5 -->|arcane brotherhood| id4
 ```
 
-## Nodes
 
-### [Evereska](../../Adventures/%F0%9F%8C%84%20Evereska/%21index.md)
-
-- The Gang are captured by armed forces
-- The Gang meet Araevin Teshurr, who is now the High Mage of Evereska and retired from adventuring. Events of Last Mythal didn’t happen though; he just has been separated from Ilsevele since Seiveril’s Crusade retook the city (which was a long time ago!)
-- Something with [Eryn](../../Characters%20%281%29/Eryn/%21index.md)?
-
-### [Phlan](../adventures/cult-strikes-back-pt-1.md)
-
-- The Gang have an opportunity to solve the puzzle that grants access to Denlor’s private chambers - and it may involve books in his library
-- There is new mail for [Peregrine Buntly](../../Characters%20%281%29/Peregrine%20Buntly/%21index.md) to deliver?
-- Cult Strikes Back here, and they maybe learn about the Scale of Tiamat?
-- Seagull’s Caw
-
-### [Mulmaster](../adventures/city-of-danger.md)
 
 ### [Waterdeep](../adventures/first-council-of-waterdeep.md)
 

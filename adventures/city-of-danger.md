@@ -25,3 +25,7 @@ Calcey formerly prepared for a heist on the "national bank of Mulmaster" and pos
 [https://forgottenrealms.fandom.com/wiki/The_Drowned_Tower](https://forgottenrealms.fandom.com/wiki/The_Drowned_Tower)
 
 - [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md) lays a trap for the gang using [Sahnd Krulek](../../Characters%20%281%29/Sahnd%20Krulek/%21index.md)
+
+### Elmwood
+in case calcey decides to stop by home and see how mom's doing / give her a piece of her mind.
+calcey also learns the truth about her dad here.

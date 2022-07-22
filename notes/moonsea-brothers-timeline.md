@@ -36,16 +36,16 @@
 + Using his secret laboratory underneath the Valhingen catacombs in the Welltran Crypt, Gensor attempts to turn Raaxil, a green dragon posing as a human noble named Xandria Welltran, into a dracolich so that she could rule over Phlan. The ritual fails, killing Raaxil.
 
 + 1339 DR
-+ Death of Denlor
-+ As the "Lord of the Ruins" gains power in Phlan, more and more of the city becomes overwhelmed by dark forces. Denlor suddenly finds his tower overrun by evil forces, and frantically calls for aid from both his brothers. The call comes too late, for Denlor is killed in fierce fighting to defend his tower from an onslaught of evil forces.
++ Betrayal of Denlor
++ As the "Lord of the Ruins" gains power in Phlan, more and more of the city becomes overwhelmed by dark forces. Denlor suddenly finds his tower overrun by evil forces, and frantically calls for aid from both his brothers. Unbeknownst to Denlor, the jealous Gensor has given the forces of evil exactly what they need to infiltrate the tower and ensure the death of his brother.
 
 + 1339 DR
 + Resurrection of Ranthor
-+ Responding to his brother's call, Ranthor leaves Cormyr and travels to Phlan, finding the town crawling with evil and his brother slain. Ranthor is also killed in the fighting, but his death activates a *contingency* that causes him to be resurrected in Cormyr a week later.
++ Responding to his brother's call, Ranthor leaves Cormyr and travels to Phlan, finding the town crawling with evil and his brother slain. Gensor sets a clever trap for Ranthor, but his death activates a *contingency* that causes him to be resurrected a week later and escape. Shaken, Ranthor vows to hide his identity from his vindictive half-brother.
 
 + 1339 DR
 + Clearing the tower
-+ Shal arrives in Phlan and Denlor's Tower is cleared out. Realizing the potential to weaponize these adventurers now that his brothers are out of the picture, Gensor advises Porphyrys to make the party his personal servants of a sort.
++ Shal arrives in Phlan and Denlor's Tower is cleared out. Realizing the potential to weaponize these adventurers now that his brothers are out of the picture, Gensor advises Porphyrys to make the party his personal servants of a sort. Gensor also feeds them false information about what happened at the tower, setting clearing it out to be their mission.
 
 + 1340 DR
 + Pool of Radiance
