@@ -12,20 +12,20 @@ IF THE GANG CHOOSE TO DO THE COUNCIL OF WATERDEEP, ELLISON STEALS THE SCALE OF T
 
 ## Revelations
 - [ ] The Lord Sage of Phlan is Ranthor, half-brother to Denlor and Gensor.
-	- Denlor's journal describes 
-	- He asked Cassra to do research into Gensor/Thurndan and the Brotherhood of the Cloak before disappearing
+	- [x] He asked Cassra to do research into Gensor/Thurndan and the Brotherhood of the Cloak before disappearing
 - [ ] Thurndan Tallwand is Gensor, half-brother to Ranthor and brother to Denlor.
-	- Denlor's journal details the wizard's 
+	- [x] Cassra knows that the Lord Sage requested information on Thurndan
+	- [ ] The Lord Sage can reveal what he heard about Thurndan coming to power in Mulmaster and based on his research he found out that it's Gensor again. He has a portrait that he drew himself of the two brothers
 - [ ] The Cult of the Dragon is preparing to take the Lord Sage hostage.
 	- [ ] Aleyd knows that there was a big fight in the Stojanow Gate prison shortly after Spernik was executed. One of the inmates, a Zhent-linked highwayman named Markus Swiller, was stabbed by several of the former Tears of Virulence, though no weapon was recovered and nobody took responsibility for the crime. Aleyd suspects the Tears because they told different stories about what happened when questioned.
 	- [ ] Any of the Tears or Fulta can be flipped in exchange for shortening their sentence or perhaps money to reveal that Markus knew too much: he caught wind of the fact that the Tears were communicating with someone on the outside about some information they got from Spernik right before his execution, though they don't know what.
 	- [ ] The PCs can actually *speak with dead* the corpse of Spernik if it can be recovered; after the hanging it was publicly exhibited and then dumped outside the city gates. Aleyd would know where it is, but it's pretty decomposed.
 	- [ ] The Tears arranged for a coded letter to be sent out indicating that they believe the Lord Sage is a target who would know the location of the Scale. the response to this message, intended to be delivered to Fulta and also written in code, is waiting at the mail depot in the Black Fist garrison outside the East gate (where Peregrine formerly picked up mail). It can be deciphered to indicate that the Lord Sage is in imminent danger and that a prison break is planned.
 - [ ] Thurndan is currently active in Mulmaster and plotting to take over the Moonsea.
-	- [ ] Crew of the Seagull's Caw haven't been able to get anywhere east of Melvaunt due to blockades. Thentia was closed off, and they heard the Mulmasterite navy is everywhere in the East.
-	- [ ] Aya's last student, the noble Devon Nanther of Melvaunt, has withdrawn from her studies (when?), apparently at the behest of his family. Aya thinks the Nanthers are preparing for war.
-	- [ ] In Kabel's Hill, word is that Lord Maalthir of Hillsfar will soon cease sending Dragon's Breath liquor to the city, which the Brightbells pick up and sell at the Leaky Bucket, over Lord Regent Ector Brahms's refusal to join the "Moonsea League", a new confederation of city-states that is being run out of Mulmaster.
-	- [ ] On the docks, there are whispers that a great evil was recently perpetrated in Thentia. An arcane weapon of terrifying power was unleashed that destroyed the Watchlord's Tower. The next day, Thentia joined the Moonsea League.
+	- [x] Crew of the Seagull's Caw haven't been able to get anywhere east of Melvaunt due to blockades. Thentia was closed off, and they heard the Mulmasterite navy is everywhere in the East.
+	- [x] Aya's last student, the noble Devon Nanther of Melvaunt, has withdrawn from her studies (when?), apparently at the behest of his family. Aya thinks the Nanthers are preparing for war.
+	- [x] In Kabel's Hill, word is that Lord Maalthir of Hillsfar will soon cease sending Dragon's Breath liquor to the city, which the Brightbells pick up and sell at the Leaky Bucket, over Lord Regent Ector Brahms's refusal to join the "Moonsea League", a new confederation of city-states that is being run out of Mulmaster.
+	- [x] On the docks, there are whispers that a great evil was recently perpetrated in Thentia. An arcane weapon of terrifying power was unleashed that destroyed the Watchlord's Tower. The next day, Thentia joined the Moonsea League.
 ## Timeline
 ```timeline
 + Alturiak 15
@@ -43,6 +43,10 @@ IF THE GANG CHOOSE TO DO THE COUNCIL OF WATERDEEP, ELLISON STEALS THE SCALE OF T
 + Ches 14, afternoon
 + Lord Sage missing
 + When the Gang and Aya visit Mantor's Library, the Lord Sage is nowhere to be found. Peregrine contacts him using *sending* and is told not to look for him. A *scrying* spell reveals he's hidden away in a decrepit tower, perhaps somewhere not too far from Phlan.
+
++ Ches 14, evening
++ Denlor's Chambers
++ The Gang discover the secret of Genie-Binding, granting them access to Denlor's personal chambers, where they discover his journal. Araevin is able to read it using *comprehend languages* and learn the history of Denlor's time in Phlan.
 
 + Ches 16
 + Draakhorn sounds
