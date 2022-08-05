@@ -6,6 +6,7 @@ date: {{title}}
 - [ ] pick warmup question
 - [ ] check/update scenario timeline
 - [ ] prep bang
+- [ ] make discord event for next session
 # Announcements
 - announcements
 # Warmup
