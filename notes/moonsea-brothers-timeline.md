@@ -9,11 +9,11 @@
 
 + 1300 DR
 + Birth of Denlor
-+ Gensor is born in Halruaa.
++ Denlor is born in Halruaa.
 
 + 1303 DR
 + Birth of Gensor
-+ Denlor is born in Halruaa.
++ Gensor is born in Halruaa.
 
 + 1333 DR
 + Denlor settles in Phlan

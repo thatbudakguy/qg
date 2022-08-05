@@ -22,6 +22,8 @@
 - ~~When was the last time your character said, “I love you,” if ever?~~
 - ~~What is your character’s catch phrase?~~
 - ~~What is one goal your character hopes to accomplish in the next year?~~
+- ~~What’s one thing your character does when no one is around?~~
+- ~~A new adventurer approaches your character, asking them for wisdom. What lesson does your character impart to the young adventurer?~~
 - What is the best meal your character has ever eaten?
 - What is the best gift your character has ever received?
 - What is one title your character has earned that makes them proud?
@@ -29,7 +31,6 @@
 - With which school of magic does your character most identify?
 - What is your character’s favorite thing about adventuring?
 - What did your character last dream about?
-- What is one thing your character prefers to do alone? (don’t be gross please)
 - When is the last time your character was cold to someone else?
 - When is the last time your character failed?
 - Does your character see the mug as half empty or half full? Also, what’s in the mug?
@@ -39,7 +40,6 @@
 - What is your character’s pet peeve?
 - What is one of your character’s fondest memories?
 - What is one rule your character never breaks?
-- A new adventurer approaches your character, asking them for wisdom. What lesson does your character impart to the young adventurer?
 - Describe one of your character’s childhood friends.
 - If your character was an animal, which one would they be?
 - Where was your character educated? If they didn’t have a formal education, how were they taught?
@@ -55,7 +55,6 @@
 - What is one sacrifice your character has made?
 - Describe your character’s aesthetic in one word.
 - Your character is given a magic hourglass. With it, they can change one decision they made in the past year. Which one do they pick?
-- What’s one thing your character does when no one is around?
 - What is one way that your character shows they care about someone else?
 - What is something your character doesn’t have enough of?
 - If your character was a drink, what would they be and why?
