@@ -41,7 +41,7 @@
 
 + 1339 DR
 + Resurrection of Ranthor
-+ Responding to his brother's call, Ranthor leaves Cormyr and travels to Phlan, finding the town crawling with evil and his brother slain. Gensor sets a clever trap for Ranthor, but his death activates a *contingency* that causes him to be resurrected a week later and escape. Shaken, Ranthor vows to hide his identity from his vindictive half-brother.
++ Responding to his lover's call, Ranthor leaves Cormyr and travels to Phlan, finding the town crawling with evil and his brother slain. Gensor sets a clever trap for Ranthor, but his death activates a *contingency* that causes him to be resurrected a week later and escape. Shaken, Ranthor vows to hide his identity from his vindictive half-brother.
 
 + 1339 DR
 + Clearing the tower

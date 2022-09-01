@@ -24,6 +24,7 @@
 - ~~What is one goal your character hopes to accomplish in the next year?~~
 - ~~What’s one thing your character does when no one is around?~~
 - ~~A new adventurer approaches your character, asking them for wisdom. What lesson does your character impart to the young adventurer?~~
+- ~~Tell me about one trinket your character possesses.~~
 - What is the best meal your character has ever eaten?
 - What is the best gift your character has ever received?
 - What is one title your character has earned that makes them proud?
@@ -38,7 +39,7 @@
 - What does your character do on their day off?
 - How would the other party members describe your character?
 - What is your character’s pet peeve?
-- What is one of your character’s fondest memories?
+- ~~What is one of your character’s fondest memories?~~
 - What is one rule your character never breaks?
 - Describe one of your character’s childhood friends.
 - If your character was an animal, which one would they be?
@@ -46,7 +47,6 @@
 - What is one secret the rest of the party doesn’t know about your character?
 - When’s the last time your character has used a set of tools?
 - What deity does your character worship? How do they show their devotion?
-- Tell me about one trinket your character possesses.
 - How does your character relax after a hard day’s work?
 - What does your character see when they look in the mirror?
 - What is one way that someone can earn your character’s trust?

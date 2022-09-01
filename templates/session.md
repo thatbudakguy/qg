@@ -3,14 +3,15 @@ date: {{title}}
 ---
 # Session Notes {{title}}
 # Todo
+- [ ] make discord event
 - [ ] pick warmup question
-- [ ] check/update scenario timeline
+- [ ] recap of last session
 - [ ] prep bang
-- [ ] make discord event for next session
+- [ ] check/update scenario timeline
 # Announcements
 - announcements
 # Warmup
-question from [Warmup Questions](../warmup-questions.md) goes here!
+> [!QUESTION] Question from [Warmup Questions](../warmup-questions.md) goes here!
 # Recap
 [link]
 # Outline
