@@ -132,5 +132,7 @@
     "player": true
   },
   "hpOverflow": "ignore",
-  "additiveTemp": false
+  "additiveTemp": false,
+  "logging": false,
+  "logFolder": "/"
 }

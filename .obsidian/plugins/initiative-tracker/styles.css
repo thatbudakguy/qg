@@ -1,4 +1,8 @@
 /* src/main.css */
+body {
+  --text-warning: #EAAF00;
+  --text-success: green;
+}
 .initiative-tracker-add-player-modal .has-error {
   border-color: var(--background-modifier-error-hover);
 }
