@@ -11,22 +11,23 @@
 IF THE GANG CHOOSE TO DO THE COUNCIL OF WATERDEEP, ELLISON STEALS THE SCALE OF TIAMAT FROM THE LORD SAGE'S OFFICE AND REPLACES IT WITH A NOTE TO THE GANG THAT SAYS THE MONEY WAS TOO GOOD
 
 ## Revelations
-- [ ] The Lord Sage of Phlan is Ranthor, half-brother to Denlor and Gensor.
+- [x] The Lord Sage of Phlan is Ranthor, half-brother to Denlor and Gensor.
 	- [x] He asked Cassra to do research into Gensor/Thurndan and the Brotherhood of the Cloak before disappearing
-- [ ] Thurndan Tallwand is Gensor, half-brother to Ranthor and brother to Denlor.
+- [x] Thurndan Tallwand is Gensor, half-brother to Ranthor and brother to Denlor.
 	- [x] Cassra knows that the Lord Sage requested information on Thurndan
-	- [ ] The Lord Sage can reveal what he heard about Thurndan coming to power in Mulmaster and based on his research he found out that it's Gensor again. He has a portrait that he drew himself of the two brothers, which he can produce.
-- [ ] The Cult of the Dragon is preparing to take the Lord Sage hostage.
-	- [ ] Aleyd knows that there was a big fight in the Stojanow Gate prison shortly after Spernik was executed. One of the inmates, a Zhent-linked highwayman named Markus Swiller, was stabbed by several of the former Tears of Virulence, though no weapon was recovered and nobody took responsibility for the crime. Aleyd suspects the Tears because they told different stories about what happened when questioned.
+	- [x] The Lord Sage can reveal what he heard about Thurndan coming to power in Mulmaster and based on his research he found out that it's Gensor again. He has a portrait that he drew himself of the two brothers, which he can produce.
+- [ ] The Cult of the Dragon is preparing to steal the Scale of Tiamat.
+	- [ ] Aleyd knows that there was a big fight in the Stojanow Gate prison in early Ches. One of the inmates, a Zhent-linked highwayman named Markus Swiller, was stabbed by several of the former Tears of Virulence, though no weapon was recovered and nobody took responsibility for the crime. Aleyd suspects the Tears because they told different stories about what happened when questioned.
 	- [ ] Any of the Tears or Fulta can be flipped in exchange for shortening their sentence or perhaps money to reveal that Markus knew too much: he caught wind of the fact that the Tears were communicating with someone on the outside about some information they got from Spernik right before his execution, though they don't know what.
 	- [ ] The PCs can actually *speak with dead* the corpse of Swiller, which is awaiting an unceremonious burial at Valhingen in the Mausoleum of the Kelemvorites. Provided Yovir Glandon will consent, that is...
-	- [ ] The Tears arranged for a coded letter to be sent out indicating that they believe the Scale is somewhere in Mantor's Library. the response to this message, intended to be delivered to Fulta and also written in code, is waiting at the mail depot in the Black Fist garrison outside the East gate (where Peregrine formerly picked up mail). It can be deciphered to indicate that the Lord Sage is in imminent danger and that a prison break is planned.
+	- [x] The body of Ellison Berenger in Castle Atuke has on it a diary tracking the Lord Sage's movements as well as those of the guards and personnel of Mantor's Library. There's also a letter from Talis saying that she can guarantee Ellison will be given a Knighthood and a small parcel of land in the Greenfields in cult-controlled territory, making him nobility.
 - [x] Thurndan is currently active in Mulmaster and plotting to take over the Moonsea.
 	- [x] Crew of the Seagull's Caw haven't been able to get anywhere east of Melvaunt due to blockades. Thentia was closed off, and they heard the Mulmasterite navy is everywhere in the East.
 	- [x] Aya's last student, the noble Devon Nanther of Melvaunt, has withdrawn from her studies (when?), apparently at the behest of his family. Aya thinks the Nanthers are preparing for war.
 	- [x] In Kabel's Hill, word is that Lord Maalthir of Hillsfar will soon cease sending Dragon's Breath liquor to the city, which the Brightbells pick up and sell at the Leaky Bucket, over Lord Regent Ector Brahms's refusal to join the "Moonsea League", a new confederation of city-states that is being run out of Mulmaster.
 	- [x] On the docks, there are whispers that a great evil was recently perpetrated in Thentia. An arcane weapon of terrifying power was unleashed that destroyed the Watchlord's Tower. The next day, Thentia joined the Moonsea League.
 ## Timeline
+
 ```timeline
 + Alturiak 15
 + Execution of Spernik
@@ -47,6 +48,22 @@ IF THE GANG CHOOSE TO DO THE COUNCIL OF WATERDEEP, ELLISON STEALS THE SCALE OF T
 + Ches 14, evening
 + Denlor's Chambers
 + The Gang discover the secret of Genie-Binding, granting them access to Denlor's personal chambers, where they discover his journal. Araevin is able to read it using *comprehend languages* and learn the history of Denlor's time in Phlan.
+
++ Ches 14, night
++ Kabel's Hill
++ The Gang visit the ranger Serelis Greenleaf and use a *speak with dead* spell to commune with the spirit of a past ranger who served as steward of Kabel's Hill centuries ago, learning that the location in which the Lord Sage is hiding may be Castle Atuke, outside Phlan.
+
++ Ches 15, morning
++ Kabel's Hill
++ The Gang visit the ranger Serelis Greenleaf and use a *speak with dead* spell to commune with the spirit of a past ranger who served as steward of Kabel's Hill centuries ago, learning that the location in which the Lord Sage is hiding may be Castle Atuke, outside Phlan.
+
++ Ches 15, afternoon
++ Kabel's Hill
++ The Gang make their way into Castle Atuke, battle its undead denizens, and rescue the Lord Sage.
++ 
++ Ches 15, night
++ Mantor's Library
++ The Gang return to Mantor's Library to find that Talis the White has stolen the Scale of Tiamat.
 
 + Ches 16
 + Draakhorn sounds

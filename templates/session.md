@@ -6,7 +6,7 @@ date: {{title}}
 - [ ] make discord event
 - [ ] pick warmup question
 - [ ] recap of last session
-- [ ] prep bang
+- [ ] prep opening
 - [ ] check/update scenario timeline
 # Announcements
 - announcements
@@ -14,6 +14,6 @@ date: {{title}}
 > [!QUESTION] Question from [Warmup Questions](../warmup-questions.md) goes here!
 # Recap
 [link]
-# Outline
-## Bang
+# Scenes
+## Opening
 an attention-grabbing way to start the session off.

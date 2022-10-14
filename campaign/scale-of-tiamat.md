@@ -22,10 +22,8 @@ Aya Glenmiir sought to *identify* the artifact, but was stymied. This is because
 
 ## Stage 1
 
-This borrows some properties from the *Dragon Scale Mail* (DMG pg. 165). It functions as a tower shield, but has been made from the scale of an ancient red dragon. It requires attunement and a strength score of 15 in order to wield, and grants the standard +2 to AC.
-
-Additionally, while wielding this shield, you have advantage on saving throws against the Frightful Presence and breath weapons of Red Dragons, and you have resistance to Fire damage.
+See https://www.dndbeyond.com/magic-items/2137790-scale-of-tiamat
 
 ## Stage 2
 
-## Stage 3
+???

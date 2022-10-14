@@ -31,3 +31,19 @@ A short, one-paragraph summary that describes the events you know will happen or
 + Council Impasse
 + Nobody agrees to commit forces or track down the Draakhorn unless the PCs intervene.
 ```
+
+
+give the PCs a grand send-off: hundreds gathered in the harbor for the launch of the boat. play "The Saga of the Norn" from GW2 soundtrack.
+
+## The Council
+- Lady Remallia Haventree, chaotic good female moon elf fighter (Harpers)
+- Vindicator Ontharr Frume, lawful good male human paladin (Order of the Gauntlet)
+- Delaan Winterhound, neutral good male half-elf ranger (Emerald Enclave)
+- Lady Laeral Silverhand, chaotic good female human wizard (Lord's Alliance — Waterdeep)
+- Lord Dagult Neverember, lawful neutral male human fighter (Lord's Alliance — Neverwinter)
+- Ambassador Connerad Brawnanvil, lawful good male shield dwarf fighter (Lord's Alliance — Dwarves of the North)
+- Marshall Ulder Ravengard, lawful neutral male human fighter (Lord's Alliance — Baldur's Gate)
+- King Melandrach, true neutral male wild elf fighter/druid (Lord's Alliance — Wild Elves of the Realms)
+- Archmage Araevin Teshurr, chaotic good male elf wizard (Lord's Alliance — High Elves of the Realms)
+- Taern "Thunderspells" Hornblade, lawful good male human wizard (Lord's Alliance — Silverymoon)
+- Sir Isteval, lawful good male human paladin (Lord's Alliance — Cormyr)
