@@ -4,12 +4,6 @@ aliases: [First Council of Waterdeep, First Council]
 # First Council of Waterdeep
 ## Synopsis
 A short, one-paragraph summary that describes the events you know will happen or need to happen to move the plot forward, along with the opportunities and dangers that will be presented to the PCs.
-## Revelations
-- [ ] Draakhorn (link to [Sea of Moving Ice](sea-of-moving-ice.md))
-	- [ ] Place that it can be learned. checked off when acquired
-	- [ ] Another place/node that can give this info
-	- [ ] At least three per revelation!
-- [ ] 
 ## Timeline
 ```timeline
 + Eleint 2, 1508 DR
@@ -37,7 +31,7 @@ give the PCs a grand send-off: hundreds gathered in the harbor for the launch of
 
 ## The Council
 - Lady Remallia Haventree, chaotic good female moon elf fighter (Harpers)
-- Vindicator Ontharr Frume, lawful good male human paladin (Order of the Gauntlet)
+- Ontharr Frume, lawful good male human paladin (Order of the Gauntlet)
 - Delaan Winterhound, neutral good male half-elf ranger (Emerald Enclave)
 - Lady Laeral Silverhand, chaotic good female human wizard (Lord's Alliance — Waterdeep)
 - Lord Dagult Neverember, lawful neutral male human fighter (Lord's Alliance — Neverwinter)

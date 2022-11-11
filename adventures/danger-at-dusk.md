@@ -24,14 +24,14 @@ Quotes:
 # Adjustments
 
 - when Yllivia meets the party, she can talk about being assigned to travel to Phlan to investigate the Black Fists by [ontharr-frume](../npcs/ontharr-frume.md) of Elturel. Describe her as wearing a climbing harness, gloves, and her boots have special tips. Her short white hair is pulled straight back. She enunciates her words quite strongly.
-- A history check can reveal the following about the [order-of-the-gauntlet](../factions/order-of-the-gauntlet.md):
-    - Allies of the [harpers](../factions/harpers.md)
+- A history check can reveal the following about the [order-of-the-gauntlet](../articles/factions/order-of-the-gauntlet.md):
+    - Allies of the [harpers](../articles/factions/harpers.md)
     - Favored deities are Torm, Tyr, Hoar, Helm; often clerics/paladins
     - Focus on revealing and punishing acts of evil, faith is one's best weapon
 - Yllivia has been in the city for about three months; she began the long trek to Phlan from Silverymoon once Brahms announced martial law. She's mostly been gathering information and sending messages to her counterparts in Mulmaster and Waterdeep.
 - If the party asks how she got into the stronghold, she can talk about having observed the fists paying off the ferry captain. Deducing that they were underneath the Lyceum, she convinced Horus to distract anyone watching (not difficult when she explained her mission) and rappelled over the city wall and down the other side (quite difficult, but she is an experienced climber).
 - Once Villonah comes to, she can shakily relate the following:
-    - Her dad has no idea that she works for the [order-of-the-gauntlet](../factions/order-of-the-gauntlet.md). It's easier for her to let him think that she's just a fuckup - and anyway, it's not untrue. She loves drinking and gambling, and she's happiest in a tavern.
+    - Her dad has no idea that she works for the [order-of-the-gauntlet](../articles/factions/order-of-the-gauntlet.md). It's easier for her to let him think that she's just a fuckup - and anyway, it's not untrue. She loves drinking and gambling, and she's happiest in a tavern.
     - She's had a difficult relationship with her father ever since it became clear that she didn't share his obsession with herbology.
     - She met Yllivia at the Laughing Goblin about a month ago. Yllivia sensed the young gnome had frequent run-ins with the Black Fists, and contrived to use her as a mole to investigate the situation inside Stojanow Gate.
     - Once, when she was thrown inside the gate for the night, Yllivia overheard her jailers discussing something about a White Dragon living in the Galena Mountains.

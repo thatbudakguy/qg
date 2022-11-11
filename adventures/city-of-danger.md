@@ -19,6 +19,7 @@ MORE IDEAS:
 - Ector Brahms cuts a deal to send all of Stojanow Gate's prisoners off to Mulmaster (to be used as "fuel")
 - The out-of-work dockworkers and sailors of Phlan riot
 - Red Wizards are sighted in the cities of the Moonsea, including Phlan
+- Calcey's old friend and mentor from her youth, Cere, is in Mulmaster
 
 ## NPCs
 - some sort of former colleague of calcey who needs the party to do a QPQ task for them (heist?) to get something

@@ -13,7 +13,7 @@ Tall, tanned elven man with long platinum blonde hair and strange silvery eyes, 
 
 # Background
 
-In 1374 DR, Araevin had just been accepted to study High Magic at Tower Reilloch on Evermeet, but was chafing at the 50-year wait time and longed for adventure. When the Daemonfey attacked Evermeet and stole a shard of the *[gatekeepers-crystal](../campaign/gatekeepers-crystal.md)*, Evermeet was thrown into chaos. In short order, Sarya Dlardrageth used the *Crystal* to open Nar Kerymhoarth, the Nameless Dungeon, and release the rest of her cursed kin. Araevin had his wish: Seiviril Miritar, the father of his betrothed, Ilsevele, began organizing a crusade to retake Myth Drannor from the Daemonfey. Seiviril resurrected the Elven hero Fflar “Starbrow” Melruth to lead his crusade.
+In 1374 DR, Araevin had just been accepted to study High Magic at Tower Reilloch on Evermeet, but was chafing at the 50-year wait time and longed for adventure. When the Daemonfey attacked Evermeet and stole a shard of the *[gatekeepers-crystal](../articles/items/gatekeepers-crystal.md)*, Evermeet was thrown into chaos. In short order, Sarya Dlardrageth used the *Crystal* to open Nar Kerymhoarth, the Nameless Dungeon, and release the rest of her cursed kin. Araevin had his wish: Seiviril Miritar, the father of his betrothed, Ilsevele, began organizing a crusade to retake Myth Drannor from the Daemonfey. Seiviril resurrected the Elven hero Fflar “Starbrow” Melruth to lead his crusade.
 
 Returning to Faerun via the Elfgates he knew so well, Araevin assembled a group of friends from his youth and formed the Company of the White Star, with the objective of recovering the other pieces of the crystal. Instead, they found a *selu’kiira*: a High Loregem from the ancient empire of Aryvandaar that contained the soul of a mage with the knowledge of Elven High Magic. While Araevin and his friends scoured the continent, Fflar, Ilsevele, and her father defended Evereska from the daemonfey, suffering heavy losses.
 
@@ -29,7 +29,7 @@ Rudderless, Araevin returned for a time to his childhood home, the House of Ceda
     - knowledge was once passed from Elves to Humans and powered Netheril’s floating enclaves
     - can show the one in Evereska, which is weak but functional, if he knows Declan has spellsight (”don’t tell anyone, but i didn’t know if it would hold up under a direct hit...”)
     - evereska's mythal regulates the weather of the city and part of the vine vale (out to the meadow wall) and prevents disease & slows aging.
-- The *[gatekeepers-crystal](../campaign/gatekeepers-crystal.md)*
+- The *[gatekeepers-crystal](../articles/items/gatekeepers-crystal.md)*
     - enormously powerful artifact that felt, to him, like it was not of this world. yet it could easily have been a weapon of the crown wars era
     - total dominion over portals, prisons, and planes: open, close, knowledge, etc. all just an extension of one’s will (when assembled).
     - negating *mythals* in particular caused violent explosions and scattered the pieces of the crystal; maybe a safety device?

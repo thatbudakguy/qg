@@ -7,7 +7,6 @@ date: {{title}}
 - [ ] pick warmup question
 - [ ] recap of last session
 - [ ] prep opening
-- [ ] check/update scenario timeline
 # Announcements
 - announcements
 # Warmup

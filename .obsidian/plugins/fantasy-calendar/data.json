@@ -196,7 +196,7 @@
         "eras": []
       },
       "current": {
-        "day": 18,
+        "day": 27,
         "month": 3,
         "year": 1510
       },
@@ -386,6 +386,42 @@
           "id": "ID_9bfae93b7b6b",
           "note": null,
           "category": "ID_f96beb69ab59"
+        },
+        {
+          "name": "First Council of Waterdeep",
+          "description": null,
+          "date": {
+            "day": 19,
+            "month": 3,
+            "year": 1510
+          },
+          "id": "ID_899af82b780a",
+          "note": "adventures/first-council-of-waterdeep",
+          "category": "ID_f96beb69ab59",
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 1,
+              "timespan": "days"
+            }
+          ],
+          "end": {
+            "year": 1510,
+            "month": 3,
+            "day": 19
+          }
+        },
+        {
+          "name": "second-council-of-waterdeep",
+          "description": null,
+          "date": {
+            "day": 29,
+            "month": 3,
+            "year": 1510
+          },
+          "id": "ID_a9588a5bb8fa",
+          "note": "adventures/second-council-of-waterdeep",
+          "category": null
         }
       ],
       "id": "ID_a888291a196b",

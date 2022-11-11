@@ -9,9 +9,9 @@ graph TD
 %% nodes
 id1(Second Council of Waterdeep)
 id2(Cult Strikes Back, Pt. 2)
-id3(<b>Metallic Dragons, Arise</b>)
-id4(<b>Dead in Thay</b>)
-id5(<b>Myth Ondath / Lorosfyr</b>)
+id3(Metallic Dragons, Arise)
+id4(Dead in Thay)
+id5(Myth Ondath / Lorosfyr)
 id6(Candlekeep)
 
 %% links

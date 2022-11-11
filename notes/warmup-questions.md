@@ -190,7 +190,7 @@
 
 - How generous is your character? Especially to those they don’t know?
 
-- What is your character the most envious about, regarding anyone in the party?
+- ~~What is your character the most envious about, regarding anyone in the party?~~
 
 - The player character to your left and the player character to your right are both telling your character two different versions of the truth. Who does your character believe?
 
@@ -206,7 +206,7 @@
 
 - What makes your character feel safe?
 
-- If your character had the chance to rename the party/give the party a name, no questions asked, what would it be?
+- ~~If your character had the chance to rename the party/give the party a name, no questions asked, what would it be?~~
 
 - What memory does your character want to forget the most?
 
@@ -246,7 +246,7 @@
 
 - What is your character’s biggest flaw?
 
-- How did your character learn the languages that they speak?
+- ~~How did your character learn the languages that they speak?~~
 
 - What is your character’s favorite school of magic/type of weaponry?
 

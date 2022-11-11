@@ -3,7 +3,7 @@
 ![elven-inn](../../images/backgrounds/elven-inn.jpg)
 > A grand two-story building with sweeping balconies and flourishes of elvish design, incorporating the moon and stars into its woodwork. Aging but well-kept, and nearly empty most of the time.
 ## Background
-- Built in 1022 DR when the [Harpers](../../factions/harpers.md) were short on allies, having killed Sammaster and attracted negative attention from Thay.
+- Built in 1022 DR when the [Harpers](../../articles/factions/harpers.md) were short on allies, having killed Sammaster and attracted negative attention from Thay.
 - First owned by Phaerl Hawksong, a senior priestess of Rillifane who was also the half-sister of Khelben Arunson and later member of his Moonstars.
 - Open continuously for almost 500 years, with an original mission of providing a bed and a meal for any or Chosen of the Lady of Mysteries, longtime friends of the Elves.
 - For the last hundred years or so, mostly serves as a "college bar" for students at the College of Magic, including many of [Araevin Teshurr](../../npcs/araevin-teshurr.md)'s students.
