@@ -17,4 +17,5 @@ id6(Candlekeep)
 %% links
 id1 --> id3
 id1 --> id4
+id6 --> id5
 ```

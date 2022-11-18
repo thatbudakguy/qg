@@ -1,6 +1,6 @@
 # Timeline
 
-- -9800 DR: crown wars end, green elves settle the yuirwood. the primal spirit magnar begins to be subsumed by rillifane rallathil and goes into hibernation.
+- -9800 DR: crown wars end, green elves settle the yuirwood. the elves use the _Gatekeeper's Crystal_ to imprison the primal spirit Magnar and send him into hibernation, so that his portfolio could be absorbed by Rillifane Rallathil.
 - circa 400 DR: a group of orphaned orc children later called the Ondonti are adopted by the people of Myth Ondath, a city dedicated to Eldath in the Tortured Lands of northern faerun, north of The Ride. they are raised in the faith of the Green Goddess and taught how to work the land peacefully.
 - 633 DR: the Ice Queen, a powerful priestess of Auril, uses an artifact known as the Gatekeeper's Crystal to destroy the magical defenses of the city of Myth Ondath, killing her lich general and most of her army in the process. The Ondonti are among the few survivors, avoiding detection by the Ice Queen's army in the ruins of the city.
 - circa 1360 DR: the spellplague warps the magical barriers protecting the Ondonti, allowing them to be visible to the outside world for a time.
