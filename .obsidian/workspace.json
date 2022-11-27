@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5fa88edd4000b631",
+        "id": "2a0a143df93aa108",
         "type": "tabs",
         "children": [
           {
-            "id": "05b7b13a18595289",
+            "id": "e9af9fe39d6d1225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2022-11-17.md",
+                "file": "sessions/2022-12-01.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "937716d4a42255d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pcs/hagar-bloodrop/timeline.md",
-                "mode": "source",
                 "source": true
               }
             }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2022-11-17.md",
+                "file": "sessions/2022-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2022-11-17.md",
+                "file": "sessions/2022-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2022-11-17.md"
+                "file": "sessions/2022-12-01.md"
               }
             }
           },
@@ -153,19 +141,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
-  "active": "05b7b13a18595289",
+  "active": "e9af9fe39d6d1225",
   "lastOpenFiles": [
+    "notes/warmup-questions.md",
+    "sessions/2022-12-01.md",
+    "logbook/a3e32.md",
+    "locations/sea-of-moving-ice/Ice Hunter village.md",
     "sessions/2022-11-26.md",
-    "logbook/act-iii/a3e31.md",
     "sessions/2022-11-17.md",
+    "locations/sea-of-moving-ice/Ice Caves.md",
+    "locations/sea-of-moving-ice/Arauthator's Lair.md",
     "pcs/hagar-bloodrop/timeline.md",
-    "sessions/2020-08-02.md",
-    "sessions/2020-07-22.md",
-    "sessions/2020-07-19.md",
-    "sessions/2020-07-15.md",
-    "sessions/2020-07-08.md",
-    "campaign/act-iii.md"
+    "logbook/act-iii/a3e31.md"
   ]
 }

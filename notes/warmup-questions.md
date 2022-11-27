@@ -176,7 +176,7 @@
 
 - Does your character value their own best interest more than the party’s?
 
-- What decision would the party have to make in order for your character to consider splitting off from the group?
+- ~~What decision would the party have to make in order for your character to consider splitting off from the group?~~
 
 - How does your character imagine the way they will die?
 
