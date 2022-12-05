@@ -86,7 +86,7 @@
 
 - Has your character ever been in love?
 
-- What battle in the campaign has been most memorable to your character?
+- ~~What battle in the campaign has been most memorable to your character?~~
 
 - If your character wasn’t whatever class they are, what would they be instead?
 

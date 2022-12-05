@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a0a143df93aa108",
+        "id": "8a46cc5d1c0375a3",
         "type": "tabs",
         "children": [
           {
-            "id": "e9af9fe39d6d1225",
+            "id": "014e75c10b59c29a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2022-12-01.md",
+                "file": "sessions/2022-12-08.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2022-12-01.md",
+                "file": "sessions/2022-12-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2022-12-01.md",
+                "file": "sessions/2022-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2022-12-01.md"
+                "file": "sessions/2022-12-08.md"
               }
             }
           },
@@ -141,20 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
-  "active": "e9af9fe39d6d1225",
+  "active": "014e75c10b59c29a",
   "lastOpenFiles": [
+    "templates/session.md",
     "notes/warmup-questions.md",
+    "sessions/2022-12-08.md",
+    "logbook/act-iii/a3e32.md",
+    "logbook/act-iii/a3e33.md",
+    "logbook/act-iii/a3e12.md",
+    "logbook/act-iii/a3e31.md",
     "sessions/2022-12-01.md",
-    "logbook/a3e32.md",
-    "locations/sea-of-moving-ice/Ice Hunter village.md",
-    "sessions/2022-11-26.md",
-    "sessions/2022-11-17.md",
-    "locations/sea-of-moving-ice/Ice Caves.md",
-    "locations/sea-of-moving-ice/Arauthator's Lair.md",
-    "pcs/hagar-bloodrop/timeline.md",
-    "logbook/act-iii/a3e31.md"
+    "sessions/Untitled.md",
+    "locations/sea-of-moving-ice/Ice Hunter village.md"
   ]
 }
