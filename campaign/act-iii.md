@@ -45,11 +45,11 @@ id5 -->|arcane brotherhood| id4
 - [ ] [Declan Truefire](../../Characters%20%281%29/Declan%20Truefire/%21index.md) is one of Mystra’s Chosen
 - [ ] The Chosen have been disappearing and few are left on Faerun
 - [ ] A great battle was fought and Myth Drannor fell in the recent past, leaving the throne of Cormyr vacant
-- [ ] The Great Spirit Magnar lives, and is trying to get [Hagar Bloodrop](../../Characters%20%281%29/Hagar%20Bloodrop/%21index.md)’s help because it is oppressed in some way
+- [x] The Great Spirit Magnar lives, and is trying to get [Hagar Bloodrop](../../Characters%20%281%29/Hagar%20Bloodrop/%21index.md)’s help because it is oppressed in some way
 - [x] The sound heard across Faerun was produced by the Draakhorn, an ancient artifact last known to be in the Sea of Moving Ice
 - [x] Talis the White has been promoted to Wyrmspeaker and continues to observe the characters via *scrying*
-- [ ] [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md) has one of the shards of the Gatekeeper’s Crystal
-- [ ] [Eryn](../../Characters%20%281%29/Eryn/%21index.md) was an assistant to [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md), imprisoned because she discovered he had been possessed by Tyranthraxus
+- [x] [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md) has one of the shards of the Gatekeeper’s Crystal
+- [x] [Eryn](../../Characters%20%281%29/Eryn/%21index.md) was an assistant to [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md), imprisoned because she discovered he had been possessed by Tyranthraxus
 - [ ] [Sahnd Krulek](../../Characters%20%281%29/Sahnd%20Krulek/%21index.md) serves as right-hand man to [Thurndan Tallwand](../../Characters%20%281%29/Thurndan%20Tallwand/%21index.md), believing his power will put an end to corruption across the Moonsea
 
 # TaleSpire Maps

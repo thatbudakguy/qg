@@ -2,7 +2,7 @@
 
 1375 DR: Senior Cloak Thurndan Tallwand, of Mulmaster's Brotherhood of the Cloak, imprisons High Blade Selfaril Mondar in a soulgem in the pommel of a sword so that his twin brother Rassendyll might rule in his place. 
 
-1470 DR: Curran Sunhearth, Chosen of Tymora, fakes his own death to avoid capture by agents of Thay in Mulmaster. His pregnant wife Ella Sunhearth leaves Mulmaster for the sleepy village of Elmwood.
+1470 DR: Curran Sunhearth, Chosen of Tymora (unbeknownst to him), fakes his own death to avoid capture by agents of Thay in Mulmaster. His pregnant wife Ella Sunhearth leaves Mulmaster for the sleepy village of Elmwood.
 
 1471 DR: Calcey Sunhearth is born to Ella in Elmwood. The child proves an able farmhand, lending her dexterity and willpower to many of Elmwood's families in exchange for a little coin.
 

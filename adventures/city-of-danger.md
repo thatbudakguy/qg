@@ -18,8 +18,9 @@ MORE IDEAS:
 - Brotherhood of the Cloak mages are reported to be snooping around somewhere (Steel Ave. house?)
 - Ector Brahms cuts a deal to send all of Stojanow Gate's prisoners off to Mulmaster (to be used as "fuel")
 - The out-of-work dockworkers and sailors of Phlan riot
-- Red Wizards are sighted in the cities of the Moonsea, including Phlan
+- Red Wizards are sighted in the cities of the Moonsea, including Phlan, moving slaves around
 - Calcey's old friend and mentor from her youth, Cere, is in Mulmaster
+- We need to see and play up Calcey's connections and learn about her youth here, and how it was idyllic, to have impact for Witchthorn to take it away
 
 ## NPCs
 - some sort of former colleague of calcey who needs the party to do a QPQ task for them (heist?) to get something
