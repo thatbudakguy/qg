@@ -236,7 +236,7 @@
 
 - What is your character’s relationship with magic? Are they scared of it, wish to know more about it, indifferent to it?
 
-- Who is your character’s biggest rival?
+- ~~Who is your character’s biggest rival?~~
 
 - What is your character’s guiltiest pleasure?
 

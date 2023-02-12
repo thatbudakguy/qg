@@ -2,20 +2,10 @@
 aliases: [Act 4, Act IV,  Act IV - "Enemy of My Enemy"]
 ---
 # Act IV - "Enemy of My Enemy"
-## Overview
-```mermaid
-graph TD
-
-%% nodes
-id1(Second Council of Waterdeep)
-id2(Cult Strikes Back, Pt. 2)
-id3(Metallic Dragons, Arise)
-id4(Dead in Thay)
-id5(Myth Ondath / Lorosfyr)
-id6(Candlekeep)
-
-%% links
-id1 --> id3
-id1 --> id4
-id6 --> id5
-```
+## Adventures
+### The Maddening Dark
+#### Hooks
+- Information at the Tower of Arcane Might reveals that Gensor sent the Doom Raiders to the Tortured Land in search of a shard.
+- Jendrick the Green and Maccath the Crimson of the Arcane Brotherhood send the party word that they discovered a book in the archives that describes a city in the North having been destroyed by a powerful artifact in the year 632 DR. The city was some kind of experiment in interracial unity, dedicated to the goddess Eldath, and protected by a now-destroyed _mythal_.
+### Mission to Thay
+#### Hooks

@@ -1,6 +1,10 @@
 # City of Danger
 ## Timeline
 ```timeline
++ Hammer, 1510 DR
++ Thay joins the Moonsea League
++ Mulmaster's attempt to create a new political entity gains traction when High Blade Drakehorn publicly announces that a trade agreement has been reached with Tola Zurn, Khazark of the Thayan enclave in Mulmaster.
+
 + Alturiak 24, 1510 DR
 + Devon Nanther leaves Phlan
 + [Aya Glemiir](../npcs/aya-glenmiir.md)'s student Devon Nanther of Melvaunt withdraws from her studies and returns home at the behest of his noble family.
@@ -8,9 +12,6 @@
 + Ches 2, 1510 DR
 + Attack on Thentia
 + When the Riders of Thentia and Watchlord Gelduth Blackturret refuse to allow Mulmasterite navy ships to dock at the city, the Mulman forces open fire with an arcane weapon of tremendous power, destroying the Watchlord's tower. The next day, Watchlord Blackturret pledges Thentia's support for the Moonsea league. 
-
-+ ???
-+ Thay joins the Moonsea League
 ```
 
 MORE IDEAS:
@@ -21,6 +22,7 @@ MORE IDEAS:
 - Red Wizards are sighted in the cities of the Moonsea, including Phlan, moving slaves around
 - Calcey's old friend and mentor from her youth, Cere, is in Mulmaster
 - We need to see and play up Calcey's connections and learn about her youth here, and how it was idyllic, to have impact for Witchthorn to take it away
+- Someone in Mulmaster saw the City Watch washing the decks of the _Dmitra Flass_ of blood after it returned from "sea trials"
 
 ## NPCs
 - some sort of former colleague of calcey who needs the party to do a QPQ task for them (heist?) to get something
@@ -59,3 +61,6 @@ THe Weapon is a deadlamp a la Locklands
 - the actual weapon itself is an apparatus involving chained, hooded captives and a "focusing" rig or "lens" with the crystal inside it, operated by a crew of several mages of the Brotherhood. it is currently mounted on board a ship, having been used recently in Thentia.
 
 We also learn that Thurndan was initially the one who sold the explosive magical devices to the cult in Waterdeep, which Peregrine used to blow up the temple. That was an early prototype that worked on the same principles as the crystal, before this weapon was created. The weapon using the crystal itself is "much cleaner!"
+
+#### Tower of Arcane Might
+_everything is fuckin trapped_
