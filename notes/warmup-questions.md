@@ -238,7 +238,7 @@
 
 - ~~Who is your character’s biggest rival?~~
 
-- What is your character’s guiltiest pleasure?
+- ~~What is your character’s guiltiest pleasure?~~
 
 - What does your character hope for the afterlife?
 

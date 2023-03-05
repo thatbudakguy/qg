@@ -42,7 +42,7 @@ _only fools concern themselves with limits to power_
 - Zhentarim mercenaries & privateers
 - Sahnd Krulek (with Lorica, a Thayan relic)
 ## Locations
-- _Dmitra Flass_, Mulman flagship in Bay of Mulmaster that holds Gensor's weapon
+- _Lady Dmitra_, Mulman flagship in Bay of Mulmaster that holds Gensor's weapon
 - Tower of the Wyvern in Mulmaster, meeting place of the League members when summoned
 - Tower of Arcane Might in Mulmaster, location of Gensor's laboratory
 - Thayan Embassy, located in the Thayan enclave, dwelling of Tola Zurn

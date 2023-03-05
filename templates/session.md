@@ -1,18 +1,19 @@
 ---
+act: 1
+episode: 1
 date: {{title}}
 ---
 # Session Notes {{title}}
 # Todo
-- [ ] make discord event
-- [ ] pick warmup question
-- [ ] recap of last session
-- [ ] prep opening
+- [x] make discord event
+- [x] pick warmup question
+- [x] recap of last session
 # Announcements
-- announcements
+- Who will play Peregrine?
 # Warmup
-> [!QUESTION] Question from [Warmup Questions](../warmup-questions.md) goes here!
+> [!QUESTION] The Gang retires and acquires a tavern. What is your character's job?
 # Recap
-[link]
+![a3e44](../logbook/act-iii/a3e44.md)
 # Scenes
 ## Opening
 an attention-grabbing way to start the session off.
