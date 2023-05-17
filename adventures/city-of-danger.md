@@ -69,13 +69,14 @@
 + Theft of the _Heart of Thay_
 + The Hangmen, under Groshin's direction and using a pick custom-made by Leon, steal the _Heart of Thay_ from Tola Vrass's chambers in the Thayan embassy. The theft is largely kept under wraps, but Gensor and the High Blade are furious at the diplomatic flap on their return 4 days later.
 
++ Ches 9, 1510 DR
++ Crackdown on Hangmen
++ While Gensor is out of the city, Audra Maskyr of the Watch and Soldiery conduct a combined arms retaliatory raid on the Zhent quarter, attempting to stamp out the Hangmen once and for all. Although many buildings are razed to the ground, the raid is largely a failure. Lady Alicia Milinal of Zhentil Keep lodges strenuous protest at this action.
+
 + Ches 12, 1510 DR
 + _Lady Dmitra_ returns to port
 + After her maiden voyage, the _Lady Dmitra_ returns to port amid whispers that "heavy seas" resulted in a substantial loss of crew. Some dockworkers tell of being forced to wash the decks of blood. Salvar Brix's sometime boyfriend, Cyprian Balefrost, is not among the crew who returned alive, raising the young wizard's suspicions.
 
-+ Ches 9, 1510 DR
-+ Crackdown on Hangmen
-+ While Gensor is out of the city, Audra Maskyr of the Watch and Soldiery conduct a combined arms retaliatory raid on the Zhent quarter, attempting to stamp out the Hangmen once and for all. Although many buildings are razed to the ground, the raid is largely a failure. Lady Alicia Milinal of Zhentil Keep lodges strenuous protest at this action.
 ```
 
 MORE IDEAS:
