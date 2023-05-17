@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 12,
-  "translucency": false,
+  "baseFontSize": 16,
+  "translucency": true,
   "cssTheme": "",
   "accentColor": "",
   "monospaceFontFamily": "Fira Code"

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3a84416777db4a5",
+        "id": "280bd565ffea566a",
         "type": "tabs",
         "children": [
           {
-            "id": "976f9a53c4faf136",
+            "id": "e19a26ecc3a5faac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2023-03-19.md",
+                "file": "sessions/2023-05-30.md",
                 "mode": "preview",
                 "source": true
               }
@@ -53,15 +53,23 @@
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
+            }
+          },
+          {
+            "id": "1cace24b8d5c81c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 238.5
   },
   "right": {
     "id": "ce5a3aa475259e47",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2023-03-19.md",
+                "file": "sessions/2023-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2023-03-19.md",
+                "file": "sessions/2023-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2023-03-19.md"
+                "file": "sessions/2023-05-30.md"
               }
             }
           },
@@ -141,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,34 +162,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "976f9a53c4faf136",
+  "active": "e19a26ecc3a5faac",
   "lastOpenFiles": [
-    "sessions/2023-03-05.md",
-    "sessions/2023-03-19.md",
-    "logbook/act-iii/a3e44.md",
-    "templates/session.md",
-    "sessions/2020-10-18.md",
-    "sessions/2020-10-14.md",
-    "sessions/2020-09-27.md",
-    "sessions/2020-09-16.md",
-    "sessions/2020-08-02.md",
-    "sessions/2020-07-22.md",
-    "sessions/2020-07-19.md",
-    "sessions/2020-07-15.md",
-    "sessions/2020-07-08.md",
-    "templates/log.md",
-    "logbook/act-iii/a3e43.md",
-    "logbook/act-iii/a3e42.md",
+    "logbook/act-iii/a3e49.md",
+    "sessions/2023-05-30.md",
+    "sessions/2023-05-16.md",
+    "Untitled.md",
+    "images/backgrounds/banquet_hall.png",
+    "images/backgrounds/gallery.png",
+    "images/backgrounds/ballroom.png",
+    "images/portraits/brandis_coldshore.png",
+    "images/portraits/demetrius_saj.png",
+    "images/portraits/maalthiir.png",
+    "images/portraits/maalthiir.png.crdownload",
+    "images/portraits/krsr_elderly_human_male_sorcerer_severe_and_punishing_fantasy_c_97a9c6a7-af6b-4bca-8f4e-c8863dde98c2.png",
+    "images/portraits/hal_nanther.png",
+    "images/portraits/tola_zurn.png",
+    "images/portraits/jaseen_drakehorn.png",
+    "adventures/castle-in-the-clouds.md",
     "adventures/city-of-danger.md",
-    "locations/mulmaster.md",
-    "sessions/2022-08-11.md",
-    "notes/warmup-questions.md",
-    "sessions/2023-02-26.md",
+    "sessions/2023-02-19.md",
     "articles/factions/moonsea-league.md",
-    "logbook/act-iii/a3e39.md",
-    "logbook/act-iii/a3e40.md",
-    "logbook/act-iii/a3e41.md",
-    "Untitled.canvas",
-    "locations/evereska/unicorn-and-crescent-inn.md"
+    "sessions/2023-02-12.md",
+    "adventures/cult-strikes-back-pt-1.md",
+    "sessions/2022-07-14.md",
+    "sessions/2022-06-30.md",
+    "logbook/act-i/tight-and-fit.md",
+    "sessions/2020-10-18.md",
+    "sessions/2023-05-09.md",
+    "logbook/act-iii/a3e48.md",
+    "templates/adventure.md",
+    "sessions/2023-05-02.md",
+    "sessions/2023-04-25.md",
+    "locations/mulmaster.md",
+    "logbook/act-iii/a3e47.md",
+    "sessions/2023-04-18.md",
+    "logbook/act-iii/a3e46.md",
+    "notes/warmup-questions.md",
+    "images/portraits/troglodyte.jpg.sb-0aa854cd-KoxX5W",
+    "images/portraits/troglodyte.jpg.crdownload",
+    "logbook/act-iii/a3e43.md",
+    "sessions/2020-11-01.md",
+    "Untitled.canvas"
   ]
 }
