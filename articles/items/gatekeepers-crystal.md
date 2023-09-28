@@ -21,5 +21,5 @@ An unforeseen characteristic of the failsafe is that the shards are "drawn" to l
 ## Shard locations
 
 - Recovered from the ruins of Hellgate Keep, now owned by [Thurndan Tallwand](../../Characters/Thurndan%20Tallwand/%21index.md), who refuses to allow it to be taken from Mulmaster and so can't precisely find the locations of the other shards.
-- Buried somewhere in the Tortured Lands, where it was used to raze Myth Ondath & later used by the Orc Shaman Uzgat in a ritual that implanted Magnar's memories in [Hagar](../../pcs/hagar-bloodrop.md). Later taken below the surface into the Underdark and kept in Lorosfyr, the Maddening Dark, by the Pale Sybil
+- Buried somewhere in the Tortured Lands, where it was used to raze Myth Ondath & later used by the Orc Shaman Uzgat in a ritual that implanted Magnar's memories in [Hagar](../../pcs/hagar-bloodrop.md). Later taken below the surface into the Underdark and kept in Lorosfyr, the Maddening Dark, by Selydra, the Pale Sybil
 - On the demiplane of Sildeyuir, overlapping the forest of Aglarond, where it was once used to imprison the Primal Spirit Magnar (and where Magnar still rests).

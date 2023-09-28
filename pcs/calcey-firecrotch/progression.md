@@ -24,7 +24,7 @@
 
 ## Act IV
 
-- At [candlekeep](../../../adventures/candlekeep.md), might learn how to banish or defeat TTX, or why he seeks the Gatekeeper's Crystal
+- At [candlekeep](../../adventures/candlekeep.md), might learn how to banish or defeat TTX, or why he seeks the Gatekeeper's Crystal
 
 ## Act V
 

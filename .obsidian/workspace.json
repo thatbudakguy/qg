@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "280bd565ffea566a",
+        "id": "0eba412e090fa4cf",
         "type": "tabs",
         "children": [
           {
-            "id": "e19a26ecc3a5faac",
+            "id": "de4e8ce9e22f2357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2023-05-30.md",
-                "mode": "preview",
+                "file": "sessions/2023-10-02.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jaeger",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 270.5
   },
   "right": {
     "id": "ce5a3aa475259e47",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2023-05-30.md",
+                "file": "sessions/2023-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2023-05-30.md",
+                "file": "sessions/2023-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2023-05-30.md"
+                "file": "sessions/2023-10-02.md"
               }
             }
           },
@@ -144,13 +144,22 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "372b7f4d44bdb297",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,12 +171,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e19a26ecc3a5faac",
+  "active": "de4e8ce9e22f2357",
   "lastOpenFiles": [
-    "logbook/act-iii/a3e49.md",
-    "sessions/2023-05-30.md",
-    "sessions/2023-05-16.md",
-    "Untitled.md",
+    "adventures/candlekeep.md",
+    "sessions/2023-10-02.md",
+    "adventures/hunting-the-shard.md",
+    "sessions/2023-09-25.md",
+    "sessions/2023-09-18.md",
+    "adventures/first-council-of-waterdeep.md",
+    "logbook/act-i/oh,-they-definitely-adventured.md",
+    "logbook/act-i/the-troll-hole.md",
+    "logbook/act-iii/a3e27.md",
+    "logbook/act-iii/a3e29.md",
+    "pcs/peregrine-buntly.md",
+    "adventures/corruption-in-kryptgarden.md",
+    "pcs/peregrine-buntly/timeline.md",
+    "pcs/peregrine-buntly/narrative.md",
+    "logbook/act-ii/a2e6.md",
+    "logbook/act-ii/a2e7.md",
+    "adventures/construction-ahead.md",
+    "sessions/2021-05-26.md",
+    "sessions/2021-05-16.md",
+    "sessions/2020-12-02.md",
+    "handouts/doom-raiders'-apology.md",
+    "campaign/act-iii.md",
+    "articles/items/gatekeepers-crystal.md",
+    "adventures/scroll-thief.md",
+    "adventures/outlaws-of-the-iron-route.md",
+    "places/sites",
+    "places/steadings",
+    "places/areas",
+    "places/regions",
+    "places",
+    "fronts",
     "images/backgrounds/banquet_hall.png",
     "images/backgrounds/gallery.png",
     "images/backgrounds/ballroom.png",
@@ -179,30 +215,8 @@
     "images/portraits/hal_nanther.png",
     "images/portraits/tola_zurn.png",
     "images/portraits/jaseen_drakehorn.png",
-    "adventures/castle-in-the-clouds.md",
-    "adventures/city-of-danger.md",
-    "sessions/2023-02-19.md",
-    "articles/factions/moonsea-league.md",
-    "sessions/2023-02-12.md",
-    "adventures/cult-strikes-back-pt-1.md",
-    "sessions/2022-07-14.md",
-    "sessions/2022-06-30.md",
-    "logbook/act-i/tight-and-fit.md",
-    "sessions/2020-10-18.md",
-    "sessions/2023-05-09.md",
-    "logbook/act-iii/a3e48.md",
-    "templates/adventure.md",
-    "sessions/2023-05-02.md",
-    "sessions/2023-04-25.md",
-    "locations/mulmaster.md",
-    "logbook/act-iii/a3e47.md",
-    "sessions/2023-04-18.md",
-    "logbook/act-iii/a3e46.md",
-    "notes/warmup-questions.md",
     "images/portraits/troglodyte.jpg.sb-0aa854cd-KoxX5W",
     "images/portraits/troglodyte.jpg.crdownload",
-    "logbook/act-iii/a3e43.md",
-    "sessions/2020-11-01.md",
     "Untitled.canvas"
   ]
 }

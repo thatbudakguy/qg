@@ -40,4 +40,3 @@ give the PCs a grand send-off: hundreds gathered in the harbor for the launch of
 - King Melandrach, true neutral male wild elf fighter/druid (Lord's Alliance — Wild Elves of the Realms)
 - Archmage Araevin Teshurr, chaotic good male elf wizard (Lord's Alliance — High Elves of the Realms)
 - Taern "Thunderspells" Hornblade, lawful good male human wizard (Lord's Alliance — Silverymoon)
-- Sir Isteval, lawful good male human paladin (Lord's Alliance — Cormyr)

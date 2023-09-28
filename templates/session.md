@@ -3,7 +3,6 @@ act: 3
 episode: 1
 date: {{title}}
 ---
-# Session Notes {{title}}
 # Todo
 - [ ] make discord event
 - [ ] pick warmup question
