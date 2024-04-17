@@ -1,0 +1,12 @@
+# Sunhearth Soulgem
+- Curran accepted the responsibility of becoming Tymora's chosen on the condition that he be anonymous. So, he faked his own death at the hands of Zhent moneylenders. It was the greatest regret of his life, because he never got to meet his daughter.
+- Curran was originally _imprisoned_ here as a sort of genie by Gensor.
+	- Gensor created a special holy symbol of Beshaba in order to trick Curran into being captured, where his luck couldn't hold out.
+- grants 3 uses of _wish_ spell, but as a PBTA move where you roll 2d6. dm's discretion, etc. DM asks "what could go wrong?"
+	- 1-6: you don't get your wish, and the consequences are dire
+	- 7-9: you get your wish, but there's a complication
+	- 10+: you get your wish
+	- the bigger the wish, the bigger the potential consequence.
+	- when the final use of _wish_ is expended, Curran's soul leaves the gem and it becomes a normal topaz.
+- while the gem is on your person, you have absurd luck at any game of chance you play.
+- a person holding the gem can speak directly with Curran. Curran has INT 17 (+3), CHA 20 (+5), and WIS 13 (+1).

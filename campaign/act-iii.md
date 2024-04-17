@@ -29,10 +29,10 @@ id5 -->|arcane brotherhood| id4
 ### [Waterdeep](../adventures/first-council-of-waterdeep.md)
 
 - The PCs meet the delegates to the First Council of Waterdeep:
-    - [Davil Starsong](../../Characters%20%281%29/Davil%20Starsong/%21index.md), who is acting as an aide to Dagult and isn’t explicitly acknowledged as [zhentarim](../articles/factions/zhentarim.md) (travels with Ziraj as bodyguard)
-    - [Ontharr Frume](../../Characters%20%281%29/Ontharr%20Frume.md), representing the [order-of-the-gauntlet](../articles/factions/order-of-the-gauntlet.md)
-    - [Remallia Haventree](../../Characters%20%281%29/Remallia%20Haventree/%21index.md), representing the [harpers](../articles/factions/harpers.md) (and maybe Renaer)
-    - Sir Isteval (Cormyr), Ahash Al-Mandi (Calimshan), etc. representing the [lords-alliance](../articles/factions/lords-alliance.md) (see adventure)
+    - [Davil Starsong](../../Characters%20%281%29/Davil%20Starsong/%21index.md), who is acting as an aide to Dagult and isn’t explicitly acknowledged as [zhentarim](../factions/zhentarim.md) (travels with Ziraj as bodyguard)
+    - [Ontharr Frume](../../Characters%20%281%29/Ontharr%20Frume.md), representing the [order-of-the-gauntlet](../factions/order-of-the-gauntlet.md)
+    - [Remallia Haventree](../../Characters%20%281%29/Remallia%20Haventree/%21index.md), representing the [harpers](../factions/harpers.md) (and maybe Renaer)
+    - Sir Isteval (Cormyr), Ahash Al-Mandi (Calimshan), etc. representing the [lords-alliance](../factions/lords-alliance.md) (see adventure)
 - Clue leading to the Sea of Moving Ice
 
 ### [Sea of Moving Ice]

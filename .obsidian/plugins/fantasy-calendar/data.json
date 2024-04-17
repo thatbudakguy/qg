@@ -196,8 +196,8 @@
         "eras": []
       },
       "current": {
-        "day": 30,
-        "month": 3,
+        "day": 1,
+        "month": 5,
         "year": 1510
       },
       "events": [
@@ -422,6 +422,30 @@
           "id": "ID_a9588a5bb8fa",
           "note": "adventures/second-council-of-waterdeep",
           "category": null
+        },
+        {
+          "name": "Tiamat's Return",
+          "description": "",
+          "date": {
+            "day": 25,
+            "month": 7,
+            "year": 1510
+          },
+          "id": "ID_289b385a289a",
+          "note": null,
+          "category": "natural-events"
+        },
+        {
+          "name": "Selydra Defeated",
+          "description": null,
+          "date": {
+            "day": 21,
+            "month": 4,
+            "year": 1510
+          },
+          "id": "ID_599bbb0b7abb",
+          "note": null,
+          "category": "ID_f96beb69ab59"
         }
       ],
       "id": "ID_a888291a196b",

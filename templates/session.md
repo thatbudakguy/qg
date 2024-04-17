@@ -1,10 +1,9 @@
 ---
-act: 3
+act: 4
 episode: 1
 date: {{title}}
 ---
 # Todo
-- [ ] make discord event
 - [ ] pick warmup question
 - [ ] recap of last session
 # Announcements

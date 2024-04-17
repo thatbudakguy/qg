@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0eba412e090fa4cf",
+        "id": "037f6ebc5a236024",
         "type": "tabs",
         "children": [
           {
-            "id": "de4e8ce9e22f2357",
+            "id": "28212cc5dfbd4d38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/2023-10-02.md",
+                "file": "adventures/metallic-dragons-arise.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jaeger",
+                "query": "scale of tiamat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 289.5
   },
   "right": {
     "id": "ce5a3aa475259e47",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/2023-10-02.md",
+                "file": "adventures/metallic-dragons-arise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/2023-10-02.md",
+                "file": "adventures/metallic-dragons-arise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/2023-10-02.md"
+                "file": "adventures/metallic-dragons-arise.md"
               }
             }
           },
@@ -151,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -171,52 +173,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de4e8ce9e22f2357",
+  "active": "28212cc5dfbd4d38",
   "lastOpenFiles": [
-    "adventures/candlekeep.md",
-    "sessions/2023-10-02.md",
-    "adventures/hunting-the-shard.md",
-    "sessions/2023-09-25.md",
-    "sessions/2023-09-18.md",
-    "adventures/first-council-of-waterdeep.md",
+    "sessions/2024-04-04.md",
+    "items/scale-of-tiamat.md",
+    "sessions/2023-10-10.md",
+    "fronts/All Fronts.md",
+    "handouts/research-for-declan,-uktar-4.md",
+    "sessions/2023-10-24.md",
+    "sessions/2023-10-17.md",
+    "pcs/peregrine-buntly/progression.md",
+    "sessions/2024-01-25.md",
+    "sessions/2023-12-18.md",
+    "sessions/2024-01-08.md",
+    "sessions/2024-03-28.md",
+    "adventures/metallic-dragons-arise.md",
+    "adventures/mission-to-thay.md",
+    "pcs/declan-truefire/winter-1509.md",
+    "sessions/2021-02-24.md",
+    "pcs/declan-truefire/progression.md",
+    "logbook/act-i/a-man-on-the-inside.md",
     "logbook/act-i/oh,-they-definitely-adventured.md",
-    "logbook/act-i/the-troll-hole.md",
-    "logbook/act-iii/a3e27.md",
-    "logbook/act-iii/a3e29.md",
-    "pcs/peregrine-buntly.md",
-    "adventures/corruption-in-kryptgarden.md",
-    "pcs/peregrine-buntly/timeline.md",
-    "pcs/peregrine-buntly/narrative.md",
-    "logbook/act-ii/a2e6.md",
-    "logbook/act-ii/a2e7.md",
-    "adventures/construction-ahead.md",
-    "sessions/2021-05-26.md",
-    "sessions/2021-05-16.md",
-    "sessions/2020-12-02.md",
-    "handouts/doom-raiders'-apology.md",
-    "campaign/act-iii.md",
-    "articles/items/gatekeepers-crystal.md",
-    "adventures/scroll-thief.md",
-    "adventures/outlaws-of-the-iron-route.md",
+    "locations/evereska/unicorn-and-crescent-inn.md",
+    "npcs/eryn-ainath.md",
+    "images/icons/items.jpg",
+    "sessions/2022-04-14.md",
+    "sessions/2023-05-02.md",
+    "sessions/2023-02-26.md",
+    "sessions/2023-02-12.md",
+    "sessions/2023-01-29.md",
+    "Progression",
+    "adventures/The Maddening Dark",
+    "images/backgrounds/burned_village.webp",
+    "images/backgrounds/plains_town.webp",
+    "images/backgrounds/mines.webp",
+    "images/battlemaps/mine_pit.webp",
+    "images/portraits/duergar_kavalrachni.webp",
+    "images/portraits/duergar_mind_master.webp",
+    "images/portraits/duergar_hammerer.webp",
+    "images/portraits/duergar.webp",
+    "images/portraits/peregrine_ai.webp",
+    "logbook/act-iv",
     "places/sites",
     "places/steadings",
     "places/areas",
     "places/regions",
     "places",
     "fronts",
-    "images/backgrounds/banquet_hall.png",
-    "images/backgrounds/gallery.png",
-    "images/backgrounds/ballroom.png",
-    "images/portraits/brandis_coldshore.png",
-    "images/portraits/demetrius_saj.png",
-    "images/portraits/maalthiir.png",
     "images/portraits/maalthiir.png.crdownload",
-    "images/portraits/krsr_elderly_human_male_sorcerer_severe_and_punishing_fantasy_c_97a9c6a7-af6b-4bca-8f4e-c8863dde98c2.png",
-    "images/portraits/hal_nanther.png",
-    "images/portraits/tola_zurn.png",
-    "images/portraits/jaseen_drakehorn.png",
-    "images/portraits/troglodyte.jpg.sb-0aa854cd-KoxX5W",
-    "images/portraits/troglodyte.jpg.crdownload",
     "Untitled.canvas"
   ]
 }

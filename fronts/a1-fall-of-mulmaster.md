@@ -33,9 +33,3 @@ To maintain the status quo
 - [ ] Martial law is declared and summary executions are legalized
 #### Impending Doom
 Tyranny
-## Custom Moves
-### Submit to Judgement
-When you **stand in the presence of the Light From Beyond**, roll +WIS.
-- On a 10+ you are judged worthy, the Argent Seraphim will grant you a vision or boon.
-- On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways.
-- On a miss, thou art weighed in the balance and art found wanting.

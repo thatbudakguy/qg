@@ -1,7 +1,0 @@
-# Lord's Alliance
-
-“The Lords’ Alliance” is not a metaphor. This organization was created and is led by leaders and nobles from across Faerun. Although many of its members have conflicting goals and long-standing rivalries outside the alliance, they band together in the face of events that are too big for any of them to handle on their own. The rulers of Waterdeep, Silverymoon, Baldur’s Gate, and other cities, families, and trading houses of the Sword Coast might never set aside their differences, but they can pull together when the survival of all depends on it.
-
-The Lords’ Alliance represents the richest interests and the most powerful armies on the Sword Coast. The order controls wealth that can hire mercenaries, ensure the loyalty of wavering princes, and possibly even bribe a few chromatic dragons to switch sides or break from Tiamat’s cause. Without the help of the alliance against the [cult-of-the-dragon](cult-of-the-dragon.md) , the Dragon Queen’s victory might be assured.
-
-Fighters and sorcerers are plentiful in the Lords’ Alliance, but the order takes on any character who feels at home in civilized lands. Barbarians, rangers, and druids are seldom involved with this faction, which sometimes leads to strained relations with the [emerald-enclave](emerald-enclave.md).

@@ -11,7 +11,7 @@ Bryce mentions leaving his house to ensure the safety of himself and his son, an
 
 The Gang make their way over to the manicured gardens of Valhingen graveyard as the sun sets in order to scope out a location in which to spring their trap for the Tears of Virulence. With the aid of Doomguide [yovir-glandon](../../npcs/yovir-glandon.md), they settle on a location in the more rugged northeastern section of the graveyard that offers ample cover.
 
-Contacting [Sirge Wintermelt](../Characters/Sirge%20Wintermelt/%21index.md) via a *sending* spell, the Gang discover that Lt. [cron-bolver](../../npcs/cron-bolver.md) eagerly accepted Sirge's bogus cult credentials, being desperate for new information about the plot to take over Phlan. Evidently the Tears of Virulence had not managed to connect with their cutout in the [cult-of-the-dragon](../../articles/factions/cult-of-the-dragon.md) for nearly a month.
+Contacting [Sirge Wintermelt](../Characters/Sirge%20Wintermelt/%21index.md) via a *sending* spell, the Gang discover that Lt. [cron-bolver](../../npcs/cron-bolver.md) eagerly accepted Sirge's bogus cult credentials, being desperate for new information about the plot to take over Phlan. Evidently the Tears of Virulence had not managed to connect with their cutout in the [cult-of-the-dragon](../../factions/cult-of-the-dragon.md) for nearly a month.
 
 Hearing that the [lord-sage](../../npcs/lord-sage.md), as well as the Lord Regent himself plan to be present for the trap, Yovir resolves that the fate of Phlan may well be on the line, and commits  to offering the services of the faithful of Kelemvor for whatever assistance they can provide – magical or otherwise.
 
