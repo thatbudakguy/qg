@@ -1,1 +1,0 @@
-# The Cult Strikes Back, Pt. 3
