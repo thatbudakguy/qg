@@ -3,3 +3,6 @@
 
 # obisidian workspace setup
 .obsidian/workspace
+
+# vscode settings
+.vscode
